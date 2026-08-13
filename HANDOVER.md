@@ -23,11 +23,13 @@ Website pencarian beasiswa PhD niche: humanitarian studies, conflict health, glo
 | Item | Status |
 |---|---|
 | Repo + frontend + scripts + logo | ✅ |
-| Workflow files (`weekly-source.yml`, `daily-poll.yml`) | ✅ terupload |
+| Workflow `weekly-source.yml` | ✅ (auto-publish TANPA approval) |
+| Workflow `daily-poll.yml` | ⛔ **DISABLED** — approval dihapus atas permintaan Prinsipal |
 | GitHub Secrets (6): `DEEPSEEK_API_KEY`, `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID`, `GH_TOKEN`, `CLOUDFLARE_API_TOKEN`, `CLOUDFLARE_ACCOUNT_ID` | ✅ terisi |
-| Auto-deploy workflow → Cloudflare Pages | ✅ (step wrangler di kedua workflow) |
+| Auto-deploy workflow → Cloudflare Pages | ✅ (step wrangler di weekly-source) |
 | Cloudflare Pages project + deploy | ✅ LIVE di `scholarship-ummanitarian.pages.dev` |
-| Trial end-to-end (sourcing → TG → approve → deploy) | ✅ 8 beasiswa approved tampil |
+| Sourcing 25 universitas target (Swedia, Italia, Belanda, AU/NZ, UK) | ✅ ditambahkan, mode knowledge |
+| Link verification (semua link HTTP 200 sebelum tayang) | ✅ 109 item live (42 direct + 67 halaman resmi universitas) |
 | CNAME subdomain `scholarship.ummanitarian.org` | ⬜ BELUM — di panel idwebhost (5D) |
 | Jotform subscriber form | ⬜ BELUM — form belum dibuat (5E) |
 | Affiliate links (Grammarly/Magoosh) | ⬜ opsional (5F) |
@@ -62,15 +64,17 @@ index.html / style.css / app.js  ← frontend (EN default + toggle ID)
 _headers                  ← config keamanan Cloudflare Pages
 ```
 
-## 5. ALUR KERJA NORMAL (sudah jalan otomatis)
+## 5. ALUR KERJA NORMAL (sudah jalan otomatis — TANPA approval)
 
 ```
-SENIN 09.00 WIB → weekly-source: source.py (50+ portal → DeepSeek) → pending.json → notify TG (tombol ACC) → auto-deploy CF Pages
-SEPANJANG HARI  → operator klik ✅/❌ di Telegram
-HARIAN 06.00 WIB → daily-poll: poll_approve.py → approved masuk scholarships.json → auto-deploy → website live
+SENIN 09.00 WIB → weekly-source: source.py (75+ sumber incl. 25 universitas target → DeepSeek) → langsung tulis scholarships.json (auto-publish) → commit → auto-deploy CF Pages
 ```
 
-**Trigger manual** (tanpa tunggu jadwal): Repo → Actions → workflow → Run workflow. Atau via API dispatch (pakai `GH_TOKEN`).
+- **TIDAK ada lagi tombol ACC Telegram** — approval dihapus (Prinsipal: macet & tidak efisien). Semua hasil sourcing langsung tayang.
+- `daily-poll.yml` + `poll_approve.py` + `notify_telegram.py` tidak dipakai (daily-poll di-disable; script boleh dihapus/arsip).
+- **Link verification:** sebelum item masuk list, `official_link` harus HTTP 200 (direct atau halaman beasiswa resmi universitas). Item tanpa link terverifikasi TIDAK di-list (aturan Prinsipal).
+
+**Trigger manual:** Repo → Actions → Weekly Scholarship Sourcing → Run workflow. Atau API dispatch dengan `GH_TOKEN`.
 
 ## 6. SISA TUGAS (untuk Claude)
 
