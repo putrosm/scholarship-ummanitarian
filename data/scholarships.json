@@ -20,7 +20,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": null,
+    "official_link": "https://www.google.com/search?q=CEU%20Doctoral%20Scholarship%20Central%20European%20University%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The CEU Doctoral Scholarship covers full tuition and provides a monthly stipend of 2,002 EUR (gross) for up to 48 months to support housing and living costs. It is awarded based on academic merit to PhD candidates who apply by the financial aid deadline.",
@@ -46,7 +46,8 @@
     "source_name": "CEU Vienna",
     "sponsored": false,
     "sent_to_telegram": "2026-08-13 21:25",
-    "date_approved": "2026-08-13"
+    "date_approved": "2026-08-13",
+    "link_verified": false
   },
   {
     "id": "ec1734e138f5",
@@ -60,7 +61,7 @@
     "funding_type": "partial",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.graduateinstitute.ch/academic-departments/humanitarian-action",
+    "official_link": "https://www.google.com/search?q=Graduate%20Institute%20Geneva%20-%20Master%20of%20Advanced%20Studies%20%28MAS%29%20Scholarships%20in%20Humanitarian%20Action%20Graduate%20Institute%20Geneva%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The Graduate Institute offers scholarships for its Master of Advanced Studies in Humanitarian Action, a program designed for professionals in humanitarian and disaster management fields. These scholarships are partial and awarded based on merit and financial need. They help cover tuition fees for the one-year program.",
@@ -93,7 +94,8 @@
     "source_name": "Graduate Institute Geneva",
     "sponsored": false,
     "sent_to_telegram": "2026-08-13 21:25",
-    "date_approved": "2026-08-13"
+    "date_approved": "2026-08-13",
+    "link_verified": false
   },
   {
     "id": "6f6ca131e1fe",
@@ -109,7 +111,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.graduateinstitute.ch/research/research-centres",
+    "official_link": "https://www.google.com/search?q=Graduate%20Institute%20Geneva%20-%20PhD%20Fellowships%20%28from%20Research%20Projects%29%20Graduate%20Institute%20Geneva%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "Various research centres at the Graduate Institute, such as the Global Health Centre and the Centre on Conflict, Development and Peacebuilding, occasionally offer fully funded PhD fellowships tied to specific research projects. These positions include a salary or stipend and cover tuition. Fields include conflict health, global health, and forced migration.",
@@ -142,7 +144,8 @@
     "source_name": "Graduate Institute Geneva",
     "sponsored": false,
     "sent_to_telegram": "2026-08-13 21:25",
-    "date_approved": "2026-08-13"
+    "date_approved": "2026-08-13",
+    "link_verified": false
   },
   {
     "id": "1ea05a103bfb",
@@ -159,7 +162,7 @@
     "funding_type": "partial",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.graduateinstitute.ch/admissions/funding",
+    "official_link": "https://www.google.com/search?q=Graduate%20Institute%20Geneva%20-%20Excellence%20Scholarships%20Graduate%20Institute%20Geneva%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The Graduate Institute offers merit-based scholarships to outstanding master's and PhD candidates. These awards partially cover tuition fees and are available across all programs, including those in humanitarian studies, global health, and forced migration. The exact amount and number of awards vary each year.",
@@ -192,7 +195,8 @@
     "source_name": "Graduate Institute Geneva",
     "sponsored": false,
     "sent_to_telegram": "2026-08-13 21:25",
-    "date_approved": "2026-08-13"
+    "date_approved": "2026-08-13",
+    "link_verified": false
   },
   {
     "id": "5ee892e8e3cd",
@@ -240,7 +244,8 @@
     "source_name": "Erasmus Mundus",
     "sponsored": false,
     "sent_to_telegram": "2026-08-13 21:25",
-    "date_approved": "2026-08-13"
+    "date_approved": "2026-08-13",
+    "link_verified": true
   },
   {
     "id": "a70105a84fdb",
@@ -255,7 +260,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.gloh-master.eu/",
+    "official_link": "https://www.google.com/search?q=Erasmus%20Mundus%20Joint%20Master%20in%20Global%20Health%20%28GLOH%29%20Universit%C3%A9%20de%20Bordeaux%20%28coordinating%29%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "This EMJM focuses on global health challenges, including health in conflict and crisis settings. It provides full scholarships for international students, with a curriculum spanning multiple European universities.",
@@ -288,7 +293,8 @@
     "source_name": "Erasmus Mundus",
     "sponsored": false,
     "sent_to_telegram": "2026-08-13 21:25",
-    "date_approved": "2026-08-13"
+    "date_approved": "2026-08-13",
+    "link_verified": false
   },
   {
     "id": "44c9f2f1ff98",
@@ -336,7 +342,8 @@
     "source_name": "Erasmus Mundus",
     "sponsored": false,
     "sent_to_telegram": "2026-08-13 21:25",
-    "date_approved": "2026-08-13"
+    "date_approved": "2026-08-13",
+    "link_verified": true
   },
   {
     "id": "cbfe428f5452",
@@ -351,7 +358,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://masterpublichealthdisasters.es/",
+    "official_link": "https://www.google.com/search?q=Erasmus%20Mundus%20Joint%20Master%20in%20Public%20Health%20in%20Disasters%20Universidad%20de%20Oviedo%20%28coordinating%29%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "This Erasmus Mundus Joint Master (EMJM) focuses on public health in disaster settings, covering preparedness, response, and recovery. It offers full scholarships to non-EU and EU students, funded by the European Commission.",
@@ -362,7 +369,8 @@
     "source_name": "Erasmus Mundus",
     "sponsored": false,
     "sent_to_telegram": "2026-08-13 21:25",
-    "date_approved": "2026-08-13"
+    "date_approved": "2026-08-13",
+    "link_verified": false
   },
   {
     "id": "7383848125d2",
@@ -378,7 +386,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.graduateinstitute.ch/admissions/scholarships",
+    "official_link": "https://www.google.com/search?q=Swiss%20Government%20Excellence%20Scholarships%20Graduate%20Institute%20Geneva%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "Offered by the Swiss Confederation for foreign researchers and artists, this scholarship supports doctoral and postdoctoral studies at Swiss universities, including the Graduate Institute Geneva. It covers monthly stipend, tuition fees, health insurance, and travel expenses. Fields include social sciences, law, and international relations, relevant to humanitarian and global health topics.",
@@ -409,7 +417,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Graduate Institute Geneva",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "057c4440a134",
@@ -426,7 +435,7 @@
     "funding_type": "partial",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.graduateinstitute.ch/admissions/scholarships",
+    "official_link": "https://www.google.com/search?q=Graduate%20Institute%20Excellence%20Scholarships%20Graduate%20Institute%20Geneva%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "Merit-based scholarships awarded by the Graduate Institute to outstanding master's and PhD candidates. They provide partial tuition fee waivers or stipends, depending on the program. Available across all departments, including international law, political science, and development studies, which cover humanitarian and migration topics.",
@@ -457,7 +466,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Graduate Institute Geneva",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "7d55cd780587",
@@ -472,7 +482,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.graduateinstitute.ch/admissions/scholarships",
+    "official_link": "https://www.google.com/search?q=Fondation%20Hans%20Wilsdorf%20Scholarships%20Graduate%20Institute%20Geneva%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "Funded by the Hans Wilsdorf Foundation, these scholarships support master's students at the Graduate Institute with full tuition and living expenses. They target students with strong academic records and financial need, particularly in fields related to international affairs, including humanitarian and health studies.",
@@ -503,7 +513,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Graduate Institute Geneva",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "ab1aa9f0da6d",
@@ -519,7 +530,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.snf.ch/en/funding",
+    "official_link": "https://www.google.com/search?q=Swiss%20National%20Science%20Foundation%20%28SNSF%29%20Doc.CH%20and%20Postdoc.Mobility%20Fellowships%20Graduate%20Institute%20Geneva%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "SNSF fellowships support doctoral and postdoctoral research at Swiss institutions, including the Graduate Institute. They provide salary, research costs, and mobility allowances. These are competitive grants open to researchers in all disciplines, including humanitarian and global health fields.",
@@ -550,7 +561,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Graduate Institute Geneva",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "d0aa2467150b",
@@ -564,7 +576,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.icrc.org/en/what-we-do/education-and-research",
+    "official_link": "https://www.google.com/search?q=ICRC%20Fellowship%20for%20Doctoral%20Studies%20in%20International%20Humanitarian%20Law%20Various%20%28in%20partnership%20with%20the%20ICRC%29%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The ICRC offers doctoral fellowships to support research in international humanitarian law, often in collaboration with academic institutions. The fellowship covers tuition and living expenses for selected candidates.",
@@ -595,7 +607,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "ICRC Fellowship",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "9dde569a7ec2",
@@ -641,7 +654,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "ICRC Fellowship",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "13c258da8f8d",
@@ -687,7 +701,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "ICRC Fellowship",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "d5511cec2dcd",
@@ -701,7 +716,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.ox.ac.uk/",
+    "official_link": "https://www.google.com/search?q=ICRC%20Fellowship%20for%20Research%20on%20Disaster%20Management%20and%20Humanitarian%20Response%20University%20of%20Oxford%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "This fellowship supports research on disaster preparedness and humanitarian response, with a focus on legal and operational frameworks. It is open to PhD candidates and includes a full stipend.",
@@ -725,7 +740,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "ICRC Fellowship",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "5ab8ca0beb29",
@@ -763,7 +779,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "ICRC Fellowship",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "61c1c1a41b43",
@@ -778,7 +795,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": null,
+    "official_link": "https://www.google.com/search?q=OpportunityDesk%20PhD%20Scholarships%20OpportunityDesk%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "OpportunityDesk offers fully funded PhD scholarships for international students across various disciplines, including humanitarian studies and global health. The scholarship covers tuition, living expenses, and research costs. It is designed to support doctoral research in fields relevant to global challenges.",
@@ -802,7 +819,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "OpportunityDesk",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "06c5a6770030",
@@ -817,7 +835,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.campusfrance.org/en/doctoral-fellowships",
+    "official_link": "https://www.google.com/search?q=Campus%20France%20Doctoral%20Fellowships%20for%20International%20Students%20Campus%20France%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "Campus France offers various doctoral fellowships to international students pursuing PhDs in France, often in partnership with French research institutions. These fellowships typically include a monthly stipend, social security, and research support, with eligibility across disciplines including health and humanitarian fields.",
@@ -841,7 +859,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Campus France",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "4a0bea0230e6",
@@ -865,7 +884,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Campus France",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "b786de8e1adb",
@@ -880,7 +900,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": null,
+    "official_link": "https://www.google.com/search?q=NORAD%20PhD%20Fellowship%20Programme%20NORAD%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "NORAD, the Norwegian Agency for Development Cooperation, funds PhD fellowships for researchers from developing countries, often in partnership with Norwegian universities. It supports research relevant to development, including health and humanitarian issues, with full funding for tuition and living costs.",
@@ -911,7 +931,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "NORAD",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "18d3645a1850",
@@ -926,7 +947,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": null,
+    "official_link": "https://www.google.com/search?q=Norwegian%20Government%20Quota%20Scheme%20%28for%20PhD%20candidates%29%20NORAD%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The Quota Scheme, administered by the Norwegian government and coordinated with NORAD, provides full funding for PhD students from developing countries at Norwegian universities. It covers tuition, living expenses, and travel, with a focus on fields relevant to development cooperation.",
@@ -957,7 +978,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "NORAD",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "a1616910ebe3",
@@ -972,7 +994,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": null,
+    "official_link": "https://www.google.com/search?q=NORAD-Research%20Council%20of%20Norway%20Joint%20PhD%20Fellowships%20NORAD%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "Jointly funded by NORAD and the Research Council of Norway, these fellowships support PhD research in areas such as humanitarian response, health in conflict, and sustainable development. They are typically hosted at Norwegian universities and offer full funding for 3-4 years.",
@@ -1003,7 +1025,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "NORAD",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "2a4c3e0d754a",
@@ -1018,7 +1041,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.oph.fi/en/education-and-qualifications/edufi-fellowships",
+    "official_link": "https://www.google.com/search?q=EDUFI%20Fellowship%20for%20Doctoral%20Studies%20EDUFI%20Finland%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The EDUFI Fellowship is a national scholarship offered by the Finnish National Agency for Education (EDUFI) to international doctoral students at Finnish universities. It provides a monthly allowance for 3-12 months to support doctoral research in Finland, including fields like global health and forced migration. The grant is intended to cover living costs, and the host university typically provides supervision and facilities.",
@@ -1027,7 +1050,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "EDUFI Finland",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "1fae289a1abb",
@@ -1042,7 +1066,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.oph.fi/en/education-and-qualifications/finnish-government-scholarship-pool",
+    "official_link": "https://www.google.com/search?q=Finnish%20Government%20Scholarship%20Pool%20for%20Doctoral%20Studies%20EDUFI%20Finland%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "This scholarship pool, administered by EDUFI, offers funding for doctoral studies at Finnish universities for international students. It provides a monthly allowance and covers tuition fees for up to 4 years, depending on the university's agreement. It is open to all fields, including humanitarian and health-related disciplines, and is awarded based on academic merit and research plan.",
@@ -1073,7 +1097,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "EDUFI Finland",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "fde2b958f05d",
@@ -1088,7 +1113,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.oph.fi/en/education-and-qualifications/edufi-doctoral-research-grants",
+    "official_link": "https://www.google.com/search?q=EDUFI%20Doctoral%20Research%20Grant%20%28for%20International%20Students%29%20EDUFI%20Finland%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "This grant supports international doctoral researchers who have been accepted into a doctoral program at a Finnish university. It provides a monthly stipend for up to 12 months, enabling full-time research in Finland. The grant is competitive and open to all disciplines, with priority given to research areas aligned with Finnish national priorities, including health and migration studies.",
@@ -1097,7 +1122,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "EDUFI Finland",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "c8381488758a",
@@ -1122,7 +1148,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Croatia Gov",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "a979f0752eb1",
@@ -1146,7 +1173,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Croatia Gov",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "1427354c91a0",
@@ -1161,7 +1189,7 @@
     "funding_type": "partial",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.mzo.gov.hr/",
+    "official_link": "https://www.google.com/search?q=Croatian%20Government%20Scholarships%20for%20International%20Students%20%28PhD%20level%29%20Croatia%20Gov%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The Croatian Ministry of Science and Education offers scholarships to international students for doctoral studies at Croatian universities. These scholarships typically cover tuition fees and provide a monthly stipend, though they may not cover all living costs.",
@@ -1170,7 +1198,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Croatia Gov",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "75af67613398",
@@ -1186,7 +1215,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.snf.ch/en/funding/doctoral-programmes",
+    "official_link": "https://www.google.com/search?q=Swiss%20National%20Science%20Foundation%20%28SNSF%29%20Doctoral%20Fellowship%20Graduate%20Institute%20Geneva%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "SNSF provides competitive doctoral fellowships for PhD students at Swiss institutions, including the Graduate Institute. Funding covers salary, research costs, and travel, and is awarded based on academic excellence and project quality.",
@@ -1217,7 +1246,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Graduate Institute Geneva",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "9f8ebca072d9",
@@ -1233,7 +1263,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.qf.org.qa/education/graduate",
+    "official_link": "https://www.google.com/search?q=Qatar%20Foundation%20Graduate%20Assistantship%20Qatar%20Foundation%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "Qatar Foundation offers graduate assistantships to PhD students at its partner universities (e.g., Hamad Bin Khalifa University), covering tuition, monthly stipend, and health insurance. These are available across various programs, including those in health, social sciences, and humanities, supporting research in fields like global health and forced migration.",
@@ -1264,7 +1294,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Qatar Foundation",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "4e1212af9507",
@@ -1280,7 +1311,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.hbku.edu.qa/en/graduate-studies",
+    "official_link": "https://www.google.com/search?q=Hamad%20Bin%20Khalifa%20University%20%28HBKU%29%20PhD%20Fellowship%20Qatar%20Foundation%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "HBKU, a Qatar Foundation university, provides fully funded PhD fellowships to admitted students, including tuition waivers, a monthly stipend, and research support. These fellowships are available across its colleges, including the College of Health and Life Sciences and the College of Islamic Studies, which may cover topics in global health and humanitarian law.",
@@ -1311,7 +1342,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Qatar Foundation",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "9b5793d11ee0",
@@ -1326,7 +1358,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.qf.org.qa/research/qrlp",
+    "official_link": "https://www.google.com/search?q=Qatar%20Research%20Leadership%20Program%20%28QRLP%29%20Qatar%20Foundation%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The Qatar Research Leadership Program, administered by Qatar Foundation, supports PhD students and postdoctoral researchers with full funding, including stipends and research expenses. It is designed to develop research leaders in priority areas, including health and social sciences, relevant to humanitarian and global health studies.",
@@ -1357,7 +1389,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Qatar Foundation",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "3672086a5a3b",
@@ -1382,7 +1415,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Kuwait Foundation",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "a716aa32d5bf",
@@ -1397,7 +1431,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.aku.edu/admissions/graduate/Pages/home.aspx",
+    "official_link": "https://www.google.com/search?q=Aga%20Khan%20University%20Graduate%20Fellowship%20Aga%20Khan%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "Aga Khan University offers graduate fellowships for PhD students across its faculties, including health sciences and related fields. The fellowship typically covers tuition, stipend, and research costs for full-time doctoral study.",
@@ -1428,7 +1462,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Aga Khan",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "4d1d93e99362",
@@ -1474,7 +1509,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Aga Khan",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "b753335bd94a",
@@ -1512,7 +1548,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Aga Khan",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "64bd782f7264",
@@ -1526,7 +1563,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": null,
+    "official_link": "https://www.google.com/search?q=ICRC%20Doctoral%20Fellowship%20in%20International%20Humanitarian%20Law%20ICRC%20Fellowship%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The ICRC offers a doctoral fellowship for researchers focusing on international humanitarian law, providing funding and access to ICRC resources. It supports PhD candidates conducting advanced research on legal frameworks governing armed conflict.",
@@ -1535,7 +1572,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "ICRC Fellowship",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "6f602d3e4532",
@@ -1549,7 +1587,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": null,
+    "official_link": "https://www.google.com/search?q=ICRC%20PhD%20Fellowship%20in%20Conflict%20and%20Health%20ICRC%20Fellowship%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "This fellowship supports doctoral research on the intersection of armed conflict and public health, including topics like healthcare access in war zones and disease outbreaks. It provides funding and collaboration with ICRC health experts.",
@@ -1573,7 +1611,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "ICRC Fellowship",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "37ab7558d567",
@@ -1587,7 +1626,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": null,
+    "official_link": "https://www.google.com/search?q=ICRC%20Doctoral%20Studentship%20in%20Forced%20Migration%20and%20Displacement%20ICRC%20Fellowship%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "A doctoral studentship for research on forced migration, displacement, and humanitarian responses, offering funding and access to ICRC field operations. It aims to advance knowledge on protection and assistance for displaced populations.",
@@ -1611,7 +1650,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "ICRC Fellowship",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "531148c83292",
@@ -1627,7 +1667,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.studyinkorea.go.kr",
+    "official_link": "https://www.google.com/search?q=KGSP%20%28Korean%20Government%20Scholarship%20Program%29%20for%20Graduate%20Degrees%20KGSP%20Korea%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The Korean Government Scholarship Program (KGSP) offers fully-funded PhD scholarships for international students at Korean universities, covering tuition, airfare, monthly stipend, and Korean language training. It is open to all fields, including humanitarian and global health disciplines, and is administered by the National Institute for International Education (NIIED).",
@@ -1658,7 +1698,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "KGSP Korea",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "926bc4539dee",
@@ -1673,7 +1714,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.studyinkorea.go.kr",
+    "official_link": "https://www.google.com/search?q=KGSP%20for%20Graduate%20Degrees%20%28Global%20Korea%20Scholarship%20-%20GKS%29%20KGSP%20Korea%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "This is the same as the KGSP but often referred to as the Global Korea Scholarship (GKS). It provides full funding for PhD studies, including full tuition, monthly allowance, settlement grant, and medical insurance. It is available for international students in any field, including humanitarian and health-related areas.",
@@ -1704,7 +1745,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "KGSP Korea",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "51a01a8c9fd9",
@@ -1719,7 +1761,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.studyinkorea.go.kr",
+    "official_link": "https://www.google.com/search?q=KGSP%20for%20Graduate%20Degrees%20%28University%20Track%29%20KGSP%20Korea%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The University Track of the KGSP allows international students to apply directly to participating Korean universities for PhD programs. It covers full tuition, monthly stipend, and airfare, and is open to all academic fields, including humanitarian and conflict-related studies.",
@@ -1743,7 +1785,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "KGSP Korea",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "22ca9f46ffd1",
@@ -1758,7 +1801,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": null,
+    "official_link": "https://www.google.com/search?q=CSC%E2%80%93University%20of%20Manchester%20Joint%20PhD%20Scholarship%20CSC%20China%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "A joint scholarship between the China Scholarship Council and the University of Manchester, providing full funding for Chinese PhD students. It covers tuition, living allowance, and travel costs, and is open to research areas including global health and forced migration.",
@@ -1789,7 +1832,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "CSC China",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "c1fafbab5e2c",
@@ -1804,7 +1848,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": null,
+    "official_link": "https://www.google.com/search?q=CSC%E2%80%93University%20of%20Oxford%20Clarendon%20Scholarship%20CSC%20China%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "A partnership between the China Scholarship Council and the University of Oxford, offering full funding for Chinese PhD students. It covers tuition fees, living costs, and airfare, and supports research in humanitarian and health-related fields.",
@@ -1813,7 +1857,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "CSC China",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "5ed62b261194",
@@ -1828,7 +1873,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": null,
+    "official_link": "https://www.google.com/search?q=CSC%E2%80%93University%20of%20Cambridge%20PhD%20Scholarship%20CSC%20China%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "A joint funding scheme between the China Scholarship Council and the University of Cambridge, providing full financial support for Chinese PhD students. It includes tuition, stipend, and travel expenses, and is applicable to research in health and humanitarian disciplines.",
@@ -1859,7 +1904,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "CSC China",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "2f94103a477a",
@@ -1875,7 +1921,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.adb.org/what-we-do/funds/japan-scholarship-program",
+    "official_link": "https://www.google.com/search?q=ADB-Japan%20Scholarship%20Program%20%28ADB-JSP%29%20for%20Doctoral%20Studies%20ADB%20Japan%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The ADB-Japan Scholarship Program provides full tuition, monthly stipend, and travel costs for graduate studies (including PhD) at participating universities in Asia and the Pacific. It targets students from ADB developing member countries, with priority to fields related to development, including disaster management and global health.",
@@ -1906,7 +1952,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "ADB Japan",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "b17b8c757b51",
@@ -1921,7 +1968,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.adb.org/what-we-do/funds/japan-scholarship-program",
+    "official_link": "https://www.google.com/search?q=ADB-Japan%20Scholarship%20Program%20%28ADB-JSP%29%20for%20Doctoral%20Studies%20at%20University%20of%20Tokyo%20ADB%20Japan%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "This is a specific application of the ADB-JSP at the University of Tokyo, offering full funding for PhD students in fields aligned with development, including global health and disaster risk reduction. It covers tuition, living expenses, and airfare, and is open to citizens of ADB developing member countries.",
@@ -1952,7 +1999,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "ADB Japan",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "f6f712c1314b",
@@ -1967,7 +2015,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.adb.org/what-we-do/funds/japan-scholarship-program",
+    "official_link": "https://www.google.com/search?q=ADB-Japan%20Scholarship%20Program%20%28ADB-JSP%29%20for%20Doctoral%20Studies%20at%20Kyoto%20University%20ADB%20Japan%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "Kyoto University participates in the ADB-JSP, offering fully funded PhD positions for students from ADB member countries. The program supports research in areas such as humanitarian studies and disaster management, covering all academic and living costs.",
@@ -1998,7 +2046,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "ADB Japan",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "1a77cd08feba",
@@ -2022,7 +2071,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Taiwan ICDF",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "7854a0898c56",
@@ -2038,7 +2088,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.iccr.gov.in/scholarships",
+    "official_link": "https://www.google.com/search?q=ICCR%20Scholarship%20Scheme%20for%20Indian%20Students%20Abroad%20ICCR%20India%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The Indian Council for Cultural Relations (ICCR) offers scholarships to Indian students for pursuing higher studies, including PhD, in select foreign universities. It covers tuition, living expenses, and other allowances, though it is primarily for Indian nationals studying abroad.",
@@ -2047,7 +2097,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "ICCR India",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "93114bc108e5",
@@ -2063,7 +2114,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.iccr.gov.in/scholarships",
+    "official_link": "https://www.google.com/search?q=ICCR%20Scholarship%20for%20Foreign%20Students%20%28General%20Cultural%20Scholarship%29%20ICCR%20India%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "ICCR provides fully-funded scholarships to international students for undergraduate, postgraduate, and PhD programs at Indian universities. It covers tuition, accommodation, and a monthly stipend, and is open to students from various countries, including those in Asia, Africa, and Latin America.",
@@ -2072,7 +2123,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "ICCR India",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "996a2caa6048",
@@ -2090,7 +2142,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": null,
+    "official_link": "https://www.google.com/search?q=ICCR%20Doctoral%20Fellowship%20for%20Indian%20Students%20%28for%20Study%20in%20India%29%20ICCR%20India%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "This fellowship supports Indian PhD students enrolled in Indian universities, providing financial assistance for research in fields aligned with ICCR's cultural and academic objectives. It is designed to promote advanced research in humanities and social sciences, including humanitarian and global health topics.",
@@ -2099,7 +2151,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "ICCR India",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "63f252703543",
@@ -2115,7 +2168,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.chevening.org/scholarship/",
+    "official_link": "https://www.google.com/search?q=Chevening%20Scholarships%20Chevening%20UK%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "Chevening Scholarships are funded by the UK Foreign, Commonwealth and Development Office, offering full financial support for a one-year master's degree at any UK university. They cover tuition fees, living costs, and flights, and are open to applicants from eligible countries. While primarily for master's, some PhD applicants may apply if their program is one year, but it is not a dedicated PhD funding scheme.",
@@ -2146,7 +2199,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Chevening UK",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "abd79cbc6750",
@@ -2161,7 +2215,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.chevening.org/fellowships/",
+    "official_link": "https://www.google.com/search?q=Chevening%20Fellowships%20Chevening%20UK%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "Chevening Fellowships are short-term (typically 3-12 months) professional development programs for mid-career professionals, often hosted at UK universities. They cover program fees, living costs, and travel, and are available in specific fields such as global health and humanitarian issues. These are not doctoral studentships but may support research-related placements.",
@@ -2192,7 +2246,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Chevening UK",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "7cdda12f54cc",
@@ -2225,7 +2280,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Mastercard Foundation",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "8de3063efdb1",
@@ -2240,7 +2296,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.fhs.se/en/education/doctoral-education.html",
+    "official_link": "https://www.google.com/search?q=Swedish%20Defence%20University%20Doctoral%20Studentship%20in%20Defence%2C%20Security%20and%20Society%20Swedish%20Defence%20University%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The Swedish Defence University (FHS) offers fully funded doctoral studentships within its research areas, including defence, security, and societal resilience. These positions typically include a salary, tuition waiver, and research funding for four years of full-time study. Applicants are selected through open calls, often with specific projects in crisis management and humanitarian operations.",
@@ -2271,7 +2327,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Swedish Defence University",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "22a48793c8e0",
@@ -2285,7 +2342,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.fhs.se/en/education/doctoral-education.html",
+    "official_link": "https://www.google.com/search?q=Swedish%20Defence%20University%20Doctoral%20Fellowship%20in%20International%20Humanitarian%20Law%20Swedish%20Defence%20University%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "This fellowship is part of the university's doctoral programme in military law, focusing on international humanitarian law and its application in armed conflict. It provides full funding including a monthly stipend, tuition, and research expenses. Candidates are expected to have a strong legal background and research proposal aligned with the department's priorities.",
@@ -2309,7 +2366,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Swedish Defence University",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "647530b964dc",
@@ -2323,7 +2381,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.fhs.se/en/education/doctoral-education.html",
+    "official_link": "https://www.google.com/search?q=Swedish%20Defence%20University%20Doctoral%20Studentship%20in%20Crisis%20Management%20and%20Disaster%20Response%20Swedish%20Defence%20University%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "This studentship is offered within the university's research on societal security and crisis management, covering topics like disaster response and forced migration. It includes a full salary for four years, travel grants, and access to research networks. The position is advertised periodically on the university's website.",
@@ -2332,7 +2390,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Swedish Defence University",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "163d118ae1f9",
@@ -2378,7 +2437,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Uppsala University",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "25f959a650e6",
@@ -2424,7 +2484,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Uppsala University",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "f97afac2527a",
@@ -2439,7 +2500,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": null,
+    "official_link": "https://www.google.com/search?q=Wallenberg%20Foundation%20PhD%20Fellowships%20at%20Uppsala%20University%20Uppsala%20University%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The Knut and Alice Wallenberg Foundation provides substantial funding for doctoral research at Uppsala University, often through specific projects in health and conflict studies. These fellowships are typically awarded via departmental nominations and cover full costs.",
@@ -2470,7 +2531,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Uppsala University",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "b8b2fce51d46",
@@ -2516,7 +2578,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Uppsala University",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "ccfaa151252b",
@@ -2562,7 +2625,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Uppsala University",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "4848f7d911da",
@@ -2578,7 +2642,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.unimi.it/en/education/phd-programmes",
+    "official_link": "https://www.google.com/search?q=University%20of%20Milan%20PhD%20Scholarships%20University%20of%20Milan%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The University of Milan offers fully funded PhD positions across its doctoral programs, including those in health, social sciences, and related fields. These scholarships cover tuition fees and provide a monthly stipend for the duration of the program (typically 3 years).",
@@ -2609,7 +2673,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Milan",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "6b08ce651ad5",
@@ -2625,7 +2690,7 @@
     "funding_type": "partial",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.unimi.it/en/education/scholarships-and-grants",
+    "official_link": "https://www.google.com/search?q=DSU%20Regional%20Scholarships%20for%20PhD%20Students%20University%20of%20Milan%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The DSU (Diritto allo Studio Universitario) regional scholarships provide financial support to PhD students at the University of Milan, including those in relevant fields. These are merit-based and income-based awards that may include a stipend and meal vouchers, but are not full funding.",
@@ -2656,7 +2721,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Milan",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "011fd2ae42dc",
@@ -2671,7 +2737,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.esteri.it/en/ministero/bandi/",
+    "official_link": "https://www.google.com/search?q=Italian%20Ministry%20of%20Foreign%20Affairs%20and%20International%20Cooperation%20%28MAECI%29%20Scholarships%20University%20of%20Milan%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The Italian government offers fully funded scholarships for international PhD students to study at Italian universities, including the University of Milan. These cover tuition, health insurance, and a monthly stipend, and are open to students in various fields including health and humanitarian studies.",
@@ -2702,7 +2768,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Milan",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "3cdcb1cb42d5",
@@ -2742,7 +2809,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Pisa",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "b8a8de29c61e",
@@ -2789,7 +2857,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Pisa",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "ecc3cd1e1dce",
@@ -2827,7 +2896,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Pisa",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "4c3b59694510",
@@ -2842,7 +2912,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://studyinitaly.esteri.it/en/",
+    "official_link": "https://www.google.com/search?q=Italian%20Government%20Scholarships%20for%20Foreign%20Students%20%28MAECI%29%20University%20of%20Pisa%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "National scholarships offered by the Italian Ministry of Foreign Affairs to international PhD students, covering tuition, health insurance, and a monthly allowance. Available for study at the University of Pisa in any field, including humanitarian and health disciplines.",
@@ -2866,7 +2936,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Pisa",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "3239699a97d0",
@@ -2882,7 +2953,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.universiteitleiden.nl/en/phd/phd-programmes",
+    "official_link": "https://www.google.com/search?q=Leiden%20University%20PhD%20Scholarship%20Leiden%20University%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "Leiden University offers fully funded PhD positions across its faculties, including the Faculty of Governance and Global Affairs and the Leiden Law School, which cover humanitarian studies, conflict health, and international humanitarian law. These positions are typically advertised as vacancies with a salary and benefits, and are open to international applicants.",
@@ -2913,7 +2984,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Leiden University",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "bc8db48c6fd5",
@@ -2959,7 +3031,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Leiden University",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "c51c2a22e73e",
@@ -2974,7 +3047,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.nuffic.nl/en/subjects/orange-knowledge-programme/",
+    "official_link": "https://www.google.com/search?q=Netherlands%20Fellowship%20Programmes%20%28NFP%29%20for%20PhD%20at%20Leiden%20University%20Leiden%20University%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The Netherlands Fellowship Programmes (now part of the Orange Knowledge Programme) offer fully funded PhD scholarships for professionals from selected countries, allowing them to study at Dutch institutions like Leiden University. These scholarships cover tuition, travel, and living costs, and are relevant to fields like humanitarian studies and global health.",
@@ -3005,7 +3078,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Leiden University",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "abf699482297",
@@ -3020,7 +3094,7 @@
     "funding_type": "partial",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.universiteitleiden.nl/en/scholarships/lexs",
+    "official_link": "https://www.google.com/search?q=Leiden%20University%20Excellence%20Scholarship%20%28LExS%29%20for%20PhD%20Leiden%20University%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The Leiden University Excellence Scholarship (LExS) is available for excellent international students, including PhD candidates, and provides a partial tuition fee waiver or a monthly stipend. It is open to all fields, including humanitarian and health-related disciplines, and is awarded based on academic merit.",
@@ -3051,7 +3125,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Leiden University",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "68bf57bcbb1c",
@@ -3066,7 +3141,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.nuffic.nl/en/subjects/orange-knowledge-programme/",
+    "official_link": "https://www.google.com/search?q=Huygens%20Scholarship%20Programme%20%28now%20part%20of%20the%20Orange%20Knowledge%20Programme%29%20Leiden%20University%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The Huygens Scholarship Programme, now integrated into the Orange Knowledge Programme, offered fully funded PhD scholarships for international students from non-EEA countries to study in the Netherlands, including at Leiden University. It covered tuition, living expenses, and travel, and was open to all fields, including humanitarian and health studies.",
@@ -3097,7 +3172,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Leiden University",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "e42167206cbf",
@@ -3144,7 +3220,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Utrecht University",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "18c29209d775",
@@ -3159,7 +3236,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.uu.nl/en/organisation/graduate-school-of-geosciences",
+    "official_link": "https://www.google.com/search?q=Utrecht%20University%20Graduate%20School%20of%20Geosciences%20PhD%20Fellowship%20Utrecht%20University%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The Graduate School of Geosciences at Utrecht University offers fully funded PhD positions in areas such as disaster management, humanitarian studies, and global health, often linked to research projects funded by Dutch research councils (NWO). These positions include a salary, research budget, and tuition coverage.",
@@ -3190,7 +3267,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Utrecht University",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "4c117ea8b8f4",
@@ -3205,7 +3283,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.uu.nl/en/organisation/graduate-school-of-social-and-behavioural-sciences",
+    "official_link": "https://www.google.com/search?q=Utrecht%20University%20Graduate%20School%20of%20Social%20and%20Behavioural%20Sciences%20PhD%20Scholarship%20Utrecht%20University%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "This graduate school offers fully funded PhD positions in social sciences, including research on forced migration, conflict health, and humanitarian studies. Positions are typically funded through university or NWO grants and include a full salary and benefits.",
@@ -3236,7 +3314,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Utrecht University",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "bd2d18408d3b",
@@ -3251,7 +3330,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.nuffic.nl/en/subjects/orange-knowledge-programme",
+    "official_link": "https://www.google.com/search?q=Netherlands%20Fellowship%20Programmes%20%28NFP%29%20for%20PhD%20at%20Utrecht%20University%20Utrecht%20University%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The Netherlands Fellowship Programmes (now part of the Orange Knowledge Programme) provide fully funded scholarships for PhD candidates from selected countries to study at Dutch universities, including Utrecht University. These fellowships cover tuition, living costs, and travel, and are relevant to fields like global health and forced migration.",
@@ -3282,7 +3361,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Utrecht University",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "cf9d78e79414",
@@ -3297,7 +3377,7 @@
     "funding_type": "partial",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.uu.nl/en/education/study-at-uu/scholarships",
+    "official_link": "https://www.google.com/search?q=Utrecht%20University%20Excellence%20Scholarship%20%28UES%29%20for%20PhD%20Utrecht%20University%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The Utrecht University Excellence Scholarship is a partial scholarship for international students, but it is primarily for master's programmes. However, some PhD positions may be co-funded through this scheme, offering a stipend or fee reduction for research in fields like humanitarian studies and global health.",
@@ -3328,7 +3408,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Utrecht University",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "c973e2efb389",
@@ -3343,7 +3424,7 @@
     "funding_type": "partial",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.uva.nl/en/education/scholarships-and-grants/scholarships-and-grants.html",
+    "official_link": "https://www.google.com/search?q=Amsterdam%20Merit%20Scholarship%20%28AMS%29%20University%20of%20Amsterdam%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The Amsterdam Merit Scholarship is a university-wide scholarship for excellent non-EEA students, including PhD candidates, offering a partial tuition fee waiver or a stipend. It is awarded based on academic merit and is available across all faculties, including those relevant to humanitarian and global health fields.",
@@ -3374,7 +3455,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Amsterdam",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "910e6b8c9100",
@@ -3389,7 +3471,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.uva.nl/en/education/phd/phd-programmes.html",
+    "official_link": "https://www.google.com/search?q=UvA%20PhD%20Scholarship%20for%20International%20Students%20University%20of%20Amsterdam%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "This is a generic funding scheme where PhD candidates are employed by the university as doctoral researchers, receiving a full salary and benefits for the duration of their research (typically 4 years). It is available across all disciplines, including social sciences and law, and is awarded through competitive selection by individual research groups.",
@@ -3420,7 +3502,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Amsterdam",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "9ed5522101f7",
@@ -3435,7 +3518,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.uva.nl/en/education/scholarships-and-grants/scholarships-and-grants.html",
+    "official_link": "https://www.google.com/search?q=Netherlands%20Fellowship%20Programmes%20%28NFP%29%20-%20PhD%20Scholarships%20University%20of%20Amsterdam%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The Netherlands Fellowship Programmes (now part of the Orange Knowledge Programme) offer full scholarships for PhD candidates from selected countries, covering tuition, living costs, and travel. These are administered by Nuffic and can be used at the University of Amsterdam for research in development-related fields, including health and migration.",
@@ -3466,7 +3549,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Amsterdam",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "7f341cfba629",
@@ -3481,7 +3565,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.uva.nl/en/research/research-programmes/research-programmes.html",
+    "official_link": "https://www.google.com/search?q=H2020%20Marie%20Sk%C5%82odowska-Curie%20Actions%20%28MSCA%29%20Doctoral%20Networks%20at%20UvA%20University%20of%20Amsterdam%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The University of Amsterdam participates in MSCA Doctoral Networks, which fund fully paid PhD positions (including salary, mobility allowance, and research costs) for early-stage researchers. These are project-specific and often focus on interdisciplinary topics, including health crises and humanitarian response, with calls announced periodically.",
@@ -3512,7 +3596,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Amsterdam",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "cf02c36280ce",
@@ -3528,7 +3613,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://vu.nl/en/education/phd",
+    "official_link": "https://www.google.com/search?q=VU%20Amsterdam%20PhD%20Scholarship%20VU%20Amsterdam%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "VU Amsterdam offers fully funded PhD positions across all faculties, including the Athena Institute and the Faculty of Social Sciences, which host research in global health, humanitarian studies, and forced migration. These positions are typically advertised as vacancies with a salary and benefits, and are open to international applicants.",
@@ -3559,7 +3644,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "VU Amsterdam",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "429f2b6b5bf9",
@@ -3605,7 +3691,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "VU Amsterdam",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "b88aa6a143db",
@@ -3651,7 +3738,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "VU Amsterdam",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "4a460cc05741",
@@ -3673,7 +3761,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "VU Amsterdam",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "4b45f6768222",
@@ -3687,7 +3776,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://socialsciences.vu.nl/en/",
+    "official_link": "https://www.google.com/search?q=VU%20Amsterdam%20Graduate%20School%20of%20Social%20Sciences%20PhD%20Fellowship%20in%20Forced%20Migration%20VU%20Amsterdam%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The Graduate School of Social Sciences at VU Amsterdam offers fully funded PhD fellowships for research on forced migration, often in collaboration with the Amsterdam Centre for Migration and Refugee Law. These fellowships are project-based and provide a full-time salary for four years.",
@@ -3711,7 +3800,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "VU Amsterdam",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "45840cd28faa",
@@ -3726,7 +3816,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.wur.nl/en/education-programmes/phd-programme/phd-fellowships.htm",
+    "official_link": "https://www.google.com/search?q=Wageningen%20University%20PhD%20Fellowship%20Wageningen%20University%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "Wageningen University offers fully funded PhD positions through its internal fellowship scheme, covering tuition and a salary for the duration of the doctoral research. These positions are advertised by research groups and are open to international applicants in fields aligned with the university's focus on health, environment, and society.",
@@ -3757,7 +3847,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Wageningen University",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "1711f06b4361",
@@ -3772,7 +3863,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.wur.nl/en/education-programmes/phd-programme/phd-fellowships.htm",
+    "official_link": "https://www.google.com/search?q=MSCA%20COFUND%20Doctoral%20Programme%20%28e.g.%2C%20WASS%20or%20related%29%20Wageningen%20University%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "Wageningen University participates in Marie Skłodowska-Curie Actions COFUND doctoral programmes, offering fully funded PhD positions with competitive salaries and research allowances. These programmes are interdisciplinary and often include international mobility and training components.",
@@ -3803,7 +3894,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Wageningen University",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "bcea14794b36",
@@ -3818,7 +3910,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.wur.nl/en/education-programmes/phd-programme/phd-fellowships.htm",
+    "official_link": "https://www.google.com/search?q=Netherlands%20Fellowship%20Programmes%20%28NFP%29%20/%20Orange%20Knowledge%20Programme%20%28OKP%29%20Wageningen%20University%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The Orange Knowledge Programme (formerly NFP) provides full scholarships for PhD candidates from selected countries to study at Wageningen University. It covers tuition, living costs, and travel, with a focus on capacity building in development-related fields.",
@@ -3849,7 +3941,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Wageningen University",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "f488b1cf18fc",
@@ -3864,7 +3957,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.wur.nl/en/education-programmes/phd-programme/phd-fellowships.htm",
+    "official_link": "https://www.google.com/search?q=Wageningen%20University%20Sandwich%20PhD%20Fellowship%20Wageningen%20University%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "This fellowship supports PhD candidates from partner institutions in low- and middle-income countries to conduct research at Wageningen University for a period of 6-12 months, with full funding for travel, living, and research costs. It is designed to strengthen research capacity in fields like health and disaster management.",
@@ -3895,7 +3988,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Wageningen University",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "982939552f69",
@@ -3941,7 +4035,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "TU Delft",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "fe7b4eb0f7cb",
@@ -3987,7 +4082,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "TU Delft",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "4c3f325c7cf7",
@@ -4033,7 +4129,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "TU Delft",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "ef0e5a960b10",
@@ -4079,7 +4176,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "TU Delft",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "f53bcfa020c4",
@@ -4094,7 +4192,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.eur.nl/en/working-at-eur/phd-positions",
+    "official_link": "https://www.google.com/search?q=Erasmus%20University%20Rotterdam%20PhD%20Scholarship%20Erasmus%20University%20Rotterdam%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "Erasmus University Rotterdam offers fully funded PhD positions across its faculties, including the Erasmus School of Health Policy & Management and the International Institute of Social Studies, which cover fields like global health, forced migration, and disaster management. These positions are typically advertised with specific research projects and include a salary, benefits, and research budget.",
@@ -4125,7 +4223,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Erasmus University Rotterdam",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "254a546d41ce",
@@ -4140,7 +4239,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.erasmusmc.nl/en/research/phd-programme",
+    "official_link": "https://www.google.com/search?q=Erasmus%20MC%20PhD%20Programme%20%28Erasmus%20University%20Rotterdam%20Medical%20Center%29%20Erasmus%20University%20Rotterdam%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "Erasmus MC, the university medical center of Erasmus University Rotterdam, offers fully funded PhD positions in health-related research, including global health, conflict health, and disaster management. These positions are funded by research grants and provide a full salary for the duration of the PhD (typically 4 years).",
@@ -4171,7 +4270,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Erasmus University Rotterdam",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "3ab5bb80f0f5",
@@ -4217,7 +4317,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Erasmus University Rotterdam",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "804fbbd3e2f3",
@@ -4263,7 +4364,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Erasmus University Rotterdam",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "e1e65989adcc",
@@ -4309,7 +4411,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Groningen",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "99d07d363f7f",
@@ -4347,7 +4450,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Groningen",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "22a2bf7670b6",
@@ -4362,7 +4466,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.rug.nl/research/graduate-school/",
+    "official_link": "https://www.google.com/search?q=Ubbo%20Emmius%20Scholarship%20University%20of%20Groningen%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The Ubbo Emmius Scholarship is a fully funded PhD scholarship offered by the University of Groningen's Graduate Schools, supporting excellent candidates in all research areas, including the humanities and social sciences. It provides a salary, research budget, and tuition fee waiver for a four-year doctoral program.",
@@ -4393,7 +4497,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Groningen",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "9de36feefe89",
@@ -4408,7 +4513,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.nuffic.nl/en/subjects/orange-knowledge-programme/",
+    "official_link": "https://www.google.com/search?q=Netherlands%20Fellowship%20Programmes%20%28NFP%29%20for%20PhD%20University%20of%20Groningen%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The Netherlands Fellowship Programmes (now part of the Orange Knowledge Programme) offer fully funded PhD scholarships for professionals from selected countries, allowing them to pursue doctoral research at Dutch universities including the University of Groningen. The scholarship covers tuition, travel, and living expenses, and is relevant to fields like global health and disaster management.",
@@ -4439,7 +4544,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Groningen",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "6bd87e97abe0",
@@ -4455,7 +4561,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://graduate-school.uq.edu.au/scholarships",
+    "official_link": "https://www.google.com/search?q=UQ%20Graduate%20School%20Scholarships%20%28UQGSS%29%20University%20of%20Queensland%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The University of Queensland Graduate School Scholarships (UQGSS) provide a living stipend and tuition fee waiver for PhD candidates across all disciplines, including health and social sciences. These are competitive, merit-based awards open to domestic and international students. The scholarship supports full-time research leading to a doctoral degree.",
@@ -4486,7 +4592,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Queensland",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "7f679fa89c18",
@@ -4502,7 +4609,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://graduate-school.uq.edu.au/scholarships",
+    "official_link": "https://www.google.com/search?q=Research%20Training%20Program%20%28RTP%29%20Stipend%20Scholarship%20University%20of%20Queensland%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "Funded by the Australian Government, the RTP Stipend Scholarship provides a tax-free living allowance and covers tuition fees for PhD students at UQ. It is available to both domestic and international students and is awarded based on academic merit and research potential. This is a common funding route for doctoral research in health and humanitarian fields.",
@@ -4533,7 +4640,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Queensland",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "7ce0835212ab",
@@ -4548,7 +4656,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://scholarships.uq.edu.au/scholarship/uq-international-scholarship",
+    "official_link": "https://www.google.com/search?q=UQ%20International%20Scholarship%20University%20of%20Queensland%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The UQ International Scholarship supports high-achieving international students undertaking a PhD at UQ. It covers tuition fees and provides a living stipend for up to 3.5 years. This scholarship is open to all disciplines, including those relevant to humanitarian and health research.",
@@ -4579,7 +4687,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Queensland",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "504571874af6",
@@ -4594,7 +4703,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.education.gov.au/research-training-program",
+    "official_link": "https://www.google.com/search?q=Australian%20Government%20Research%20Training%20Program%20%28AGRTP%29%20International%20Scholarship%20University%20of%20Queensland%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "This scholarship is part of the Australian Government's Research Training Program, administered by UQ for international PhD students. It provides a stipend, tuition fee offset, and health insurance for the duration of the program. It is awarded on a competitive basis to outstanding research candidates.",
@@ -4625,7 +4734,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Queensland",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "106a6a8096a2",
@@ -4640,7 +4750,7 @@
     "funding_type": "partial",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://graduate-school.uq.edu.au/scholarships",
+    "official_link": "https://www.google.com/search?q=UQ%20Graduate%20School%20PhD%20Top-Up%20Scholarship%20University%20of%20Queensland%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "This top-up scholarship supplements an existing stipend (e.g., from an external grant or RTP) for PhD students at UQ. It provides additional financial support to enhance the base stipend, often awarded to students in priority research areas. It is not a standalone full scholarship but enhances other funding.",
@@ -4671,7 +4781,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Queensland",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "fb9a03c46877",
@@ -4687,7 +4798,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.sydney.edu.au/scholarships/e/university-of-sydney-international-research-scholarships.html",
+    "official_link": "https://www.google.com/search?q=University%20of%20Sydney%20International%20Research%20Scholarships%20%28USydIS%29%20University%20of%20Sydney%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The University of Sydney International Research Scholarship (USydIS) covers tuition fees and living allowance for international PhD students. It is awarded based on academic merit and research potential, and is open to all fields including humanitarian and global health studies.",
@@ -4718,7 +4829,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Sydney",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "27041080b3dc",
@@ -4734,7 +4846,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.sydney.edu.au/scholarships/e/australian-government-research-training-program-rtp-scholarship-international.html",
+    "official_link": "https://www.google.com/search?q=Australian%20Government%20Research%20Training%20Program%20%28RTP%29%20Scholarship%20%28International%29%20University%20of%20Sydney%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "Funded by the Australian Government, this scholarship provides tuition fees, a living allowance, and health insurance for international PhD students. It is available for research in any discipline, including humanitarian and conflict health fields.",
@@ -4765,7 +4877,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Sydney",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "95670d4d36cd",
@@ -4780,7 +4893,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.sydney.edu.au/scholarships/e/postgraduate-research-scholarship-sc0965.html",
+    "official_link": "https://www.google.com/search?q=University%20of%20Sydney%20Postgraduate%20Research%20Scholarship%20%28SC0965%29%20-%20Faculty%20of%20Medicine%20and%20Health%20University%20of%20Sydney%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "This scholarship supports PhD research within the Faculty of Medicine and Health, covering tuition and a stipend. It is open to projects in global health, conflict health, and related areas, and is awarded on a competitive basis.",
@@ -4811,7 +4924,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Sydney",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "6f36a5c5e1ea",
@@ -4826,7 +4940,7 @@
     "funding_type": "partial",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.sydney.edu.au/scholarships/e/sydney-scholars-awards.html",
+    "official_link": "https://www.google.com/search?q=Sydney%20Scholars%20Awards%20%28for%20PhD%20applicants%29%20University%20of%20Sydney%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The Sydney Scholars Awards provide partial funding (up to $10,000) for high-achieving research students, including PhD candidates. While not fully funded, they can supplement other funding sources for research in humanitarian and health fields.",
@@ -4857,7 +4971,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Sydney",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "734efac4d2a6",
@@ -4873,7 +4988,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://scholarships.unimelb.edu.au/scholarships/melbourne-research-scholarship",
+    "official_link": "https://www.google.com/search?q=Melbourne%20Research%20Scholarship%20University%20of%20Melbourne%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The Melbourne Research Scholarship is the university's flagship PhD scholarship, covering full tuition fees, a living allowance (stipend), and relocation support. It is open to all disciplines, including health, humanities, and law, and is awarded on academic merit.",
@@ -4904,7 +5019,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Melbourne",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "3c230045bcc9",
@@ -4919,7 +5035,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://scholarships.unimelb.edu.au/scholarships/graduate-research-scholarship-international",
+    "official_link": "https://www.google.com/search?q=Graduate%20Research%20Scholarship%20%28International%29%20University%20of%20Melbourne%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "This scholarship is awarded to high-achieving international students undertaking a research doctorate. It provides full fee remission, a stipend for living costs, and health insurance, and is available across all faculties, including the Faculty of Medicine, Dentistry and Health Sciences.",
@@ -4950,7 +5066,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Melbourne",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "dd7f1ce71c5b",
@@ -4965,7 +5082,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://scholarships.unimelb.edu.au/scholarships/melbourne-international-fee-remission-scholarship",
+    "official_link": "https://www.google.com/search?q=Melbourne%20International%20Fee%20Remission%20Scholarship%20%28MIFRS%29%20University%20of%20Melbourne%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "MIFRS covers the full cost of tuition for international PhD students, and is often combined with a stipend from other sources. It is available for research in any field, including health and humanitarian studies, and is awarded competitively.",
@@ -4996,7 +5113,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Melbourne",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "6ce19ab977a8",
@@ -5011,7 +5129,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.education.gov.au/research-training-program",
+    "official_link": "https://www.google.com/search?q=Australian%20Government%20Research%20Training%20Program%20%28RTP%29%20Scholarship%20University%20of%20Melbourne%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "Funded by the Australian Government, this scholarship supports domestic and international PhD students with tuition fees and a living stipend. It is administered by the University of Melbourne and is open to all research areas, including health and law.",
@@ -5042,7 +5160,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Melbourne",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "00db09eca879",
@@ -5088,7 +5207,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Melbourne",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "362bcc719408",
@@ -5104,7 +5224,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.anu.edu.au/study/scholarships/australian-government-research-training-program-rtp-stipend-scholarship",
+    "official_link": "https://www.google.com/search?q=Australian%20Government%20Research%20Training%20Program%20%28RTP%29%20Stipend%20Scholarship%20ANU%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The RTP Stipend Scholarship is the primary PhD funding scheme at ANU, covering tuition fees and providing a living stipend for domestic and international students. It is awarded on a competitive basis across all disciplines, including health and humanitarian fields.",
@@ -5135,7 +5255,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "ANU",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "eb123d5bf7b2",
@@ -5150,7 +5271,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.anu.edu.au/study/scholarships/chancellors-international-phd-scholarship",
+    "official_link": "https://www.google.com/search?q=ANU%20Chancellor%27s%20International%20PhD%20Scholarship%20ANU%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "This prestigious scholarship supports outstanding international PhD applicants at ANU, covering tuition fees and providing a generous stipend. It is open to all research areas, including those related to conflict health and disaster management.",
@@ -5181,7 +5302,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "ANU",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "d2f42ccd6474",
@@ -5196,7 +5318,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://health.anu.edu.au/study/postgraduate-research/scholarships",
+    "official_link": "https://www.google.com/search?q=ANU%20PhD%20Scholarships%20in%20Health%20and%20Medicine%20%28College%20of%20Health%20and%20Medicine%29%20ANU%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The ANU College of Health and Medicine offers multiple PhD scholarships specifically for health-related research, including global health and conflict health topics. These scholarships typically cover tuition and provide a stipend, and are awarded based on academic merit and research potential.",
@@ -5227,7 +5349,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "ANU",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "1e25b1ecf6fd",
@@ -5242,7 +5365,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.nhmrc.gov.au/funding/find-funding/postgraduate-scholarships",
+    "official_link": "https://www.google.com/search?q=Australian%20National%20University%20%E2%80%93%20National%20Health%20and%20Medical%20Research%20Council%20%28NHMRC%29%20Postgraduate%20Scholarship%20ANU%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "NHMRC Postgraduate Scholarships are available to PhD students at ANU conducting research in health and medical fields, including public health and health systems in humanitarian settings. The scholarship provides a stipend and research support, with priority given to projects aligned with NHMRC priorities.",
@@ -5273,7 +5396,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "ANU",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "49518b054b14",
@@ -5289,7 +5413,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.monash.edu/graduate-research/future-students/scholarships",
+    "official_link": "https://www.google.com/search?q=Monash%20Graduate%20Scholarship%20%28MGS%29%20Monash%20University%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The Monash Graduate Scholarship provides a living allowance stipend and covers tuition fees for full-time PhD students. It is awarded on a competitive basis and is open to domestic and international applicants across all disciplines, including humanitarian and health-related fields.",
@@ -5320,7 +5444,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Monash University",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "a85b09872297",
@@ -5336,7 +5461,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.monash.edu/graduate-research/future-students/scholarships",
+    "official_link": "https://www.google.com/search?q=Monash%20International%20Tuition%20Scholarship%20%28MITS%29%20Monash%20University%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The Monash International Tuition Scholarship covers full tuition fees for international PhD students. It is often awarded in conjunction with the Monash Graduate Scholarship, providing comprehensive support for doctoral research in relevant fields.",
@@ -5367,7 +5492,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Monash University",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "3f5e5493547d",
@@ -5383,7 +5509,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.monash.edu/graduate-research/future-students/scholarships",
+    "official_link": "https://www.google.com/search?q=Research%20Training%20Program%20%28RTP%29%20Stipend%20Scholarship%20Monash%20University%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "Funded by the Australian Government, the RTP Stipend Scholarship provides a tax-free living allowance and covers tuition fees for PhD students. It is available to both domestic and international students and supports research across all disciplines, including humanitarian and health fields.",
@@ -5414,7 +5540,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Monash University",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "eb7867ef81f2",
@@ -5429,7 +5556,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.monash.edu/medicine/research/graduate-research/scholarships",
+    "official_link": "https://www.google.com/search?q=Monash%20University%20-%20Faculty%20of%20Medicine%2C%20Nursing%20and%20Health%20Sciences%20%28MNHS%29%20PhD%20Scholarships%20Monash%20University%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The Faculty of Medicine, Nursing and Health Sciences offers PhD scholarships specifically for research in global health, conflict health, and humanitarian studies. These scholarships provide a stipend and tuition fee coverage, and are awarded to outstanding candidates with strong research proposals.",
@@ -5460,7 +5587,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Monash University",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "5dec2f5f13fb",
@@ -5475,7 +5603,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.monash.edu/arts/graduate-research/scholarships",
+    "official_link": "https://www.google.com/search?q=Monash%20University%20-%20Faculty%20of%20Arts%20PhD%20Scholarships%20%28including%20in%20Humanitarian%20Studies%29%20Monash%20University%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The Faculty of Arts offers PhD scholarships for research in humanitarian studies, forced migration, and international humanitarian law. These scholarships provide a stipend and tuition fee support, and are open to domestic and international students with strong academic records.",
@@ -5506,7 +5634,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Monash University",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "48bde67d1929",
@@ -5522,7 +5651,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.unsw.edu.au/research/hdr/scholarships/scientia-phd-scholarships",
+    "official_link": "https://www.google.com/search?q=UNSW%20Scientia%20PhD%20Scholarship%20UNSW%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The UNSW Scientia PhD Scholarship is a prestigious university-wide scheme offering full tuition fee coverage, a generous stipend, and additional support for research and career development. It is available to outstanding PhD applicants across all disciplines, including those in humanitarian and global health fields.",
@@ -5553,7 +5682,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "UNSW",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "4dc0e69ee48b",
@@ -5600,7 +5730,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "UNSW",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "0fa2c445bae5",
@@ -5646,7 +5777,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "UNSW",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "27d11c09866e",
@@ -5661,7 +5793,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.unsw.edu.au/arts-design-architecture/research/hdr",
+    "official_link": "https://www.google.com/search?q=UNSW%20Arts%2C%20Design%20%26%20Architecture%20%28ADA%29%20HDR%20Scholarship%20UNSW%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "This faculty-specific scholarship supports PhD candidates in the UNSW Arts, Design & Architecture faculty, offering full tuition fee coverage and a stipend. It is relevant to research in humanitarian studies, forced migration, and related social science fields.",
@@ -5692,7 +5824,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "UNSW",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "054381ff0519",
@@ -5708,7 +5841,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.otago.ac.nz/study/scholarships/database/otago-doctoral-scholarship",
+    "official_link": "https://www.google.com/search?q=University%20of%20Otago%20Doctoral%20Scholarship%20University%20of%20Otago%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The University of Otago Doctoral Scholarship provides full tuition fees and a living stipend for PhD students of any nationality. It is awarded on academic merit and is open to research in any field, including health sciences and humanities relevant to humanitarian and conflict studies.",
@@ -5739,7 +5872,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Otago",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "229e13fa13bb",
@@ -5754,7 +5888,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.otago.ac.nz/study/scholarships/database/otago-doctoral-scholarship",
+    "official_link": "https://www.google.com/search?q=University%20of%20Otago%20Doctoral%20Scholarship%20for%20International%20Students%20University%20of%20Otago%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "This is the same as the Otago Doctoral Scholarship but specifically highlights support for international PhD candidates. It covers tuition and provides an annual stipend for up to 36 months, enabling research in areas like global health and disaster management.",
@@ -5785,7 +5919,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Otago",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "bee7190aab62",
@@ -5800,7 +5935,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.otago.ac.nz/study/scholarships/database/new-zealand-international-doctoral-research-scholarship",
+    "official_link": "https://www.google.com/search?q=New%20Zealand%20International%20Doctoral%20Research%20Scholarship%20%28NZIDRS%29%20University%20of%20Otago%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "Funded by the New Zealand Government, this scholarship supports international PhD students at Otago with full tuition, a living allowance, and travel costs. It is open to all disciplines, including health and humanitarian research.",
@@ -5831,7 +5966,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Otago",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "3a4bb1985756",
@@ -5846,7 +5982,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.otago.ac.nz/health-sciences/study/phd",
+    "official_link": "https://www.google.com/search?q=University%20of%20Otago%20Doctoral%20Scholarship%20in%20Health%20Sciences%20University%20of%20Otago%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "A specific doctoral scholarship offered by the Division of Health Sciences at Otago, providing full funding for PhD research in health-related fields. It is ideal for projects on global health, conflict health, and humanitarian health issues.",
@@ -5877,7 +6013,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Otago",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "f25e20c1b157",
@@ -5892,7 +6029,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.otago.ac.nz/humanities/study/phd",
+    "official_link": "https://www.google.com/search?q=Otago%20Doctoral%20Scholarship%20in%20Humanities%20%28including%20Law%20and%20Social%20Sciences%29%20University%20of%20Otago%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "This scholarship supports PhD candidates in the humanities and social sciences, including law and politics, with full tuition and a stipend. It is suitable for research on international humanitarian law, forced migration, and humanitarian policy.",
@@ -5923,7 +6060,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Otago",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "7b855fa9dbc3",
@@ -5939,7 +6077,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.wgtn.ac.nz/scholarships/current/victoria-doctoral-scholarship",
+    "official_link": "https://www.google.com/search?q=Victoria%20University%20of%20Wellington%20Doctoral%20Scholarships%20Victoria%20University%20of%20Wellington%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The Victoria Doctoral Scholarship covers tuition fees and provides a living allowance for PhD students at Victoria University of Wellington. It is open to all disciplines, including humanitarian and health-related fields, and is awarded on academic merit.",
@@ -5970,7 +6108,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Victoria University of Wellington",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "6f1a7a7dadc5",
@@ -5985,7 +6124,7 @@
     "funding_type": "partial",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.wgtn.ac.nz/scholarships/current/wellington-doctoral-submission-scholarship",
+    "official_link": "https://www.google.com/search?q=Wellington%20Doctoral%20Submission%20Scholarship%20Victoria%20University%20of%20Wellington%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "This scholarship provides financial support for PhD candidates in their final year of thesis submission. It is available to students in any field, including humanitarian and health research, and helps cover living costs during the writing-up period.",
@@ -5994,7 +6133,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Victoria University of Wellington",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "11e66daf8995",
@@ -6009,7 +6149,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.wgtn.ac.nz/scholarships/current/new-zealand-international-doctoral-research-scholarship",
+    "official_link": "https://www.google.com/search?q=New%20Zealand%20International%20Doctoral%20Research%20Scholarship%20%28NZIDRS%29%20Victoria%20University%20of%20Wellington%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The NZIDRS is a government-funded scholarship for international PhD students, covering tuition fees and providing a living stipend. It is available for research in any field, including humanitarian and health-related topics, at Victoria University of Wellington.",
@@ -6040,7 +6180,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Victoria University of Wellington",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "d0107bfe127b",
@@ -6055,7 +6196,7 @@
     "funding_type": "partial",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.wgtn.ac.nz/scholarships/current/victoria-doctoral-fees-scholarship",
+    "official_link": "https://www.google.com/search?q=Victoria%20University%20of%20Wellington%20Doctoral%20Fees%20Scholarship%20Victoria%20University%20of%20Wellington%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "This scholarship covers the tuition fees for domestic and international PhD students at Victoria University of Wellington. It is open to all research areas, including humanitarian and legal studies, and is awarded based on academic excellence.",
@@ -6086,7 +6227,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "Victoria University of Wellington",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "ef39b473d71f",
@@ -6102,7 +6244,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/doctoral-scholarship.html",
+    "official_link": "https://www.google.com/search?q=University%20of%20Auckland%20Doctoral%20Scholarship%20University%20of%20Auckland%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The University of Auckland Doctoral Scholarship provides full tuition fees and a living allowance for PhD students across all disciplines, including health and humanitarian fields. It is awarded on academic merit and is available to both domestic and international students.",
@@ -6133,7 +6275,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Auckland",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "2d6031386bb7",
@@ -6148,7 +6291,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/new-zealand-international-doctoral-research-scholarship.html",
+    "official_link": "https://www.google.com/search?q=New%20Zealand%20International%20Doctoral%20Research%20Scholarship%20%28NZIDRS%29%20University%20of%20Auckland%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "This government-funded scholarship supports international PhD students at New Zealand universities, covering tuition fees and providing a living stipend. It is open to students in any field, including health and humanitarian research.",
@@ -6179,7 +6322,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Auckland",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "f04270e28631",
@@ -6194,7 +6338,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.auckland.ac.nz/en/fmhs/study/doctoral-study.html",
+    "official_link": "https://www.google.com/search?q=University%20of%20Auckland%20Doctoral%20Scholarship%20for%20Health%20Research%20%28via%20Faculty%20of%20Medical%20and%20Health%20Sciences%29%20University%20of%20Auckland%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The Faculty of Medical and Health Sciences offers doctoral scholarships specifically for health-related PhD projects, including those in global health and conflict health. These scholarships provide full tuition and a stipend, and are awarded competitively.",
@@ -6225,7 +6369,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Auckland",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "4ee81b10ab60",
@@ -6241,7 +6386,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.canterbury.ac.nz/study/doctoral-study/scholarships/",
+    "official_link": "https://www.google.com/search?q=UC%20Doctoral%20Scholarship%20University%20of%20Canterbury%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The University of Canterbury Doctoral Scholarship provides full tuition fees and an annual stipend for PhD students across all disciplines, including humanitarian and disaster-related fields. It is awarded on academic merit and open to domestic and international students.",
@@ -6272,7 +6417,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Canterbury",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "12862b4bee1d",
@@ -6287,7 +6433,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.canterbury.ac.nz/study/doctoral-study/scholarships/",
+    "official_link": "https://www.google.com/search?q=UC%20Doctoral%20Completion%20Scholarship%20University%20of%20Canterbury%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "This scholarship supports PhD candidates in their final year of study, providing a stipend to assist with completion. It is available to current UC doctoral students, including those in humanitarian and health-related research.",
@@ -6311,7 +6457,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Canterbury",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "c734d9e43f54",
@@ -6326,7 +6473,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.canterbury.ac.nz/study/doctoral-study/scholarships/",
+    "official_link": "https://www.google.com/search?q=New%20Zealand%20International%20Doctoral%20Research%20Scholarship%20%28NZIDRS%29%20University%20of%20Canterbury%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "Funded by the New Zealand Government, this scholarship covers tuition fees, living allowance, and travel costs for international PhD students at UC. It is open to all research areas, including humanitarian and health-related topics.",
@@ -6357,7 +6504,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Canterbury",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "977494a1f741",
@@ -6372,7 +6520,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.canterbury.ac.nz/arts/study/doctoral-scholarships/",
+    "official_link": "https://www.google.com/search?q=UC%20College%20of%20Arts%20Doctoral%20Scholarship%20University%20of%20Canterbury%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "Offered by the College of Arts, this scholarship provides full tuition and a stipend for PhD research in humanities and social sciences, including humanitarian law and migration studies. It is awarded competitively to outstanding applicants.",
@@ -6396,7 +6544,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Canterbury",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "1f4eb2dded61",
@@ -6411,7 +6560,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.canterbury.ac.nz/international/apply/scholarships/",
+    "official_link": "https://www.google.com/search?q=UC%20Doctoral%20Scholarship%20for%20International%20Students%20%28via%20UC%20International%29%20University%20of%20Canterbury%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "This scholarship is specifically for international PhD applicants, covering full tuition and a living stipend. It supports research across all faculties, including health and humanitarian studies.",
@@ -6442,7 +6591,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Canterbury",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "fb4a887cde99",
@@ -6489,7 +6639,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Manchester",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "e245ad1ee314",
@@ -6537,7 +6688,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Manchester",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "75aed3c8fd35",
@@ -6584,7 +6736,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Manchester",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "421f65cf5efe",
@@ -6630,7 +6783,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Manchester",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "d5272a80fc3a",
@@ -6646,7 +6800,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.chevening.org/scholarship/",
+    "official_link": "https://www.google.com/search?q=Chevening%20Scholarships%20University%20of%20Manchester%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "Chevening Scholarships are funded by the UK Foreign, Commonwealth and Development Office and are available to international students for a one-year master's degree, but they also support PhD study at UK universities, including the University of Manchester. They cover tuition fees, living costs, and flights, and are awarded to individuals with leadership potential in fields such as humanitarian and global health.",
@@ -6677,7 +6831,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "University of Manchester",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "c7b36a16ba2f",
@@ -6723,7 +6878,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "King's College London",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "063e7ecd5b9d",
@@ -6769,7 +6925,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "King's College London",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "2e1fe6b940a4",
@@ -6815,7 +6972,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "King's College London",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "667c2c3d9353",
@@ -6861,7 +7019,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "King's College London",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": true
   },
   {
     "id": "88fa6923e95f",
@@ -6876,7 +7035,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.chevening.org/",
+    "official_link": "https://www.google.com/search?q=Chevening%20Scholarship%20%28for%20PhD%20applicants%20at%20King%27s%20College%20London%29%20King%27s%20College%20London%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "UK government-funded scholarship for international students, covering tuition, living costs, and flights. Available for PhD study at King's, including in health and humanitarian fields.",
@@ -6907,7 +7066,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "King's College London",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "9c33ffd90c4b",
@@ -6923,7 +7083,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.lse.ac.uk/study-at-lse/Graduate/Prospective-students/PhD-Programmes/Funding",
+    "official_link": "https://www.google.com/search?q=LSE%20PhD%20Studentships%20LSE%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "LSE offers a range of PhD studentships covering full fees and a maintenance stipend for doctoral researchers across all departments, including those in health, social policy, and international development. These are competitive awards based on academic merit and research potential.",
@@ -6954,7 +7114,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "LSE",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "e4f384993651",
@@ -6970,7 +7131,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.lse.ac.uk/study-at-lse/Graduate/Prospective-students/PhD-Programmes/Funding/ESRC",
+    "official_link": "https://www.google.com/search?q=ESRC%20Doctoral%20Studentships%20%28via%20LSE%29%20LSE%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "LSE is part of the ESRC Doctoral Training Partnership, offering fully funded studentships for UK and international students in social sciences, including research on migration, health, and humanitarian issues. Awards cover tuition fees and an annual stipend.",
@@ -7001,7 +7162,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "LSE",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "f16d159fa772",
@@ -7016,7 +7178,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.lse.ac.uk/study-at-lse/Graduate/Prospective-students/PhD-Programmes/Funding",
+    "official_link": "https://www.google.com/search?q=LSE-UKRI%20%28Research%20Councils%29%20Studentships%20LSE%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "LSE hosts UKRI-funded doctoral studentships (e.g., via ESRC, MRC) for research in areas like health policy, conflict, and migration. These provide full fee coverage and a living stipend for eligible PhD candidates.",
@@ -7047,7 +7209,8 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "LSE",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   },
   {
     "id": "eccae997489c",
@@ -7062,7 +7225,7 @@
     "funding_type": "fully_funded",
     "deadline": null,
     "status": "Unknown",
-    "official_link": "https://www.lse.ac.uk/International-Development/Research/PhD",
+    "official_link": "https://www.google.com/search?q=LSE%20Doctoral%20Fellowships%20in%20International%20Development%20%28via%20Department%20of%20International%20Development%29%20LSE%20scholarship",
     "language_of_instruction": "English",
     "source_language": "en",
     "summary": "The Department of International Development at LSE occasionally offers fully funded PhD fellowships for research on development-related topics, including health, conflict, and migration. These awards typically cover fees and a stipend, and are advertised on the department's website.",
@@ -7093,6 +7256,7 @@
     "review_status": "approved",
     "date_sourced": "2026-08-13",
     "source_name": "LSE",
-    "sponsored": false
+    "sponsored": false,
+    "link_verified": false
   }
 ]
