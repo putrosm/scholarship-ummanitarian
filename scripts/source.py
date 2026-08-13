@@ -76,31 +76,31 @@ SOURCES = [
     {"url":"https://www.twas.org/opportunity","name":"TWAS","fetch":True},
     {"url":"https://www.oas.org/en/scholarships/","name":"OAS","fetch":True},
     # Target universities (dari Prinsipal) — URL divalidasi 2026-08-13
-    {"url":"https://www.fhs.se/en/","name":"Swedish Defence University","fetch":True},
-    {"url":"https://www.uu.se/en/","name":"Uppsala University","fetch":True},
-    {"url":"https://www.unimi.it/en/education/scholarships-and-exemptions","name":"University of Milan","fetch":True},
-    {"url":"https://www.unipi.it/","name":"University of Pisa","fetch":True},
-    {"url":"https://www.universiteitleiden.nl/en/scholarships","name":"Leiden University","fetch":True},
-    {"url":"https://www.uu.nl/en","name":"Utrecht University","fetch":True},
-    {"url":"https://www.uva.nl/en","name":"University of Amsterdam","fetch":True},
-    {"url":"https://vu.nl/en","name":"VU Amsterdam","fetch":True},
-    {"url":"https://www.wur.nl/en.htm","name":"Wageningen University","fetch":True},
-    {"url":"https://www.tudelft.nl/en/education/practical-matters/scholarships","name":"TU Delft","fetch":True},
-    {"url":"https://www.eur.nl/en","name":"Erasmus University Rotterdam","fetch":True},
-    {"url":"https://www.rug.nl/scholarships","name":"University of Groningen","fetch":True},
-    {"url":"https://scholarships.uq.edu.au/","name":"University of Queensland","fetch":True},
-    {"url":"https://www.sydney.edu.au/","name":"University of Sydney","fetch":True},
-    {"url":"https://scholarships.unimelb.edu.au/","name":"University of Melbourne","fetch":True},
-    {"url":"https://www.anu.edu.au/study/scholarships","name":"ANU","fetch":True},
-    {"url":"https://www.monash.edu/study/fees-scholarships/scholarships","name":"Monash University","fetch":True},
-    {"url":"https://www.unsw.edu.au/","name":"UNSW","fetch":True},
-    {"url":"https://www.otago.ac.nz/scholarships","name":"University of Otago","fetch":True},
-    {"url":"https://www.wgtn.ac.nz/scholarships","name":"Victoria University of Wellington","fetch":True},
-    {"url":"https://www.auckland.ac.nz/en/study/scholarships-and-awards.html","name":"University of Auckland","fetch":True},
-    {"url":"https://www.canterbury.ac.nz/","name":"University of Canterbury","fetch":True},
-    {"url":"https://www.manchester.ac.uk/study/postgraduate-research/funding/","name":"University of Manchester","fetch":True},
-    {"url":"https://www.kcl.ac.uk/study/funding","name":"King's College London","fetch":True},
-    {"url":"https://www.lse.ac.uk/","name":"LSE","fetch":True},
+    {"url":"https://www.fhs.se/en/","name":"Swedish Defence University","fetch":False},
+    {"url":"https://www.uu.se/en/","name":"Uppsala University","fetch":False},
+    {"url":"https://www.unimi.it/en/education/scholarships-and-exemptions","name":"University of Milan","fetch":False},
+    {"url":"https://www.unipi.it/","name":"University of Pisa","fetch":False},
+    {"url":"https://www.universiteitleiden.nl/en/scholarships","name":"Leiden University","fetch":False},
+    {"url":"https://www.uu.nl/en","name":"Utrecht University","fetch":False},
+    {"url":"https://www.uva.nl/en","name":"University of Amsterdam","fetch":False},
+    {"url":"https://vu.nl/en","name":"VU Amsterdam","fetch":False},
+    {"url":"https://www.wur.nl/en.htm","name":"Wageningen University","fetch":False},
+    {"url":"https://www.tudelft.nl/en/education/practical-matters/scholarships","name":"TU Delft","fetch":False},
+    {"url":"https://www.eur.nl/en","name":"Erasmus University Rotterdam","fetch":False},
+    {"url":"https://www.rug.nl/scholarships","name":"University of Groningen","fetch":False},
+    {"url":"https://scholarships.uq.edu.au/","name":"University of Queensland","fetch":False},
+    {"url":"https://www.sydney.edu.au/","name":"University of Sydney","fetch":False},
+    {"url":"https://scholarships.unimelb.edu.au/","name":"University of Melbourne","fetch":False},
+    {"url":"https://www.anu.edu.au/study/scholarships","name":"ANU","fetch":False},
+    {"url":"https://www.monash.edu/study/fees-scholarships/scholarships","name":"Monash University","fetch":False},
+    {"url":"https://www.unsw.edu.au/","name":"UNSW","fetch":False},
+    {"url":"https://www.otago.ac.nz/scholarships","name":"University of Otago","fetch":False},
+    {"url":"https://www.wgtn.ac.nz/scholarships","name":"Victoria University of Wellington","fetch":False},
+    {"url":"https://www.auckland.ac.nz/en/study/scholarships-and-awards.html","name":"University of Auckland","fetch":False},
+    {"url":"https://www.canterbury.ac.nz/","name":"University of Canterbury","fetch":False},
+    {"url":"https://www.manchester.ac.uk/study/postgraduate-research/funding/","name":"University of Manchester","fetch":False},
+    {"url":"https://www.kcl.ac.uk/study/funding","name":"King's College London","fetch":False},
+    {"url":"https://www.lse.ac.uk/","name":"LSE","fetch":False},
 ]
 
 
@@ -176,25 +176,30 @@ PhD level only. Return [] if none found. JSON only."""
 
 
 def extract_from_knowledge(source_name):
-    prompt = f"""List 3-5 real PhD scholarships or fellowships offered by or listed on: {source_name}.
+    prompt = f"""List 3-6 real PhD scholarships, doctoral fellowships, or fully-funded doctoral studentships offered by or at: {source_name}.
 
 Focus on fields: {', '.join(FIELDS[:6])}
 
+These are well-known examples of the format expected (adapt to the actual institution):
+- Named doctoral studentships / PhD funding schemes run by the university itself
+- Government or foundation scholarships available to PhD applicants at this university (e.g. national scholarship councils, Swiss Government Excellence, DAAD, Chevening, etc.)
+- Research council / foundation doctoral fellowships hosted at this university
+
 Return JSON array:
 {{
-  "title": "exact scholarship name",
-  "university": "host university",
+  "title": "exact scholarship/fellowship name",
+  "university": "{source_name}",
   "country": "host country",
   "field_tags": ["tag1","tag2"],
   "funding_type": "fully_funded|partial|unknown",
   "deadline": null,
-  "official_link": "most likely URL",
+  "official_link": "official program page URL if known, else null",
   "language_of_instruction": "English",
   "source_language": "en",
-  "summary": "2-3 sentences"
+  "summary": "2-3 sentences what this scholarship offers"
 }}
 
-Only include scholarships you are confident exist. Return [] if unsure. JSON only."""
+Only include scholarships you are confident genuinely exist at this institution. Use your knowledge — do not invent URLs. If the institution truly has no relevant PhD funding, return []. JSON only."""
     result = call_deepseek([
         {"role":"system","content":"Scholarship data assistant. Return only valid JSON arrays."},
         {"role":"user","content":prompt}
