@@ -6,8 +6,8 @@
 ## Identitas proyek
 
 - **Katalog beasiswa PhD niche kemanusiaan** (humanitarian studies, conflict health, global health, IHL, disaster management), sumber otomatis 50+ portal.
-- **URL target:** scholarship.ummanitarian.org (Cloudflare Pages — belum connect, lihat HANDOVER.md)
-- **Repo:** github.com/ummanitarian/scholarship-ummanitarian — branch `main` satu-satunya. **Repo publik — jangan pernah commit credential.**
+- **URL target:** scholarship.ummanitarian.org (Cloudflare Pages — LIVE di scholarship-ummanitarian.pages.dev; subdomain menunggu CNAME, lihat HANDOVER.md)
+- **Repo:** github.com/putrosm/scholarship-ummanitarian — branch `main` satu-satunya. **Repo publik — jangan pernah commit credential.**
 - **Stack:** frontend statis (HTML/CSS/JS vanilla) + GitHub Actions + DeepSeek (ekstraksi) + Telegram bot (ACC manusia).
 
 ## Siapa "Hermes" — baca kalau Prinsipal menyebutnya

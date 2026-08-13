@@ -1,10 +1,9 @@
-> ⚠️ CREDENTIALS DIREDACT dari file ini karena repo publik.
-> Simpan credentials asli di tempat aman (password manager / catatan pribadi terenkripsi).
-> Onboard Claude baru: paste isi file ini + tambahkan credentials dari catatan Anda.
-
 # HANDOVER — scholarship.ummanitarian.org
-*Last updated: 2026-08-13*
-*Operator: Putro S. Muhammad (putrosm.darsono@gmail.com)*
+
+> ⚠️ CREDENTIALS DIREDACT — repo publik. Credential asli hanya di GitHub Secrets repo ini + penyimpanan aman operator.
+> JANGAN pernah menulis token/credential di file repo. JANGAN paste token ke chat mana pun.
+> *Last updated: 2026-08-13*
+> *Operator: Putro S. Muhammad (putrosm.darsono@gmail.com)*
 
 ---
 
@@ -12,244 +11,94 @@
 
 Website pencarian beasiswa PhD niche: humanitarian studies, conflict health, global health, IHL, disaster management.
 
-- **URL target:** scholarship.ummanitarian.org
-- **Repo:** github.com/ummanitarian/scholarship-ummanitarian
-- **Hosting:** Cloudflare Pages (belum disambung — lihat bagian SETUP BELUM SELESAI)
-- **AI asisten aktif:** Claude (Anthropic) — bukan Hermes/Nous
+- **URL production:** `scholarship-ummanitarian.pages.dev` (LIVE ✅)
+- **URL target (subdomain):** `scholarship.ummanitarian.org` — belum aktif, tinggal CNAME (bagian 5D)
+- **Repo:** `github.com/putrosm/scholarship-ummanitarian` (PUBLIC, branch `main`) — *sebelumnya ummanitarian/scholarship-ummanitarian, sudah ditransfer ke putrosm 2026-08-13*
+- **Hosting:** Cloudflare Pages (project `scholarship-ummanitarian`, akun putrosm.darsono@gmail.com)
+- **Stack:** frontend statis (HTML/CSS/JS vanilla, no build step) + GitHub Actions + DeepSeek (sourcing) + Telegram bot (ACC manusia) + Cloudflare Pages (deploy)
+- **AI asisten aktif:** Claude (Anthropic) — Hermes/Nous sudah tidak aktif (WSL2 decommission)
 
----
+## 2. STATUS SETUP (2026-08-13 — hampir semua beres)
 
-## 2. CREDENTIALS
-
-| Item | Value | Reset di |
-|---|---|---|
-| GitHub token | `ghp_XXXX_REDACTED — lihat penyimpanan aman Anda` | github.com/settings/tokens |
-| DeepSeek API key | `sk-XXXX_REDACTED — lihat penyimpanan aman Anda` | platform.deepseek.com |
-| Telegram bot token | `XXXX_REDACTED — lihat penyimpanan aman Anda` | t.me/BotFather → /mybots |
-| Telegram bot | @ummanitarian_bot | — |
-| Telegram chat ID Anda | `XXXX_REDACTED` | kirim pesan ke @userinfobot |
-| Jotform akun | liqihuang03@... | jotform.com |
-| GitHub akun | ummanitarian (email: putrosm.darsono@gmail.com) | github.com/settings |
-
-**PENTING:** Credentials di atas ada di chat history Claude. Setelah setup selesai, generate ulang semua token untuk keamanan.
-
----
-
-## 3. STRUKTUR REPO
-
-```
-scholarship-ummanitarian/
-├── .github/workflows/
-│   ├── weekly-source.yml     ← jalan tiap Senin 09.00 WIB
-│   └── daily-poll.yml        ← jalan tiap hari 06.00 WIB
-├── assets/
-│   ├── logo-dark.jpg         ← logo hitam (untuk header terang)
-│   └── logo-white.png        ← logo putih (untuk footer gelap)
-├── data/
-│   ├── scholarships.json     ← beasiswa APPROVED — dibaca web
-│   ├── pending.json          ← beasiswa pending approval Anda
-│   └── telegram_offset.json  ← state internal bot Telegram
-├── scripts/
-│   ├── source.py             ← sourcing 50+ portal → pending.json
-│   ├── notify_telegram.py    ← kirim batch ke Telegram
-│   ├── poll_approve.py       ← proses klik Approve/Reject Anda
-│   └── requirements.txt      ← requests, beautifulsoup4
-├── index.html                ← halaman utama web
-├── style.css                 ← styling (brand UMMANITARIAN)
-├── app.js                    ← filter/search/render kartu
-└── _headers                  ← Cloudflare Pages config
-```
-
----
-
-## 4. ALUR KERJA NORMAL
-
-```
-SENIN 09.00 WIB
-GitHub Actions jalankan weekly-source.yml
-→ source.py fetch 50+ portal beasiswa
-→ DeepSeek ekstrak data terstruktur
-→ hasil masuk data/pending.json
-→ notify_telegram.py kirim batch ke Telegram Anda
-   (tiap beasiswa = 1 pesan + tombol ✅ Approve / ❌ Reject)
-
-SEPANJANG HARI
-Anda buka Telegram → klik ✅ atau ❌ per beasiswa
-
-SETIAP HARI 06.00 WIB
-GitHub Actions jalankan daily-poll.yml
-→ poll_approve.py cek klik Anda di Telegram
-→ yang di-approve → masuk data/scholarships.json
-→ git commit → Cloudflare Pages rebuild otomatis
-→ web live terupdate
-→ Bot kirim konfirmasi: "X approved, Y rejected. Website updated."
-```
-
----
-
-## 5. SETUP YANG BELUM SELESAI
-
-### A. Workflow files — PRIORITAS PERTAMA
-Token GitHub belum punya scope `workflow`. Lakukan:
-1. github.com/settings/tokens → edit token → centang `workflow` → Save
-2. Repo → Add file → Create new file
-3. Buat `.github/workflows/weekly-source.yml` (isi ada di bawah)
-4. Buat `.github/workflows/daily-poll.yml` (isi ada di bawah)
-
-**Isi weekly-source.yml:**
-```yaml
-name: Weekly Scholarship Sourcing
-on:
-  schedule:
-    - cron: '0 2 * * 1'
-  workflow_dispatch:
-jobs:
-  source:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GH_TOKEN }}
-      - uses: actions/setup-python@v4
-        with:
-          python-version: '3.11'
-      - run: pip install -r scripts/requirements.txt
-      - run: python scripts/source.py
-        env:
-          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
-      - run: python scripts/notify_telegram.py
-        env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-      - run: |
-          git config user.name "scholarship-bot"
-          git config user.email "bot@ummanitarian.org"
-          git add data/pending.json
-          git diff --staged --quiet || git commit -m "chore: pending scholarships $(date +%Y-%m-%d)"
-          git push
-```
-
-**Isi daily-poll.yml:**
-```yaml
-name: Daily Approval Poll
-on:
-  schedule:
-    - cron: '0 23 * * *'
-  workflow_dispatch:
-jobs:
-  poll:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GH_TOKEN }}
-      - uses: actions/setup-python@v4
-        with:
-          python-version: '3.11'
-      - run: pip install -r scripts/requirements.txt
-      - run: python scripts/poll_approve.py
-        env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-      - run: |
-          git config user.name "scholarship-bot"
-          git config user.email "bot@ummanitarian.org"
-          git add data/scholarships.json data/pending.json data/telegram_offset.json
-          git diff --staged --quiet || git commit -m "chore: approved scholarships $(date +%Y-%m-%d)"
-          git push
-```
-
-### B. GitHub Secrets
-Repo → Settings → Secrets and variables → Actions → New repository secret:
-
-| Name | Value |
+| Item | Status |
 |---|---|
-| `DEEPSEEK_API_KEY` | `sk-XXXX_REDACTED — lihat penyimpanan aman Anda` |
-| `TELEGRAM_BOT_TOKEN` | `XXXX_REDACTED — lihat penyimpanan aman Anda` |
-| `TELEGRAM_CHAT_ID` | `XXXX_REDACTED` |
-| `GH_TOKEN` | `ghp_XXXX_REDACTED — lihat penyimpanan aman Anda` |
+| Repo + frontend + scripts + logo | ✅ |
+| Workflow files (`weekly-source.yml`, `daily-poll.yml`) | ✅ terupload |
+| GitHub Secrets (6): `DEEPSEEK_API_KEY`, `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID`, `GH_TOKEN`, `CLOUDFLARE_API_TOKEN`, `CLOUDFLARE_ACCOUNT_ID` | ✅ terisi |
+| Auto-deploy workflow → Cloudflare Pages | ✅ (step wrangler di kedua workflow) |
+| Cloudflare Pages project + deploy | ✅ LIVE di `scholarship-ummanitarian.pages.dev` |
+| Trial end-to-end (sourcing → TG → approve → deploy) | ✅ 8 beasiswa approved tampil |
+| CNAME subdomain `scholarship.ummanitarian.org` | ⬜ BELUM — di panel idwebhost (5D) |
+| Jotform subscriber form | ⬜ BELUM — form belum dibuat (5E) |
+| Affiliate links (Grammarly/Magoosh) | ⬜ opsional (5F) |
 
-### C. Cloudflare Pages
-1. Cloudflare dashboard → Pages → Create project
-2. Connect GitHub → pilih repo `ummanitarian/scholarship-ummanitarian`
-3. Build settings:
-   - Build command: *(kosong)*
-   - Build output directory: `/` *(root)*
-4. Deploy → dapat URL `scholarship-ummanitarian.pages.dev`
+## 3. CREDENTIALS — LOKASI PENYIMPANAN
 
-### D. DNS Subdomain
-Cloudflare dashboard → DNS → ummanitarian.org:
-- Type: `CNAME`
-- Name: `scholarship`
-- Target: `scholarship-ummanitarian.pages.dev`
-- Proxy: ON (orange cloud)
+| Item | Lokasi | Catatan |
+|---|---|---|
+| GitHub token (putrosm) | GitHub Secrets `GH_TOKEN` | scope repo + workflow |
+| DeepSeek API key | GitHub Secrets `DEEPSEEK_API_KEY` | platform.deepseek.com |
+| Telegram bot token @ummanitarian_bot | GitHub Secrets `TELEGRAM_BOT_TOKEN` | **diganti 2026-08-13** (token lama 401 mati); token baru TIDAK boleh tulis di repo/chat |
+| Telegram chat ID | `446614920` (bukan rahasia) | |
+| Cloudflare API token | GitHub Secrets `CLOUDFLARE_API_TOKEN` + `CLOUDFLARE_ACCOUNT_ID` | scoped Pages; akun CF = putrosm.darsono@gmail.com |
 
-Lalu di Cloudflare Pages → Custom domains → Add → `scholarship.ummanitarian.org`
+**PENTING:** Token yang pernah tampil di chat history / repo = dianggap bocor → regenerate. Jangan pernah paste token asli ke chat Claude/Telegram/WebUI. Isi langsung di GitHub Secrets (Settings → Secrets and variables → Actions).
 
-### E. Jotform Subscriber Form
-Buat form baru di Jotform (akun liqihuang03) dengan field:
-- Nama lengkap
-- Email
-- Nomor WhatsApp
-- Field of interest (checkbox: Humanitarian Studies, Conflict Health, Global Health, IHL, Disaster Management, Forced Migration, MHPSS)
+## 4. STRUKTUR REPO
 
-Setelah dibuat → ambil embed code → paste ke `index.html` ganti bagian:
 ```
-src="https://form.jotform.com/FORM_ID_HERE"
-```
-
-### F. Affiliate Links
-Di `index.html`, ganti placeholder:
-- Grammarly: daftar di grammarly.com/affiliates → dapat link → ganti `https://grammarly.go2cloud.org/SH8a`
-- Magoosh: daftar di magoosh.com/affiliates → dapat link → ganti URL Magoosh
-
----
-
-## 6. OPERASIONAL MANUAL
-
-### Trigger sourcing sekarang (tanpa tunggu Senin)
-Repo → Actions → Weekly Scholarship Sourcing → Run workflow
-
-### Trigger approval sekarang
-Repo → Actions → Daily Approval Poll → Run workflow
-
-### Tambah beasiswa manual
-Edit `data/scholarships.json` di GitHub web UI — tambah objek baru dengan struktur:
-```json
-{
-  "id": "buat-unik-12char",
-  "title": "Nama Beasiswa",
-  "university": "Nama Universitas",
-  "country": "Negara",
-  "field_tags": ["humanitarian studies"],
-  "funding_type": "fully_funded",
-  "deadline": "2026-12-31",
-  "status": "Open",
-  "official_link": "https://...",
-  "language_of_instruction": "English",
-  "summary": "Deskripsi singkat.",
-  "key_figures": [],
-  "sponsored": false,
-  "date_sourced": "2026-08-13"
-}
+.github/workflows/
+├── weekly-source.yml     ← Senin 09:00 WIB: sourcing → pending.json → TG → deploy
+└── daily-poll.yml        ← Harian 06:00 WIB: proses klik TG → scholarships.json → deploy
+assets/logo-dark.png      ← logo hitam (header terang) — U merah #CC0000
+assets/logo-white.png     ← logo putih (footer gelap)
+data/scholarships.json    ← beasiswa APPROVED — dibaca web
+data/pending.json         ← antrean menunggu ACC
+data/telegram_offset.json ← state internal bot
+scripts/source.py         ← sourcing 50+ portal + ekstraksi DeepSeek
+scripts/notify_telegram.py← kirim batch ke TG + tombol ✅/❌
+scripts/poll_approve.py   ← proses klik → approved → scholarships.json
+index.html / style.css / app.js  ← frontend (EN default + toggle ID)
+_headers                  ← config keamanan Cloudflare Pages
 ```
 
-### Tandai beasiswa sebagai sponsored
-Edit `scholarships.json` → cari beasiswa → ubah `"sponsored": false` → `"sponsored": true` → commit.
+## 5. ALUR KERJA NORMAL (sudah jalan otomatis)
 
----
+```
+SENIN 09.00 WIB → weekly-source: source.py (50+ portal → DeepSeek) → pending.json → notify TG (tombol ACC) → auto-deploy CF Pages
+SEPANJANG HARI  → operator klik ✅/❌ di Telegram
+HARIAN 06.00 WIB → daily-poll: poll_approve.py → approved masuk scholarships.json → auto-deploy → website live
+```
+
+**Trigger manual** (tanpa tunggu jadwal): Repo → Actions → workflow → Run workflow. Atau via API dispatch (pakai `GH_TOKEN`).
+
+## 6. SISA TUGAS (untuk Claude)
+
+### 5D. CNAME subdomain (butuh panel idwebhost — DNS ummanitarian.org di idwebhost, BUKAN Cloudflare)
+Tambah record DNS di panel idwebhost/cPanel untuk `ummanitarian.org`:
+- Type: `CNAME`, Name: `scholarship`, Target: `scholarship-ummanitarian.pages.dev`
+- Contoh yang sudah jalan: `insight.ummanitarian.org` → CNAME → `ummanitarian-insight.pages.dev`
+- Setelah propagate (~5-15 menit), di Cloudflare Pages → project → Custom domains → pastikan `scholarship.ummanitarian.org` terverifikasi (sudah ditambahkan 2026-08-13, status menunggu DNS)
+
+### 5E. Jotform subscriber form
+1. Buat form di Jotform (akun `liqihuang03@...` — KONFIRMASI pemiliknya dengan Prinsipal; kalau bukan milik Prinsipal, buat akun Jotform baru gratis)
+2. Field: Nama lengkap, Email, Nomor WhatsApp, Field of interest (checkbox: Humanitarian Studies, Conflict Health, Global Health, IHL, Disaster Management, Forced Migration, MHPSS)
+3. Ambil embed code → ganti placeholder di `index.html` (cari `FORM_ID_HERE` / `data-src`) → commit → push → auto-deploy
+4. Jangan lupa: `#jotform-placeholder` di-hide saat iframe loaded (lihat app.js)
+
+### 5F. Affiliate links (opsional)
+- Grammarly: `https://grammarly.go2cloud.org/SH8a` — ganti dengan link affiliate sendiri kalau ada
+- Magoosh: `https://magoosh.com/?utm_source=ummanitarian`
 
 ## 7. TROUBLESHOOT
 
 | Masalah | Cek |
 |---|---|
-| Bot tidak kirim ke Telegram | Actions → weekly-source → lihat log. Cek TELEGRAM_BOT_TOKEN di Secrets. |
-| Approve tidak diproses | Actions → daily-poll → lihat log. Cek TELEGRAM_CHAT_ID = XXXX_REDACTED. |
-| Web tidak update setelah approve | Cloudflare Pages → Deployments → apakah ada deployment baru? Kalau tidak, cek apakah git push di workflow berhasil. |
-| Sourcing tidak temukan beasiswa | Actions → weekly-source → log source.py. Cek DEEPSEEK_API_KEY. Cek saldo DeepSeek di platform.deepseek.com. |
-| pending.json kosong terus | Kemungkinan semua beasiswa sudah ada (duplicate). Reset: kosongkan `data/pending.json` → `[]` → commit → trigger manual. |
-
----
+| Bot tidak kirim TG | Actions → weekly-source log. Cek `TELEGRAM_BOT_TOKEN` di Secrets (token lama 401 mati). Cek script tidak menandai `sent_to_telegram` palsu: kalau token mati saat kirim, script TETAP lulus (requests tidak raise) — reset `sent_to_telegram` di pending.json lalu jalankan ulang |
+| Approve tidak diproses | Actions → daily-poll log. Cek `TELEGRAM_CHAT_ID` = 446614920 |
+| Web tidak update setelah approve | Cek auto-deploy step wrangler di workflow (CLOUDFLARE_API_TOKEN/ACCOUNT_ID di Secrets) |
+| Sourcing kosong terus | Cek `DEEPSEEK_API_KEY`, saldo DeepSeek (platform.deepseek.com). Reset pending.json → `[]` → trigger manual |
+| Push workflow ditolak | `GH_TOKEN` di Secrets harus token putrosm dengan scope `workflow` (bukan token ummanitarian) |
 
 ## 8. ONBOARD CLAUDE BARU
 
@@ -258,22 +107,23 @@ Paste ini di awal sesi baru:
 ```
 Lanjutkan proyek scholarship.ummanitarian.org.
 
-Repo: github.com/ummanitarian/scholarship-ummanitarian
-HANDOVER lengkap: lihat file HANDOVER.md di repo.
+Repo: github.com/putrosm/scholarship-ummanitarian (PUBLIC, main)
+HANDOVER lengkap: file HANDOVER.md di repo.
 
 Proyek: website beasiswa PhD niche humanitarian/conflict/global health.
-Stack: static HTML + GitHub Actions + DeepSeek sourcing + Telegram approval.
-PRD sudah acc. Build sudah selesai kecuali bagian SETUP BELUM SELESAI di HANDOVER.md.
+Stack: static HTML + GitHub Actions + DeepSeek sourcing + Telegram approval + Cloudflare Pages.
+Status: SEMUA JALAN. Live di scholarship-ummanitarian.pages.dev. Trial selesai, 8 beasiswa approved.
+Sisa tugas: (1) CNAME scholarship.ummanitarian.org di panel idwebhost — pandu Prinsipal, (2) Jotform form — konfirmasi pemilik akun liqihuang03 dulu, (3) affiliate links opsional.
+Credential: JANGAN tulis di repo/chat. Semua di GitHub Secrets. Token Telegram diganti 2026-08-13 — jangan pakai token lama.
 Operator: Putro S. Muhammad (putrosm.darsono@gmail.com / @BinDarsono Telegram).
-Lanjut dari mana kita berhenti.
+Lanjut dari bagian SETUP di HANDOVER.md.
 ```
-
----
 
 ## 9. KONTAK & REFERENSI
 
-- Repo: github.com/ummanitarian/scholarship-ummanitarian
-- DeepSeek dashboard: platform.deepseek.com
-- Cloudflare dashboard: dash.cloudflare.com
-- Jotform: jotform.com (akun liqihuang03)
+- Repo: github.com/putrosm/scholarship-ummanitarian
+- DeepSeek: platform.deepseek.com
+- Cloudflare: dash.cloudflare.com (akun putrosm.darsono@gmail.com)
+- Jotform: jotform.com (akun liqihuang03@... — konfirmasi pemilik)
 - Telegram bot: t.me/ummanitarian_bot
+- Panel DNS: idwebhost (hosting ummanitarian.org)
