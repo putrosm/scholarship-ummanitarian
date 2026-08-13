@@ -10,7 +10,9 @@ FIELDS = [
     "humanitarian studies","conflict health","global health",
     "international humanitarian law","disaster management",
     "forced migration","refugee health","humanitarian action",
-    "peace and conflict","MHPSS","emergency medicine"
+    "peace and conflict","MHPSS","emergency medicine",
+    "politics","war studies","security studies","international relations",
+    "political science","peace studies","conflict resolution","armed conflict"
 ]
 
 SOURCES = [
