@@ -1,0 +1,42 @@
+name: Weekly Scholarship Sourcing
+
+on:
+  schedule:
+    - cron: '0 2 * * 1'  # Monday 02:00 UTC = 09:00 WIB
+  workflow_dispatch:
+
+jobs:
+  source:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Run sourcing
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: python scripts/source.py
+
+      - name: Send to Telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python scripts/notify_telegram.py
+
+      - name: Commit pending
+        run: |
+          git config user.name "scholarship-bot"
+          git config user.email "bot@ummanitarian.org"
+          git add data/pending.json
+          git diff --staged --quiet || git commit -m "chore: pending scholarships $(date +%Y-%m-%d)"
+          git push

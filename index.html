@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PhD Scholarships | Humanitarian · Conflict · Global Health</title>
+<meta name="description" content="Find fully-funded PhD scholarships in humanitarian studies, conflict health, global health, IHL and disaster management.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- HEADER -->
+<header id="site-header">
+  <div class="header-inner container">
+    <a href="/" class="logo-link">
+      <img src="assets/logo-dark.jpg" alt="UMMANITARIAN" class="logo-img" id="logo-img">
+    </a>
+    <nav class="main-nav">
+      <a href="#scholarships" data-en="Scholarships" data-id="Beasiswa">Scholarships</a>
+      <a href="#subscribe" data-en="Subscribe" data-id="Berlangganan">Subscribe</a>
+      <a href="https://ummanitarian.org" target="_blank" data-en="About" data-id="Tentang">About</a>
+      <button class="lang-btn" id="lang-btn" onclick="toggleLang()">🇮🇩 ID</button>
+    </nav>
+  </div>
+</header>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-bg"></div>
+  <div class="hero-overlay"></div>
+  <div class="hero-content container">
+    <span class="hero-tag" data-en="By UMMANITARIAN" data-id="Oleh UMMANITARIAN">By UMMANITARIAN</span>
+    <h1 data-en="PhD Scholarships in Humanitarian Studies"
+        data-id="Beasiswa PhD Kajian Kemanusiaan">
+      PhD Scholarships in Humanitarian Studies
+    </h1>
+    <p class="hero-sub"
+       data-en="Fully-funded opportunities in conflict health, global health, IHL & disaster management — sourced weekly from 50+ global funders."
+       data-id="Peluang beasiswa penuh di bidang kesehatan konflik, kesehatan global, HHI & manajemen bencana — diperbarui mingguan dari 50+ pemberi dana global.">
+      Fully-funded opportunities in conflict health, global health, IHL & disaster management — sourced weekly from 50+ global funders.
+    </p>
+    <div class="hero-stats">
+      <div class="stat-item">
+        <span class="stat-num" id="stat-open">—</span>
+        <span class="stat-label" data-en="Open Now" data-id="Buka Sekarang">Open Now</span>
+      </div>
+      <div class="stat-divider"></div>
+      <div class="stat-item">
+        <span class="stat-num" id="stat-countries">—</span>
+        <span class="stat-label" data-en="Countries" data-id="Negara">Countries</span>
+      </div>
+      <div class="stat-divider"></div>
+      <div class="stat-item">
+        <span class="stat-num">50+</span>
+        <span class="stat-label" data-en="Sources" data-id="Sumber">Sources</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FILTERS -->
+<section class="filters-section" id="scholarships">
+  <div class="container">
+    <div class="search-bar">
+      <span class="search-icon">🔍</span>
+      <input type="search" id="search-input"
+             data-placeholder-en="Search scholarships, universities, fields..."
+             data-placeholder-id="Cari beasiswa, universitas, bidang..."
+             placeholder="Search scholarships, universities, fields...">
+    </div>
+    <div class="filter-row">
+      <select id="filter-status">
+        <option value="" data-en="All Status" data-id="Semua Status">All Status</option>
+        <option value="Open" data-en="Open" data-id="Buka">Open</option>
+        <option value="Closing Soon" data-en="Closing Soon" data-id="Segera Tutup">Closing Soon</option>
+      </select>
+      <select id="filter-funding">
+        <option value="" data-en="All Funding" data-id="Semua Pendanaan">All Funding</option>
+        <option value="fully_funded" data-en="Fully Funded" data-id="Beasiswa Penuh">Fully Funded</option>
+        <option value="partial" data-en="Partial" data-id="Sebagian">Partial</option>
+      </select>
+      <select id="filter-field">
+        <option value="" data-en="All Fields" data-id="Semua Bidang">All Fields</option>
+      </select>
+      <select id="filter-country">
+        <option value="" data-en="All Countries" data-id="Semua Negara">All Countries</option>
+      </select>
+      <select id="sort-by">
+        <option value="deadline" data-en="Sort: Deadline" data-id="Urut: Tenggat">Sort: Deadline</option>
+        <option value="date_sourced" data-en="Sort: Newest" data-id="Urut: Terbaru">Sort: Newest</option>
+      </select>
+    </div>
+    <div class="results-meta">
+      <span id="results-count"></span>
+    </div>
+  </div>
+</section>
+
+<!-- CARDS -->
+<section class="cards-section">
+  <div class="container">
+    <div id="loading" class="loading-state">
+      <div class="spinner"></div>
+      <p data-en="Loading scholarships..." data-id="Memuat beasiswa...">Loading scholarships...</p>
+    </div>
+    <div id="cards-grid" class="cards-grid" style="display:none"></div>
+    <div id="no-results" class="no-results" style="display:none">
+      <p data-en="No scholarships match your filters." data-id="Tidak ada beasiswa yang cocok.">No scholarships match your filters.</p>
+      <button onclick="clearFilters()" data-en="Clear Filters" data-id="Hapus Filter">Clear Filters</button>
+    </div>
+    <div id="empty-state" class="empty-state" style="display:none">
+      <p data-en="No scholarships yet. Check back next week." data-id="Belum ada beasiswa. Cek kembali minggu depan.">No scholarships yet. Check back next week.</p>
+    </div>
+  </div>
+</section>
+
+<!-- SUBSCRIBE -->
+<section class="subscribe-section" id="subscribe">
+  <div class="subscribe-bg"></div>
+  <div class="subscribe-overlay"></div>
+  <div class="container subscribe-content">
+    <h2 data-en="Stay Updated" data-id="Tetap Terupdate">Stay Updated</h2>
+    <p data-en="Get weekly updates on new PhD scholarships in humanitarian studies. No spam."
+       data-id="Dapatkan update mingguan beasiswa PhD kajian kemanusiaan. Tanpa spam.">
+      Get weekly updates on new PhD scholarships in humanitarian studies. No spam.
+    </p>
+    <div class="jotform-wrapper">
+      <!-- REPLACE FORM_ID BELOW AFTER JOTFORM FORM IS CREATED -->
+      <iframe id="jotform-iframe"
+        title="Scholarship Update Subscription"
+        src="about:blank"
+        data-src="https://form.jotform.com/FORM_ID_HERE"
+        style="min-width:100%;max-width:100%;height:400px;border:none;border-radius:8px;"
+        scrolling="no">
+      </iframe>
+      <div id="jotform-placeholder" class="jotform-ph">
+        <p data-en="Subscription form loading..." data-id="Form berlangganan sedang dimuat...">Subscription form loading...</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- AFFILIATE -->
+<section class="affiliate-section">
+  <div class="container">
+    <h3 data-en="Prepare Your Application" data-id="Siapkan Aplikasi Anda">Prepare Your Application</h3>
+    <p class="affiliate-sub" data-en="Tools used by successful PhD applicants worldwide."
+       data-id="Alat yang digunakan pelamar PhD sukses di seluruh dunia.">
+      Tools used by successful PhD applicants worldwide.
+    </p>
+    <div class="affiliate-grid">
+      <a href="https://grammarly.go2cloud.org/SH8a" target="_blank" rel="noopener sponsored" class="affiliate-card">
+        <div class="affiliate-icon">✍️</div>
+        <h4>Grammarly</h4>
+        <p data-en="Polish your research proposal and motivation letter."
+           data-id="Sempurnakan proposal riset dan surat motivasi Anda.">
+          Polish your research proposal and motivation letter.
+        </p>
+        <span class="affiliate-cta" data-en="Try Free →" data-id="Coba Gratis →">Try Free →</span>
+      </a>
+      <a href="https://magoosh.com/?utm_source=ummanitarian" target="_blank" rel="noopener sponsored" class="affiliate-card">
+        <div class="affiliate-icon">📚</div>
+        <h4>Magoosh</h4>
+        <p data-en="Prepare for IELTS, TOEFL, or GRE with expert guidance."
+           data-id="Persiapkan IELTS, TOEFL, atau GRE dengan panduan ahli.">
+          Prepare for IELTS, TOEFL, or GRE with expert guidance.
+        </p>
+        <span class="affiliate-cta" data-en="Start Prep →" data-id="Mulai Persiapan →">Start Prep →</span>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <img src="assets/logo-white.png" alt="UMMANITARIAN" class="footer-logo">
+      <p class="footer-tagline" data-en="Connecting humanitarian scholars worldwide."
+         data-id="Menghubungkan akademisi kemanusiaan di seluruh dunia.">
+        Connecting humanitarian scholars worldwide.
+      </p>
+    </div>
+    <div class="footer-links">
+      <a href="https://ummanitarian.org" target="_blank">ummanitarian.org</a>
+      <a href="mailto:info@ummanitarian.org">Contact</a>
+    </div>
+  </div>
+  <div class="footer-bottom container">
+    <p class="disclaimer" data-en="Key figures are AI-suggested. Verify independently before contact. Scholarship data updated weekly — always check official sources for final deadlines."
+       data-id="Tokoh kunci disarankan AI. Verifikasi secara mandiri sebelum menghubungi. Data beasiswa diperbarui mingguan — selalu periksa sumber resmi untuk tenggat akhir.">
+      Key figures are AI-suggested. Verify independently before contact. Scholarship data updated weekly — always check official sources for final deadlines.
+    </p>
+    <p class="copyright">© 2026 UMMANITARIAN · scholarship.ummanitarian.org</p>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+/*
+  X-Frame-Options: SAMEORIGIN
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+
+/data/scholarships.json
+  Cache-Control: public, max-age=600
+  Access-Control-Allow-Origin: *
+
+/data/pending.json
+  X-Robots-Tag: noindex
+
+/assets/*
+  Cache-Control: public, max-age=86400
