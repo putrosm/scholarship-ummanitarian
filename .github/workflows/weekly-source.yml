@@ -25,18 +25,12 @@ jobs:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
         run: python scripts/source.py
 
-      - name: Notify Telegram
-        env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python scripts/notify_telegram.py
-
       - name: Commit if changed
         run: |
           git config user.name "scholarship-bot"
           git config user.email "bot@ummanitarian.org"
-          git add data/pending.json
-          git diff --staged --quiet || git commit -m "chore: pending scholarships $(date +%Y-%m-%d)"
+          git add data/scholarships.json
+          git diff --staged --quiet || git commit -m "chore: scholarships $(date +%Y-%m-%d) [auto, tanpa approval]"
           git push
 
       - name: Deploy to Cloudflare Pages

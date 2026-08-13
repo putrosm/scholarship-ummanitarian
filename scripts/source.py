@@ -247,13 +247,12 @@ def compute_status(deadline_str):
 
 def load_existing_ids():
     ids = set()
-    for path in ['data/scholarships.json','data/pending.json']:
-        try:
-            with open(path) as f:
-                for item in json.load(f):
-                    ids.add(item.get('id'))
-        except:
-            pass
+    try:
+        with open('data/scholarships.json') as f:
+            for item in json.load(f):
+                ids.add(item.get('id'))
+    except:
+        pass
     return ids
 
 
@@ -310,7 +309,7 @@ def main():
                 "summary": item.get('summary',''),
                 "key_figures": key_figures,
                 "supervisor_page_url": f"https://scholar.google.com/search?q={requests.utils.quote(university)}+phd+supervisor+{requests.utils.quote(' '.join(item.get('field_tags',[])[:2]))}",
-                "review_status": "pending",
+                "review_status": "approved",
                 "date_sourced": datetime.now().strftime("%Y-%m-%d"),
                 "source_name": source['name'],
                 "sponsored": False
@@ -322,14 +321,14 @@ def main():
 
     if new_items:
         try:
-            with open('data/pending.json') as f:
-                pending = json.load(f)
+            with open('data/scholarships.json') as f:
+                scholarships = json.load(f)
         except:
-            pending = []
-        pending.extend(new_items)
-        with open('data/pending.json','w') as f:
-            json.dump(pending, f, indent=2, ensure_ascii=False)
-        print(f"\nTotal new: {len(new_items)}")
+            scholarships = []
+        scholarships.extend(new_items)
+        with open('data/scholarships.json','w') as f:
+            json.dump(scholarships, f, indent=2, ensure_ascii=False)
+        print(f"\nTotal new: {len(new_items)} (langsung tayang, tanpa approval)")
     else:
         print("No new scholarships found")
 
