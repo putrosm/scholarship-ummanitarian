@@ -38,3 +38,9 @@ jobs:
           git add data/pending.json
           git diff --staged --quiet || git commit -m "chore: pending scholarships $(date +%Y-%m-%d)"
           git push
+
+      - name: Deploy to Cloudflare Pages
+        run: npx -y wrangler@4 pages deploy . --project-name scholarship-ummanitarian --branch main
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
