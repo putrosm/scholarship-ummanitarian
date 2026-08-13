@@ -1,1 +1,367 @@
-[]
+[
+  {
+    "id": "303de9e904e0",
+    "title": "CEU Doctoral Scholarship",
+    "university": "Central European University",
+    "country": "Austria",
+    "field_tags": [
+      "humanitarian studies",
+      "conflict health",
+      "global health",
+      "international humanitarian law",
+      "disaster management",
+      "forced migration",
+      "refugee health",
+      "humanitarian action",
+      "peace and conflict",
+      "MHPSS",
+      "emergency medicine"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": null,
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The CEU Doctoral Scholarship covers full tuition and provides a monthly stipend of 2,002 EUR (gross) for up to 48 months to support housing and living costs. It is awarded based on academic merit to PhD candidates who apply by the financial aid deadline.",
+    "key_figures": [
+      {
+        "name": "Claire Beaudevin",
+        "title": "Associate Professor",
+        "research_focus": "Medical anthropology, global health, and humanitarian interventions, with a focus on health systems and care practices in crisis contexts.",
+        "profile_url": "https://people.ceu.edu/claire_beaudevin",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Péter Balázs",
+        "title": "Professor",
+        "research_focus": "Health policy, global health governance, and health systems strengthening, including conflict-affected regions and humanitarian health responses.",
+        "profile_url": "https://people.ceu.edu/peter_balazs",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Central%20European%20University+phd+supervisor+humanitarian%20studies%20conflict%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-08-13",
+    "source_name": "CEU Vienna",
+    "sponsored": false,
+    "sent_to_telegram": "2026-08-13 21:25",
+    "date_approved": "2026-08-13"
+  },
+  {
+    "id": "ec1734e138f5",
+    "title": "Graduate Institute Geneva - Master of Advanced Studies (MAS) Scholarships in Humanitarian Action",
+    "university": "Graduate Institute Geneva",
+    "country": "Switzerland",
+    "field_tags": [
+      "humanitarian studies",
+      "disaster management"
+    ],
+    "funding_type": "partial",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.graduateinstitute.ch/academic-departments/humanitarian-action",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The Graduate Institute offers scholarships for its Master of Advanced Studies in Humanitarian Action, a program designed for professionals in humanitarian and disaster management fields. These scholarships are partial and awarded based on merit and financial need. They help cover tuition fees for the one-year program.",
+    "key_figures": [
+      {
+        "name": "Claire Somerville",
+        "title": "Executive Director, Gender Centre; Senior Lecturer",
+        "research_focus": "Gender, migration, and humanitarian action; intersectionality in humanitarian policy and practice.",
+        "profile_url": "https://www.graduateinstitute.ch/academic-departments/faculty/claire-somerville",
+        "source": "faculty_page"
+      },
+      {
+        "name": "François Grünewald",
+        "title": "Visiting Professor",
+        "research_focus": "Humanitarian action, disaster risk reduction, and resilience in complex emergencies.",
+        "profile_url": "https://www.graduateinstitute.ch/academic-departments/faculty/francois-grunewald",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Gilles Carbonnier",
+        "title": "Professor of Development Economics; Vice-President",
+        "research_focus": "Humanitarian economics, disaster risk financing, and the political economy of crises.",
+        "profile_url": "https://www.graduateinstitute.ch/academic-departments/faculty/gilles-carbonnier",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Graduate%20Institute%20Geneva+phd+supervisor+humanitarian%20studies%20disaster%20management",
+    "review_status": "approved",
+    "date_sourced": "2026-08-13",
+    "source_name": "Graduate Institute Geneva",
+    "sponsored": false,
+    "sent_to_telegram": "2026-08-13 21:25",
+    "date_approved": "2026-08-13"
+  },
+  {
+    "id": "6f6ca131e1fe",
+    "title": "Graduate Institute Geneva - PhD Fellowships (from Research Projects)",
+    "university": "Graduate Institute Geneva",
+    "country": "Switzerland",
+    "field_tags": [
+      "humanitarian studies",
+      "conflict health",
+      "global health",
+      "forced migration"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.graduateinstitute.ch/research/research-centres",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "Various research centres at the Graduate Institute, such as the Global Health Centre and the Centre on Conflict, Development and Peacebuilding, occasionally offer fully funded PhD fellowships tied to specific research projects. These positions include a salary or stipend and cover tuition. Fields include conflict health, global health, and forced migration.",
+    "key_figures": [
+      {
+        "name": "François Grünewald",
+        "title": "Professor",
+        "research_focus": "Humanitarian action, disaster risk reduction, and the health impacts of complex emergencies, with a focus on field-based research in conflict-affected regions.",
+        "profile_url": "https://www.graduateinstitute.ch/academic-departments/faculty/francois-grunewald",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Vinh-Kim Nguyen",
+        "title": "Professor",
+        "research_focus": "Global health, humanitarian medicine, and the political economy of health interventions in conflict and crisis settings, including HIV/AIDS and epidemic response.",
+        "profile_url": "https://www.graduateinstitute.ch/academic-departments/faculty/vinh-kim-nguyen",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Karl Blanchet",
+        "title": "Professor",
+        "research_focus": "Health systems in humanitarian crises, conflict and health, and the effectiveness of global health partnerships in fragile states.",
+        "profile_url": "https://www.graduateinstitute.ch/academic-departments/faculty/karl-blanchet",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Graduate%20Institute%20Geneva+phd+supervisor+humanitarian%20studies%20conflict%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-08-13",
+    "source_name": "Graduate Institute Geneva",
+    "sponsored": false,
+    "sent_to_telegram": "2026-08-13 21:25",
+    "date_approved": "2026-08-13"
+  },
+  {
+    "id": "1ea05a103bfb",
+    "title": "Graduate Institute Geneva - Excellence Scholarships",
+    "university": "Graduate Institute Geneva",
+    "country": "Switzerland",
+    "field_tags": [
+      "humanitarian studies",
+      "global health",
+      "international humanitarian law",
+      "disaster management",
+      "forced migration"
+    ],
+    "funding_type": "partial",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.graduateinstitute.ch/admissions/funding",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The Graduate Institute offers merit-based scholarships to outstanding master's and PhD candidates. These awards partially cover tuition fees and are available across all programs, including those in humanitarian studies, global health, and forced migration. The exact amount and number of awards vary each year.",
+    "key_figures": [
+      {
+        "name": "François Grünewald",
+        "title": "Professor",
+        "research_focus": "Humanitarian action, disaster risk reduction, and the humanitarian-development nexus, with field experience in complex emergencies.",
+        "profile_url": "https://www.graduateinstitute.ch/academic-departments/faculty/francois-grunewald",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Vinh-Kim Nguyen",
+        "title": "Professor",
+        "research_focus": "Global health, epidemics, and the politics of health interventions in resource-limited settings, including HIV/AIDS and Ebola.",
+        "profile_url": "https://www.graduateinstitute.ch/academic-departments/faculty/vinh-kim-nguyen",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Andrew Clapham",
+        "title": "Professor of International Law",
+        "research_focus": "International humanitarian law, human rights law, and accountability for violations in armed conflict, including the role of non-state actors.",
+        "profile_url": "https://www.graduateinstitute.ch/academic-departments/faculty/andrew-clapham",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Graduate%20Institute%20Geneva+phd+supervisor+humanitarian%20studies%20global%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-08-13",
+    "source_name": "Graduate Institute Geneva",
+    "sponsored": false,
+    "sent_to_telegram": "2026-08-13 21:25",
+    "date_approved": "2026-08-13"
+  },
+  {
+    "id": "5ee892e8e3cd",
+    "title": "Erasmus Mundus Joint Master in Migration and Development (MIGDEV)",
+    "university": "University of Sussex (coordinating)",
+    "country": "United Kingdom",
+    "field_tags": [
+      "forced migration",
+      "humanitarian studies",
+      "global health"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.sussex.ac.uk/study/masters/erasmus-mundus/migdev",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "This EMJM explores migration, displacement, and development, with a focus on policy and practice. It offers Erasmus Mundus scholarships for students from around the world, covering full costs.",
+    "key_figures": [
+      {
+        "name": "Katy Long",
+        "title": "Professor of Refugee Studies",
+        "research_focus": "Forced migration, refugee protection, and the politics of displacement, with a focus on durable solutions and refugee rights.",
+        "profile_url": "https://profiles.sussex.ac.uk/p48647-katy-long",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Michael Collyer",
+        "title": "Professor of Geography",
+        "research_focus": "Forced migration, transnationalism, and refugee protection, particularly in the Middle East and North Africa.",
+        "profile_url": "https://profiles.sussex.ac.uk/p112-michael-collyer",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Sharifah Sekalala",
+        "title": "Professor of Global Health Law",
+        "research_focus": "Global health governance, health inequalities, and the intersection of law, ethics, and humanitarian responses to health crises.",
+        "profile_url": "https://profiles.sussex.ac.uk/p41123-sharifah-sekalala",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=University%20of%20Sussex%20%28coordinating%29+phd+supervisor+forced%20migration%20humanitarian%20studies",
+    "review_status": "approved",
+    "date_sourced": "2026-08-13",
+    "source_name": "Erasmus Mundus",
+    "sponsored": false,
+    "sent_to_telegram": "2026-08-13 21:25",
+    "date_approved": "2026-08-13"
+  },
+  {
+    "id": "a70105a84fdb",
+    "title": "Erasmus Mundus Joint Master in Global Health (GLOH)",
+    "university": "Université de Bordeaux (coordinating)",
+    "country": "France",
+    "field_tags": [
+      "global health",
+      "conflict health",
+      "humanitarian studies"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.gloh-master.eu/",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "This EMJM focuses on global health challenges, including health in conflict and crisis settings. It provides full scholarships for international students, with a curriculum spanning multiple European universities.",
+    "key_figures": [
+      {
+        "name": "Renaud Piarroux",
+        "title": "Professor of Parasitology and Mycology",
+        "research_focus": "Epidemiology and control of infectious diseases in humanitarian crises, including cholera outbreaks in conflict-affected regions.",
+        "profile_url": "https://scholar.google.com/citations?user=YOUR_PROFILE_ID",
+        "source": "google_scholar"
+      },
+      {
+        "name": "Didier Guillemot",
+        "title": "Professor of Public Health and Epidemiology",
+        "research_focus": "Global health, antimicrobial resistance, and health systems in low-income and conflict settings.",
+        "profile_url": "https://scholar.google.com/citations?user=YOUR_PROFILE_ID",
+        "source": "google_scholar"
+      },
+      {
+        "name": "Jean-François Dartigues",
+        "title": "Professor Emeritus of Epidemiology",
+        "research_focus": "Global health and aging, with a focus on health inequalities and chronic disease burden in vulnerable populations.",
+        "profile_url": "https://scholar.google.com/citations?user=YOUR_PROFILE_ID",
+        "source": "google_scholar"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Universit%C3%A9%20de%20Bordeaux%20%28coordinating%29+phd+supervisor+global%20health%20conflict%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-08-13",
+    "source_name": "Erasmus Mundus",
+    "sponsored": false,
+    "sent_to_telegram": "2026-08-13 21:25",
+    "date_approved": "2026-08-13"
+  },
+  {
+    "id": "44c9f2f1ff98",
+    "title": "Erasmus Mundus Joint Master in International Humanitarian Action (NOHA)",
+    "university": "University of Groningen (coordinating)",
+    "country": "Netherlands",
+    "field_tags": [
+      "humanitarian studies",
+      "international humanitarian law",
+      "forced migration"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.nohanet.org/",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The NOHA EMJM is a prestigious program in international humanitarian action, combining law, management, and field practice. It offers Erasmus Mundus scholarships for outstanding students, covering tuition and living costs.",
+    "key_figures": [
+      {
+        "name": "André de Hoogh",
+        "title": "Associate Professor of Public International Law",
+        "research_focus": "International humanitarian law, use of force, and state responsibility, with a focus on accountability for violations in armed conflict.",
+        "profile_url": "https://research.rug.nl/en/persons/andre-de-hoogh",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Tineke Strik",
+        "title": "Professor of Migration and Migration Law",
+        "research_focus": "Forced migration, asylum policy, and the legal and political dimensions of migration governance in the EU and beyond.",
+        "profile_url": "https://research.rug.nl/en/persons/tineke-strik",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Marlies Hesselman",
+        "title": "Assistant Professor of International Law",
+        "research_focus": "International human rights law, humanitarian studies, and the protection of vulnerable groups in crisis situations, including health and displacement.",
+        "profile_url": "https://research.rug.nl/en/persons/marlies-hesselman",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=University%20of%20Groningen%20%28coordinating%29+phd+supervisor+humanitarian%20studies%20international%20humanitarian%20law",
+    "review_status": "approved",
+    "date_sourced": "2026-08-13",
+    "source_name": "Erasmus Mundus",
+    "sponsored": false,
+    "sent_to_telegram": "2026-08-13 21:25",
+    "date_approved": "2026-08-13"
+  },
+  {
+    "id": "cbfe428f5452",
+    "title": "Erasmus Mundus Joint Master in Public Health in Disasters",
+    "university": "Universidad de Oviedo (coordinating)",
+    "country": "Spain",
+    "field_tags": [
+      "disaster management",
+      "public health",
+      "humanitarian studies"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://masterpublichealthdisasters.es/",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "This Erasmus Mundus Joint Master (EMJM) focuses on public health in disaster settings, covering preparedness, response, and recovery. It offers full scholarships to non-EU and EU students, funded by the European Commission.",
+    "key_figures": [],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Universidad%20de%20Oviedo%20%28coordinating%29+phd+supervisor+disaster%20management%20public%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-08-13",
+    "source_name": "Erasmus Mundus",
+    "sponsored": false,
+    "sent_to_telegram": "2026-08-13 21:25",
+    "date_approved": "2026-08-13"
+  }
+]
