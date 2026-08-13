@@ -363,5 +363,406 @@
     "sponsored": false,
     "sent_to_telegram": "2026-08-13 21:25",
     "date_approved": "2026-08-13"
+  },
+  {
+    "id": "7383848125d2",
+    "title": "Swiss Government Excellence Scholarships",
+    "university": "Graduate Institute Geneva",
+    "country": "Switzerland",
+    "field_tags": [
+      "humanitarian studies",
+      "global health",
+      "international law",
+      "forced migration"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.graduateinstitute.ch/admissions/scholarships",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "Offered by the Swiss Confederation for foreign researchers and artists, this scholarship supports doctoral and postdoctoral studies at Swiss universities, including the Graduate Institute Geneva. It covers monthly stipend, tuition fees, health insurance, and travel expenses. Fields include social sciences, law, and international relations, relevant to humanitarian and global health topics.",
+    "key_figures": [
+      {
+        "name": "François Grünewald",
+        "title": "Professor",
+        "research_focus": "Humanitarian action, disaster risk reduction, and resilience in complex emergencies, with a focus on field-based research and policy impact.",
+        "profile_url": "https://www.graduateinstitute.ch/academic-departments/faculty/francois-grunewald",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Suerie Moon",
+        "title": "Professor",
+        "research_focus": "Global health governance, access to medicines, and the political economy of health systems, with emphasis on international institutions and policy coherence.",
+        "profile_url": "https://www.graduateinstitute.ch/academic-departments/faculty/suerie-moon",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Andrea Bianchi",
+        "title": "Professor",
+        "research_focus": "International law, with a focus on state responsibility, international courts, and the theory of international legal argumentation.",
+        "profile_url": "https://www.graduateinstitute.ch/academic-departments/faculty/andrea-bianchi",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Graduate%20Institute%20Geneva+phd+supervisor+humanitarian%20studies%20global%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-08-13",
+    "source_name": "Graduate Institute Geneva",
+    "sponsored": false
+  },
+  {
+    "id": "057c4440a134",
+    "title": "Graduate Institute Excellence Scholarships",
+    "university": "Graduate Institute Geneva",
+    "country": "Switzerland",
+    "field_tags": [
+      "humanitarian studies",
+      "global health",
+      "international law",
+      "disaster management",
+      "forced migration"
+    ],
+    "funding_type": "partial",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.graduateinstitute.ch/admissions/scholarships",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "Merit-based scholarships awarded by the Graduate Institute to outstanding master's and PhD candidates. They provide partial tuition fee waivers or stipends, depending on the program. Available across all departments, including international law, political science, and development studies, which cover humanitarian and migration topics.",
+    "key_figures": [
+      {
+        "name": "François Grünewald",
+        "title": "Professor",
+        "research_focus": "Humanitarian action, disaster risk reduction, and the humanitarian-development nexus, with extensive field experience in complex emergencies.",
+        "profile_url": "https://www.graduateinstitute.ch/academic-departments/faculty/francois-grunewald",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Suerie Moon",
+        "title": "Professor",
+        "research_focus": "Global health governance, access to medicines, and the political economy of health systems, with a focus on international institutions and policy coherence.",
+        "profile_url": "https://www.graduateinstitute.ch/academic-departments/faculty/suerie-moon",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Andrea Bianchi",
+        "title": "Professor",
+        "research_focus": "Public international law, with a focus on the theory of international law, state responsibility, and the role of non-state actors in international legal processes.",
+        "profile_url": "https://www.graduateinstitute.ch/academic-departments/faculty/andrea-bianchi",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Graduate%20Institute%20Geneva+phd+supervisor+humanitarian%20studies%20global%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-08-13",
+    "source_name": "Graduate Institute Geneva",
+    "sponsored": false
+  },
+  {
+    "id": "7d55cd780587",
+    "title": "Fondation Hans Wilsdorf Scholarships",
+    "university": "Graduate Institute Geneva",
+    "country": "Unknown",
+    "field_tags": [
+      "humanitarian studies",
+      "global health",
+      "forced migration"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.graduateinstitute.ch/admissions/scholarships",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "Funded by the Hans Wilsdorf Foundation, these scholarships support master's students at the Graduate Institute with full tuition and living expenses. They target students with strong academic records and financial need, particularly in fields related to international affairs, including humanitarian and health studies.",
+    "key_figures": [
+      {
+        "name": "François Grünewald",
+        "title": "Professor",
+        "research_focus": "Humanitarian action, disaster risk reduction, and resilience in complex emergencies, with field experience in conflict and post-conflict settings.",
+        "profile_url": "https://www.graduateinstitute.ch/academic-departments/faculty/francois-grunewald",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Vinh-Kim Nguyen",
+        "title": "Professor",
+        "research_focus": "Global health, HIV/AIDS, humanitarian medicine, and the politics of health interventions in resource-limited settings.",
+        "profile_url": "https://www.graduateinstitute.ch/academic-departments/faculty/vinh-kim-nguyen",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Dawn Chatty",
+        "title": "Emeritus Professor",
+        "research_focus": "Forced migration, refugee studies, and the anthropology of displacement in the Middle East and North Africa.",
+        "profile_url": "https://www.graduateinstitute.ch/academic-departments/faculty/dawn-chatty",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Graduate%20Institute%20Geneva+phd+supervisor+humanitarian%20studies%20global%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-08-13",
+    "source_name": "Graduate Institute Geneva",
+    "sponsored": false
+  },
+  {
+    "id": "ab1aa9f0da6d",
+    "title": "Swiss National Science Foundation (SNSF) Doc.CH and Postdoc.Mobility Fellowships",
+    "university": "Graduate Institute Geneva",
+    "country": "Switzerland",
+    "field_tags": [
+      "humanitarian studies",
+      "global health",
+      "international law",
+      "forced migration"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.snf.ch/en/funding",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "SNSF fellowships support doctoral and postdoctoral research at Swiss institutions, including the Graduate Institute. They provide salary, research costs, and mobility allowances. These are competitive grants open to researchers in all disciplines, including humanitarian and global health fields.",
+    "key_figures": [
+      {
+        "name": "François Grünewald",
+        "title": "Professor",
+        "research_focus": "Humanitarian action, disaster risk reduction, and the politics of aid in complex emergencies.",
+        "profile_url": "https://www.graduateinstitute.ch/academic-departments/faculty/francois-grunewald",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Suerie Moon",
+        "title": "Professor",
+        "research_focus": "Global health governance, access to medicines, and international health policy.",
+        "profile_url": "https://www.graduateinstitute.ch/academic-departments/faculty/suerie-moon",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Andrea Bianchi",
+        "title": "Professor",
+        "research_focus": "International law, with a focus on state responsibility, human rights, and the theory of international legal argumentation.",
+        "profile_url": "https://www.graduateinstitute.ch/academic-departments/faculty/andrea-bianchi",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Graduate%20Institute%20Geneva+phd+supervisor+humanitarian%20studies%20global%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-08-13",
+    "source_name": "Graduate Institute Geneva",
+    "sponsored": false
+  },
+  {
+    "id": "d0aa2467150b",
+    "title": "ICRC Fellowship for Doctoral Studies in International Humanitarian Law",
+    "university": "Various (in partnership with the ICRC)",
+    "country": "Switzerland",
+    "field_tags": [
+      "international humanitarian law",
+      "humanitarian studies"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.icrc.org/en/what-we-do/education-and-research",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The ICRC offers doctoral fellowships to support research in international humanitarian law, often in collaboration with academic institutions. The fellowship covers tuition and living expenses for selected candidates.",
+    "key_figures": [
+      {
+        "name": "Marco Sassòli",
+        "title": "Professor of International Law",
+        "research_focus": "International humanitarian law, particularly the application of IHL in contemporary armed conflicts and the relationship between IHL and human rights law.",
+        "profile_url": "https://www.unige.ch/droit/international-law/sassoli",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Gloria Gaggioli",
+        "title": "Associate Professor of International Law",
+        "research_focus": "International humanitarian law, with a focus on the protection of persons in armed conflict, the use of force, and the interplay between IHL and human rights.",
+        "profile_url": "https://www.unige.ch/droit/international-law/gaggioli",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Nils Melzer",
+        "title": "Professor of International Law",
+        "research_focus": "International humanitarian law and human rights, particularly the legal framework governing the use of force and the protection of civilians in armed conflict.",
+        "profile_url": "https://www.unige.ch/droit/international-law/melzer",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Various%20%28in%20partnership%20with%20the%20ICRC%29+phd+supervisor+international%20humanitarian%20law%20humanitarian%20studies",
+    "review_status": "approved",
+    "date_sourced": "2026-08-13",
+    "source_name": "ICRC Fellowship",
+    "sponsored": false
+  },
+  {
+    "id": "9dde569a7ec2",
+    "title": "ICRC Fellowship in Humanitarian Policy and Conflict Studies",
+    "university": "Graduate Institute of International and Development Studies",
+    "country": "Switzerland",
+    "field_tags": [
+      "humanitarian studies",
+      "conflict health",
+      "forced migration"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.graduateinstitute.ch/",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "This fellowship supports research on humanitarian policy, conflict, and displacement, with a focus on field-based work. It is designed for early-career researchers and includes a stipend and research support.",
+    "key_figures": [
+      {
+        "name": "François Grünewald",
+        "title": "Visiting Professor",
+        "research_focus": "Humanitarian action, disaster risk reduction, and the health impacts of conflict and displacement.",
+        "profile_url": "https://www.graduateinstitute.ch/academic-departments/faculty/francois-grunewald",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Dennis Dijkzeul",
+        "title": "Professor of Conflict and Development Studies",
+        "research_focus": "Humanitarian governance, forced migration, and the intersection of conflict, health, and development.",
+        "profile_url": "https://www.graduateinstitute.ch/academic-departments/faculty/dennis-dijkzeul",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Claire Somerville",
+        "title": "Senior Lecturer and Executive Director of the Gender Centre",
+        "research_focus": "Forced migration, gender, and health in humanitarian settings, with a focus on migrant and refugee well-being.",
+        "profile_url": "https://www.graduateinstitute.ch/academic-departments/faculty/claire-somerville",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Graduate%20Institute%20of%20International%20and%20Development%20Studies+phd+supervisor+humanitarian%20studies%20conflict%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-08-13",
+    "source_name": "ICRC Fellowship",
+    "sponsored": false
+  },
+  {
+    "id": "13c258da8f8d",
+    "title": "ICRC Fellowship in Global Health and Humanitarian Action",
+    "university": "University of Geneva",
+    "country": "Switzerland",
+    "field_tags": [
+      "global health",
+      "conflict health",
+      "disaster management"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.unige.ch/",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "A collaborative fellowship between the ICRC and the University of Geneva, focusing on health in humanitarian crises. It provides funding for research and fieldwork in conflict-affected settings.",
+    "key_figures": [
+      {
+        "name": "Dr. Karl Blanchet",
+        "title": "Professor, Director of the Geneva Centre of Humanitarian Studies",
+        "research_focus": "Health systems in humanitarian crises, conflict and disaster settings, with a focus on health system resilience and universal health coverage in fragile states.",
+        "profile_url": "https://www.geneva-humanitarian-studies.org/about-us/team/karl-blanchet/",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Dr. François Chappuis",
+        "title": "Professor, Head of the Division of Tropical and Humanitarian Medicine",
+        "research_focus": "Clinical and operational research on neglected tropical diseases and health interventions in conflict-affected and humanitarian settings, including outbreak response.",
+        "profile_url": "https://www.unige.ch/medecine/en/divisions/tropical-and-humanitarian-medicine/team/francois-chappuis/",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Dr. Doris Schopper",
+        "title": "Professor Emerita, former Director of the Geneva Centre for Education and Research in Humanitarian Action",
+        "research_focus": "Ethics and governance of humanitarian health action, including disaster management and health responses in armed conflicts.",
+        "profile_url": "https://www.unige.ch/medecine/en/divisions/tropical-and-humanitarian-medicine/team/doris-schopper/",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=University%20of%20Geneva+phd+supervisor+global%20health%20conflict%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-08-13",
+    "source_name": "ICRC Fellowship",
+    "sponsored": false
+  },
+  {
+    "id": "d5511cec2dcd",
+    "title": "ICRC Fellowship for Research on Disaster Management and Humanitarian Response",
+    "university": "University of Oxford",
+    "country": "United Kingdom",
+    "field_tags": [
+      "disaster management",
+      "humanitarian studies"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.ox.ac.uk/",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "This fellowship supports research on disaster preparedness and humanitarian response, with a focus on legal and operational frameworks. It is open to PhD candidates and includes a full stipend.",
+    "key_figures": [
+      {
+        "name": "Alexander Betts",
+        "title": "Professor of Forced Migration and International Affairs",
+        "research_focus": "Refugee protection, humanitarian governance, and the political economy of displacement, with a focus on durable solutions and innovation in humanitarian response.",
+        "profile_url": "https://www.rsc.ox.ac.uk/people/alexander-betts",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Mark Pelling",
+        "title": "Professor of Geography",
+        "research_focus": "Disaster risk reduction, climate change adaptation, and the social dimensions of vulnerability and resilience in urban and coastal environments.",
+        "profile_url": "https://www.geog.ox.ac.uk/staff/mpelling.html",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=University%20of%20Oxford+phd+supervisor+disaster%20management%20humanitarian%20studies",
+    "review_status": "approved",
+    "date_sourced": "2026-08-13",
+    "source_name": "ICRC Fellowship",
+    "sponsored": false
+  },
+  {
+    "id": "5ab8ca0beb29",
+    "title": "ICRC Fellowship in Forced Migration and International Law",
+    "university": "University of Cambridge",
+    "country": "United Kingdom",
+    "field_tags": [
+      "forced migration",
+      "international humanitarian law"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.cam.ac.uk/",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "A fellowship for doctoral research on legal and policy aspects of forced migration, in collaboration with the ICRC. It includes funding for tuition, travel, and research expenses.",
+    "key_figures": [
+      {
+        "name": "Catherine Briddick",
+        "title": "Associate Professor in Public International Law",
+        "research_focus": "International refugee law, gender and forced migration, and the intersection of international humanitarian law with displacement.",
+        "profile_url": "https://www.law.cam.ac.uk/people/catherine-briddick/",
+        "source": "faculty_page"
+      },
+      {
+        "name": "David Cantor",
+        "title": "Professor of Refugee Protection",
+        "research_focus": "Forced migration, refugee law, and the protection of displaced persons in armed conflict, including the application of international humanitarian law.",
+        "profile_url": "https://www.refugeelaw.q=David+Cantor+Cambridge",
+        "source": "google_scholar"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=University%20of%20Cambridge+phd+supervisor+forced%20migration%20international%20humanitarian%20law",
+    "review_status": "approved",
+    "date_sourced": "2026-08-13",
+    "source_name": "ICRC Fellowship",
+    "sponsored": false
   }
 ]
