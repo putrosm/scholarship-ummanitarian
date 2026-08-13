@@ -11,8 +11,9 @@ FIELDS = [
     "international humanitarian law","disaster management",
     "forced migration","refugee health","humanitarian action",
     "peace and conflict","MHPSS","emergency medicine",
-    "politics","war studies","security studies","international relations",
-    "political science","peace studies","conflict resolution","armed conflict"
+    "humanitarian politics","war and humanitarian response",
+    "armed conflict and humanitarian law","humanitarian security",
+    "conflict resolution and humanitarian aid","politics of humanitarianism"
 ]
 
 SOURCES = [
