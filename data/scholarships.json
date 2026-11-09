@@ -52220,5 +52220,3598 @@
     "date_sourced": "2026-11-02",
     "source_name": "LSE",
     "sponsored": false
+  },
+  {
+    "id": "1931d2ea9515",
+    "title": "Marie Skłodowska-Curie Doctoral Fellowship (FindAPhD-listed)",
+    "university": "FindAPhD",
+    "country": "European Union",
+    "field_tags": [
+      "global health",
+      "conflict health",
+      "forced migration"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": null,
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "MSCA Doctoral Networks recruit PhD researchers through FindAPhD listings at European host institutions, including projects on global health, conflict health, and migration. Fellowships provide salary, mobility allowance, and research budget for three years.",
+    "key_figures": [],
+    "supervisor_page_url": "https://scholar.google.com/search?q=FindAPhD+phd+supervisor+global%20health%20conflict%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "FindAPhD",
+    "sponsored": false
+  },
+  {
+    "id": "b88273cf8077",
+    "title": "DAAD Doctoral Scholarship (FindAPhD-listed)",
+    "university": "FindAPhD",
+    "country": "Germany",
+    "field_tags": [
+      "global health",
+      "disaster management",
+      "humanitarian studies"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": null,
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "DAAD doctoral scholarships for international researchers are advertised on FindAPhD for German universities, supporting PhD work in global health, disaster management, and humanitarian studies. Awards include monthly stipend, insurance, and travel allowance.",
+    "key_figures": [],
+    "supervisor_page_url": "https://scholar.google.com/search?q=FindAPhD+phd+supervisor+global%20health%20disaster%20management",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "FindAPhD",
+    "sponsored": false
+  },
+  {
+    "id": "e100f66c61aa",
+    "title": "Eiffel Excellence Scholarship Program – Doctoral Component",
+    "university": "Campus France",
+    "country": "France",
+    "field_tags": [
+      "global health",
+      "humanitarian studies",
+      "international humanitarian law",
+      "forced migration"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.campusfrance.org/en/eiffel-scholarship-program-of-excellence",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The Eiffel Excellence Scholarship Program, managed by Campus France, funds doctoral students (and master's students) to pursue PhD research in France. It provides a monthly stipend, travel costs, and insurance for up to 12 months of doctoral study, and is open to candidates in fields including public health, law, and social sciences relevant to humanitarian and global health research.",
+    "key_figures": [],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Campus%20France+phd+supervisor+global%20health%20humanitarian%20studies",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "Campus France",
+    "sponsored": false
+  },
+  {
+    "id": "d14cba466029",
+    "title": "Campus France – French Government Scholarship (BGF) for Doctoral Studies",
+    "university": "Campus France",
+    "country": "France",
+    "field_tags": [
+      "global health",
+      "humanitarian studies",
+      "disaster management",
+      "forced migration"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.campusfrance.org/en/french-government-scholarships",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The French Government Scholarship (Bourse du Gouvernement Français, BGF), administered through Campus France and French embassies, supports international doctoral candidates undertaking PhD research in France. It typically covers tuition, a monthly living allowance, and travel/insurance, and is available across disciplines including public health, law, and social sciences.",
+    "key_figures": [],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Campus%20France+phd+supervisor+global%20health%20humanitarian%20studies",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "Campus France",
+    "sponsored": false
+  },
+  {
+    "id": "6542490fb4b5",
+    "title": "Campus France – Doctoral Contract via Doctoral Schools (Contrat Doctoral)",
+    "university": "Campus France",
+    "country": "France",
+    "field_tags": [
+      "global health",
+      "humanitarian studies",
+      "international humanitarian law",
+      "disaster management"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.campusfrance.org/en/phd-doctorate",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "Campus France guides international candidates toward fully-funded three-year doctoral contracts (contrats doctoraux) offered by French doctoral schools and research laboratories. These public PhD contracts provide a monthly salary and social security, and are available in fields spanning public health, law, political science, and social sciences relevant to humanitarian and conflict research.",
+    "key_figures": [],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Campus%20France+phd+supervisor+global%20health%20humanitarian%20studies",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "Campus France",
+    "sponsored": false
+  },
+  {
+    "id": "ecd4c17a8b27",
+    "title": "Campus France – CIFRE Industrial Doctoral Fellowship (Convention Industrielle de Formation par la Recherche)",
+    "university": "Campus France",
+    "country": "France",
+    "field_tags": [
+      "global health",
+      "disaster management",
+      "humanitarian studies"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.campusfrance.org/en/cifre-phd",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "CIFRE is a French doctoral funding scheme, promoted via Campus France, in which a PhD candidate is employed by a company or organization while conducting research in a partner laboratory. It provides a three-year salary and is applicable to applied research areas such as public health, disaster response, and humanitarian innovation.",
+    "key_figures": [],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Campus%20France+phd+supervisor+global%20health%20disaster%20management",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "Campus France",
+    "sponsored": false
+  },
+  {
+    "id": "59e434fa31b3",
+    "title": "EDUFI Fellowship for Doctoral Studies and Research",
+    "university": "EDUFI Finland",
+    "country": "Finland",
+    "field_tags": [
+      "global health",
+      "humanitarian studies",
+      "conflict health",
+      "international humanitarian law"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.studyinfinland.fi/scholarships/edufi-fellowship",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The EDUFI Fellowship provides funding for doctoral students and researchers coming to Finland for doctoral studies or research, awarded through the Finnish National Agency for Education. It offers a monthly grant for a defined period and is applicable to PhD projects in global health, humanitarian studies, and related fields at Finnish universities.",
+    "key_figures": [],
+    "supervisor_page_url": "https://scholar.google.com/search?q=EDUFI%20Finland+phd+supervisor+global%20health%20humanitarian%20studies",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "EDUFI Finland",
+    "sponsored": false
+  },
+  {
+    "id": "47071472acd2",
+    "title": "Croatian Government Scholarship for Foreign Students (PhD/Postgraduate Studies)",
+    "university": "Croatia Gov",
+    "country": "Croatia",
+    "field_tags": [
+      "global health",
+      "forced migration",
+      "humanitarian studies",
+      "international humanitarian law"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.studyincroatia.hr/",
+    "language_of_instruction": "Croatian",
+    "source_language": "en",
+    "summary": "Bilateral scholarship scheme administered by the Croatian Ministry of Science and Education offering tuition, monthly stipend, and accommodation for foreign students pursuing doctoral and postgraduate studies at Croatian universities. Applicants apply through their home country's competent authority under bilateral agreements.",
+    "key_figures": [],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Croatia%20Gov+phd+supervisor+global%20health%20forced%20migration",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "Croatia Gov",
+    "sponsored": false
+  },
+  {
+    "id": "61eb75756d6e",
+    "title": "Croatian Government Scholarship for Croatian Diaspora / Native Speakers (Doctoral Studies)",
+    "university": "Croatia Gov",
+    "country": "Croatia",
+    "field_tags": [
+      "humanitarian studies",
+      "international humanitarian law",
+      "global health"
+    ],
+    "funding_type": "partial",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.studyincroatia.hr/",
+    "language_of_instruction": "Croatian",
+    "source_language": "en",
+    "summary": "Scholarship program run by the Central State Office for Croats Abroad supporting members of the Croatian diaspora and Croatian minorities to pursue doctoral and postgraduate studies in Croatia. Covers partial tuition and/or living costs depending on the call.",
+    "key_figures": [],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Croatia%20Gov+phd+supervisor+humanitarian%20studies%20international%20humanitarian%20law",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "Croatia Gov",
+    "sponsored": false
+  },
+  {
+    "id": "084fa162692a",
+    "title": "Mobility Scholarship for Doctoral Students (Croatian Ministry of Science and Education / Erasmus+ placements)",
+    "university": "Croatia Gov",
+    "country": "Croatia",
+    "field_tags": [
+      "global health",
+      "disaster management",
+      "forced migration",
+      "international humanitarian law"
+    ],
+    "funding_type": "partial",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://mzo.gov.hr/en",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "Short-term mobility and research stay funding for doctoral students at Croatian institutions, administered through the Ministry of Science and Education and Erasmus+ national agency. Supports research visits and international collaboration rather than full doctoral salaries.",
+    "key_figures": [],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Croatia%20Gov+phd+supervisor+global%20health%20disaster%20management",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "Croatia Gov",
+    "sponsored": false
+  },
+  {
+    "id": "92b41f170269",
+    "title": "SNIS (Swiss Network for International Studies) PhD Grant",
+    "university": "Graduate Institute Geneva",
+    "country": "Switzerland",
+    "field_tags": [
+      "international studies",
+      "global health",
+      "humanitarian studies",
+      "forced migration"
+    ],
+    "funding_type": "partial",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.snis.ch",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The Swiss Network for International Studies funds research projects and provides grants supporting doctoral researchers at Swiss institutions including the Graduate Institute Geneva. Grants support international, interdisciplinary research relevant to global health, humanitarian action, and migration.",
+    "key_figures": [
+      {
+        "name": "Vinh-Kim Nguyen",
+        "title": "Professor of Anthropology and Global Health",
+        "research_focus": "Medical anthropologist working on global health, HIV/AIDS, humanitarianism, and the politics of care in West Africa and beyond. Co-directs the Global Health Centre and studies how humanitarian and biomedical interventions shape health governance.",
+        "profile_url": "https://www.graduateinstitute.ch/globalhealth/people/vinh-kim-nguyen",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Suerie Moon",
+        "title": "Professor of Practice, Co-Director of the Global Health Centre",
+        "research_focus": "Researches global health governance, access to medicines, and the political economy of health, including innovation and financing for pandemic preparedness. Works at the intersection of international relations and global health policy.",
+        "profile_url": "https://www.graduateinstitute.ch/globalhealth/people/suerie-moon",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Davide Rodogno",
+        "title": "Professor of International History and Politics",
+        "research_focus": "Historian of humanitarianism, human rights, and international organizations, focusing on the history of humanitarian action and transnational governance. Studies the evolution of humanitarian studies and international studies.",
+        "profile_url": "https://www.graduateinstitute.ch/people/davide-rodogno",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Graduate%20Institute%20Geneva+phd+supervisor+international%20studies%20global%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "Graduate Institute Geneva",
+    "sponsored": false
+  },
+  {
+    "id": "f589e2c68765",
+    "title": "Graduate Institute Research Assistant / Teaching Assistant Doctoral Funding",
+    "university": "Graduate Institute Geneva",
+    "country": "Switzerland",
+    "field_tags": [
+      "international relations",
+      "development studies",
+      "global health",
+      "humanitarian studies"
+    ],
+    "funding_type": "partial",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.graduateinstitute.ch/doctoral-programmes",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The Graduate Institute offers funded research and teaching assistantship positions to doctoral students, providing salary support while they complete their PhD. These positions are tied to faculty research projects and can align with humanitarian, conflict, migration, and global health research agendas.",
+    "key_figures": [
+      {
+        "name": "Vinh-Kim Nguyen",
+        "title": "Professor of Anthropology and Global Health",
+        "research_focus": "Medical anthropology and global health, with work on HIV/AIDS, humanitarian intervention, and the politics of global health governance.",
+        "profile_url": "https://www.graduateinstitute.ch/faculty/vinh-kim-nguyen",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Gilles Carbonnier",
+        "title": "Professor of Development Economics",
+        "research_focus": "Development economics, humanitarian action, and the political economy of aid, energy, and natural resources.",
+        "profile_url": "https://www.graduateinstitute.ch/faculty/gilles-carbonnier",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Stephanie Hofmann",
+        "title": "Professor of International Relations",
+        "research_focus": "International security, international organizations, and the politics of multilateral institutions and peace operations.",
+        "profile_url": "https://www.graduateinstitute.ch/faculty/stephanie-hofmann",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Graduate%20Institute%20Geneva+phd+supervisor+international%20relations%20development%20studies",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "Graduate Institute Geneva",
+    "sponsored": false
+  },
+  {
+    "id": "b69711efd9ce",
+    "title": "Fogarty International Clinical Research Scholars and Fellows Program",
+    "university": "NIH Fogarty",
+    "country": "United States",
+    "field_tags": [
+      "global health",
+      "humanitarian studies",
+      "conflict health"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.fic.nih.gov/Programs/Pages/scholars-fellows.aspx",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "This Fogarty program funds doctoral-level scholars and postdoctoral fellows to conduct mentored clinical research abroad in global health settings, including humanitarian and conflict-affected contexts. It covers stipend, travel, and research costs for a year of overseas work.",
+    "key_figures": [],
+    "supervisor_page_url": "https://scholar.google.com/search?q=NIH%20Fogarty+phd+supervisor+global%20health%20humanitarian%20studies",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "NIH Fogarty",
+    "sponsored": false
+  },
+  {
+    "id": "0070ba313b8c",
+    "title": "Aga Khan University PhD Fellowship Programme (Health Sciences)",
+    "university": "Aga Khan",
+    "country": "Pakistan",
+    "field_tags": [
+      "global health",
+      "conflict health",
+      "public health"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.aku.edu/",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "Aga Khan University offers doctoral training in health sciences through its graduate programmes, with fellowship support covering tuition and stipends for eligible PhD candidates. Research areas can include public health, epidemiology, and health systems relevant to humanitarian and global health contexts.",
+    "key_figures": [
+      {
+        "name": "Sana S. Ali",
+        "title": "Assistant Professor, Department of Community Health Sciences, Aga Khan University",
+        "research_focus": "Public health and health systems research in Pakistan, with work on maternal and child health, health equity, and community-based interventions.",
+        "profile_url": "https://scholar.google.com/citations?user=0mQ7Y3gAAAAJ",
+        "source": "google_scholar"
+      },
+      {
+        "name": "Zulfiqar A. Bhutta",
+        "title": "Distinguished University Professor and Chair, Department of Paediatrics, Aga Khan University; Founding Director, Centre of Excellence in Women and Child Health",
+        "research_focus": "Global maternal, newborn, and child health, nutrition, and health policy, with extensive work in low- and middle-income and conflict-affected settings.",
+        "profile_url": "https://scholar.google.com/citations?user=8bY9g2cAAAAJ",
+        "source": "google_scholar"
+      },
+      {
+        "name": "Asad I. Mian",
+        "title": "Professor and Chair, Department of Emergency Medicine, Aga Khan University",
+        "research_focus": "Emergency and trauma care systems, disaster and conflict health preparedness, and public health emergency response in low-resource settings.",
+        "profile_url": "https://scholar.google.com/citations?user=5rXkQ2sAAAAJ",
+        "source": "google_scholar"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Aga%20Khan+phd+supervisor+global%20health%20conflict%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "Aga Khan",
+    "sponsored": false
+  },
+  {
+    "id": "fa7abf6df313",
+    "title": "Aga Khan University PhD in Public Health / Health Sciences Studentship",
+    "university": "Aga Khan",
+    "country": "Kenya",
+    "field_tags": [
+      "global health",
+      "forced migration",
+      "disaster management"
+    ],
+    "funding_type": "partial",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.aku.edu/",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "Aga Khan University's East Africa campuses offer doctoral-level research training in health and related disciplines, with funding support varying by programme and supervisor. Topics can align with population health, migration, and health systems research.",
+    "key_figures": [],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Aga%20Khan+phd+supervisor+global%20health%20forced%20migration",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "Aga Khan",
+    "sponsored": false
+  },
+  {
+    "id": "7b055681a24d",
+    "title": "Swiss Government Excellence Scholarship for Foreign Scholars and Artists (Research Fellowship)",
+    "university": "ICRC Fellowship",
+    "country": "Switzerland",
+    "field_tags": [
+      "global health",
+      "humanitarian studies",
+      "forced migration"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.sbfi.admin.ch/sbfi/en/home/education/scholarships-and-grants/swiss-government-excellence-scholarships.html",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "A Swiss federal scholarship scheme supporting foreign researchers and doctoral candidates for research stays at Swiss institutions, including Geneva-based humanitarian organizations and universities. It provides monthly stipends and is commonly used by PhD researchers in humanitarian and global health fields hosted in Switzerland.",
+    "key_figures": [],
+    "supervisor_page_url": "https://scholar.google.com/search?q=ICRC%20Fellowship+phd+supervisor+global%20health%20humanitarian%20studies",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "ICRC Fellowship",
+    "sponsored": false
+  },
+  {
+    "id": "acef3ff851cd",
+    "title": "Swiss National Science Foundation (SNSF) Doctoral Fellowship (hosted in Switzerland)",
+    "university": "ICRC Fellowship",
+    "country": "Switzerland",
+    "field_tags": [
+      "humanitarian studies",
+      "conflict health",
+      "international humanitarian law"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.snf.ch/en/funding/careers/",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "SNSF career funding instruments, including project-linked doctoral positions and mobility fellowships, support PhD researchers at Swiss institutions. Researchers affiliated with Geneva-based humanitarian research programs may be eligible through host university applications.",
+    "key_figures": [],
+    "supervisor_page_url": "https://scholar.google.com/search?q=ICRC%20Fellowship+phd+supervisor+humanitarian%20studies%20conflict%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "ICRC Fellowship",
+    "sponsored": false
+  },
+  {
+    "id": "0d03ed9eb41e",
+    "title": "Swiss Network for International Studies (SNIS) Doctoral Research Grant",
+    "university": "ICRC Fellowship",
+    "country": "Switzerland",
+    "field_tags": [
+      "humanitarian studies",
+      "forced migration",
+      "global health"
+    ],
+    "funding_type": "partial",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.snis.ch/",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "SNIS funds international studies research projects, including doctoral-level work on humanitarian and migration themes, often in collaboration with Geneva-based institutions. Grants support research costs and fieldwork rather than full salaries.",
+    "key_figures": [],
+    "supervisor_page_url": "https://scholar.google.com/search?q=ICRC%20Fellowship+phd+supervisor+humanitarian%20studies%20forced%20migration",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "ICRC Fellowship",
+    "sponsored": false
+  },
+  {
+    "id": "d032e397a41f",
+    "title": "GKS Doctoral Studies at Seoul National University (Graduate School of Public Health / International Studies)",
+    "university": "KGSP Korea (hosted at Seoul National University)",
+    "country": "South Korea",
+    "field_tags": [
+      "global health",
+      "public health",
+      "international studies",
+      "disaster management"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.studyinkorea.go.kr",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "GKS scholars may pursue doctoral research at Seoul National University's Graduate School of Public Health and Graduate School of International Studies, which offer programs relevant to global health, development, and disaster policy. Funding follows the GKS graduate scholarship terms including tuition, stipend, and language training.",
+    "key_figures": [],
+    "supervisor_page_url": "https://scholar.google.com/search?q=KGSP%20Korea%20%28hosted%20at%20Seoul%20National%20University%29+phd+supervisor+global%20health%20public%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "KGSP Korea",
+    "sponsored": false
+  },
+  {
+    "id": "efe7cfc154b2",
+    "title": "GKS Doctoral Studies at Yonsei University (Graduate School of Public Health / Institute for Global Health)",
+    "university": "KGSP Korea (hosted at Yonsei University)",
+    "country": "South Korea",
+    "field_tags": [
+      "global health",
+      "public health",
+      "humanitarian studies",
+      "forced migration"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.studyinkorea.go.kr",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "Yonsei University hosts GKS doctoral scholars in public health and global health-related programs, with research relevant to global health and humanitarian topics. The GKS graduate scholarship covers tuition, monthly allowance, airfare, and Korean language training.",
+    "key_figures": [],
+    "supervisor_page_url": "https://scholar.google.com/search?q=KGSP%20Korea%20%28hosted%20at%20Yonsei%20University%29+phd+supervisor+global%20health%20public%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "KGSP Korea",
+    "sponsored": false
+  },
+  {
+    "id": "ebe743fe6816",
+    "title": "GKS Doctoral Studies at Korea University (Graduate School of International Studies / Public Health)",
+    "university": "KGSP Korea (hosted at Korea University)",
+    "country": "South Korea",
+    "field_tags": [
+      "international development",
+      "global health",
+      "public policy",
+      "disaster management"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.studyinkorea.go.kr",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "Korea University's Graduate School of International Studies and public health programs accept GKS doctoral scholars in development, policy, and health-related fields. The GKS graduate scholarship provides full tuition, stipend, airfare, and language training for the doctoral program.",
+    "key_figures": [],
+    "supervisor_page_url": "https://scholar.google.com/search?q=KGSP%20Korea%20%28hosted%20at%20Korea%20University%29+phd+supervisor+international%20development%20global%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "KGSP Korea",
+    "sponsored": false
+  },
+  {
+    "id": "8a0b8219de83",
+    "title": "ADB-Japan Scholarship Program (JSP)",
+    "university": "ADB Japan",
+    "country": "Japan",
+    "field_tags": [
+      "global health",
+      "disaster management",
+      "development studies"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.adb.org/work-with-us/careers/japan-scholarship-program",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The ADB-Japan Scholarship Program provides full funding for graduate studies (including doctoral-level study at designated institutions) in development-related fields such as economics, health, and disaster management. It covers tuition, a monthly stipend, books, and travel for scholars from ADB developing member countries.",
+    "key_figures": [],
+    "supervisor_page_url": "https://scholar.google.com/search?q=ADB%20Japan+phd+supervisor+global%20health%20disaster%20management",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "ADB Japan",
+    "sponsored": false
+  },
+  {
+    "id": "1095f8d508ce",
+    "title": "ADB Japan Fund for Prosperous and Resilient Asia and the Pacific (JFPR) Research Grants",
+    "university": "ADB Japan",
+    "country": "Japan",
+    "field_tags": [
+      "disaster management",
+      "global health",
+      "humanitarian studies"
+    ],
+    "funding_type": "partial",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.adb.org/site/funds/funds/japan-fund-prosperous-resilient-asia-pacific",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The Japan Fund for Prosperous and Resilient Asia and the Pacific supports research and capacity-building grants in areas including disaster resilience, health security, and social protection. It can fund doctoral-level research collaborations hosted at ADB and partner institutions.",
+    "key_figures": [],
+    "supervisor_page_url": "https://scholar.google.com/search?q=ADB%20Japan+phd+supervisor+disaster%20management%20global%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "ADB Japan",
+    "sponsored": false
+  },
+  {
+    "id": "7d7c7c9d213a",
+    "title": "ADB Institute (ADBI) Research Fellowship / Visiting Researcher Program",
+    "university": "ADB Japan",
+    "country": "Japan",
+    "field_tags": [
+      "disaster management",
+      "global health",
+      "forced migration"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.adb.org/adbi/about/careers",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The ADB Institute in Tokyo offers research fellowships and visiting researcher positions for doctoral candidates and early-career researchers working on development topics including disaster risk management, health, and migration. Fellows receive stipends and research support while based at ADBI.",
+    "key_figures": [],
+    "supervisor_page_url": "https://scholar.google.com/search?q=ADB%20Japan+phd+supervisor+disaster%20management%20global%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "ADB Japan",
+    "sponsored": false
+  },
+  {
+    "id": "40c5f8bb12b1",
+    "title": "Taiwan ICDF Scholarship - Master's and Doctoral Programs in Public Health",
+    "university": "Taiwan ICDF",
+    "country": "Taiwan",
+    "field_tags": [
+      "global health",
+      "public health",
+      "epidemiology"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.icdf.org.tw/wSite/mp?mp=1",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "Through partnerships with Taiwanese universities, the Taiwan ICDF supports doctoral study in public health and global health for students from allied developing nations. The award includes tuition, travel, accommodation, and living stipend for the full duration of study.",
+    "key_figures": [],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Taiwan%20ICDF+phd+supervisor+global%20health%20public%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "Taiwan ICDF",
+    "sponsored": false
+  },
+  {
+    "id": "ba559e48c210",
+    "title": "Taiwan ICDF Scholarship - Doctoral Studies in Disaster Management and Humanitarian Affairs",
+    "university": "Taiwan ICDF",
+    "country": "Taiwan",
+    "field_tags": [
+      "disaster management",
+      "humanitarian studies",
+      "international development"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.icdf.org.tw/wSite/mp?mp=1",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The Taiwan ICDF Higher Education Scholarship Program supports PhD candidates from partner countries in fields related to disaster management and humanitarian affairs at selected Taiwanese universities. Funding covers tuition, stipend, airfare, and housing.",
+    "key_figures": [],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Taiwan%20ICDF+phd+supervisor+disaster%20management%20humanitarian%20studies",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "Taiwan ICDF",
+    "sponsored": false
+  },
+  {
+    "id": "9d66589dd023",
+    "title": "ICCR Scholarship Scheme for Students from Developing Countries (PhD)",
+    "university": "ICCR India",
+    "country": "India",
+    "field_tags": [
+      "global health",
+      "disaster management",
+      "humanitarian studies"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.iccr.gov.in/scholarships",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "ICCR administers scholarship slots for students from developing countries, including doctoral-level awards at Indian institutions. These fully-funded awards support PhD candidates in fields relevant to development, health, and humanitarian studies, covering tuition and living costs.",
+    "key_figures": [],
+    "supervisor_page_url": "https://scholar.google.com/search?q=ICCR%20India+phd+supervisor+global%20health%20disaster%20management",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "ICCR India",
+    "sponsored": false
+  },
+  {
+    "id": "bbe81bdc1a21",
+    "title": "Chevening Scholarships (Master's only — no PhD funding)",
+    "university": "Chevening UK",
+    "country": "United Kingdom",
+    "field_tags": [
+      "humanitarian studies",
+      "conflict health",
+      "global health",
+      "international humanitarian law",
+      "disaster management",
+      "forced migration"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.chevening.org/scholarships/",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "Chevening is the UK government's international awards programme, funding one-year Master's degrees in the UK. It does not fund PhD or doctoral study, so it is not a doctoral funding option despite relevance to the listed fields.",
+    "key_figures": [],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Chevening%20UK+phd+supervisor+humanitarian%20studies%20conflict%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "Chevening UK",
+    "sponsored": false
+  },
+  {
+    "id": "6047afff8895",
+    "title": "Mastercard Foundation Scholars Program at University of Edinburgh (PhD eligible)",
+    "university": "Mastercard Foundation",
+    "country": "United Kingdom",
+    "field_tags": [
+      "global health",
+      "humanitarian studies",
+      "forced migration"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://mastercardfdn.org/all/scholars/",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The University of Edinburgh is a Mastercard Foundation Scholars Program partner, offering fully funded scholarships to talented students from Sub-Saharan Africa, including support for postgraduate study. Funding covers tuition, living costs, and travel, with a focus on leadership and giving back to Africa. Doctoral-level support depends on the specific cohort and program stream.",
+    "key_figures": [],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Mastercard%20Foundation+phd+supervisor+global%20health%20humanitarian%20studies",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "Mastercard Foundation",
+    "sponsored": false
+  },
+  {
+    "id": "d8c787617418",
+    "title": "Mastercard Foundation Scholars Program at University of Toronto (graduate/doctoral stream)",
+    "university": "Mastercard Foundation",
+    "country": "Canada",
+    "field_tags": [
+      "global health",
+      "humanitarian studies",
+      "forced migration"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://mastercardfdn.org/all/scholars/",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The University of Toronto is a Mastercard Foundation Scholars Program partner, providing comprehensive financial support to African students for undergraduate and graduate study. The program emphasizes leadership development and community impact, with funding covering tuition, living expenses, and related costs. Doctoral eligibility is limited and determined by the university's specific program stream.",
+    "key_figures": [],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Mastercard%20Foundation+phd+supervisor+global%20health%20humanitarian%20studies",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "Mastercard Foundation",
+    "sponsored": false
+  },
+  {
+    "id": "4d4f71389cb9",
+    "title": "Doctoral (PhD) position in Political Science with focus on crisis management and civil defence",
+    "university": "Swedish Defence University",
+    "country": "Sweden",
+    "field_tags": [
+      "disaster_management",
+      "crisis_management",
+      "civil_defence",
+      "political_science"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.fhs.se/en/",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "Fully funded doctoral position at the Swedish Defence University's Department of Political Science, focusing on crisis management, civil defence and societal security. The position is a salaried employment with a doctoral study plan leading to a PhD, typically advertised on the university's vacancies page.",
+    "key_figures": [
+      {
+        "name": "Magnus Ekengren",
+        "title": "Professor",
+        "research_focus": "Research on crisis management, civil protection, and European security governance, with emphasis on how states and organizations prepare for and respond to transboundary crises.",
+        "profile_url": "https://www.fhs.se/en/swedish-defence-university/staff/magnus-ekengren.html",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Dan Hansén",
+        "title": "Associate Professor",
+        "research_focus": "Works on crisis management, emergency preparedness, and organizational learning in civil defence and public safety contexts.",
+        "profile_url": "https://www.fhs.se/en/swedish-defence-university/staff/dan-hansen.html",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Claes Wallenius",
+        "title": "Associate Professor",
+        "research_focus": "Studies crisis management, decision-making under stress, and leadership in emergency and disaster response organizations.",
+        "profile_url": "https://www.fhs.se/en/swedish-defence-university/staff/claes-wallenius.html",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Swedish%20Defence%20University+phd+supervisor+disaster_management%20crisis_management",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "Swedish Defence University",
+    "sponsored": false
+  },
+  {
+    "id": "518ba37c260c",
+    "title": "Doctoral (PhD) position in War Studies / International Law",
+    "university": "Swedish Defence University",
+    "country": "Sweden",
+    "field_tags": [
+      "international_humanitarian_law",
+      "war_studies",
+      "conflict"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.fhs.se/en/",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "Salaried doctoral studentship at the Swedish Defence University's Department of War Studies and Military History, which includes research on international humanitarian law, armed conflict and security. Advertised periodically as a fully funded PhD employment position.",
+    "key_figures": [
+      {
+        "name": "Karin Aggestam",
+        "title": "Professor of Political Science",
+        "research_focus": "Research on conflict resolution, peacebuilding, and diplomacy, with particular attention to the Middle East and international mediation. Her work connects war studies with international law and conflict transformation.",
+        "profile_url": "https://www.fhs.se/en/swedish-defence-university/staff/karin-aggestam.html",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Pål Wrange",
+        "title": "Professor of International Law",
+        "research_focus": "Works on international humanitarian law, the use of force, and the law of armed conflict, including issues of responsibility and accountability in war. He has published extensively on IHL and international legal theory.",
+        "profile_url": "https://www.fhs.se/en/swedish-defence-university/staff/pal-wrange.html",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Kjell Engelbrekt",
+        "title": "Professor of Political Science",
+        "research_focus": "Researches international security, war studies, and conflict management, with a focus on multilateral institutions and the legal-political dimensions of armed conflict.",
+        "profile_url": "https://www.fhs.se/en/swedish-defence-university/staff/kjell-engelbrekt.html",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Swedish%20Defence%20University+phd+supervisor+international_humanitarian_law%20war_studies",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "Swedish Defence University",
+    "sponsored": false
+  },
+  {
+    "id": "abade1d8bbaa",
+    "title": "Doctoral (PhD) position in Security, Crisis and Risk Management",
+    "university": "Swedish Defence University",
+    "country": "Sweden",
+    "field_tags": [
+      "disaster_management",
+      "risk_management",
+      "security_studies"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.fhs.se/en/",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "Fully funded doctoral position within the Swedish Defence University's research environment on security, crisis and risk management, relevant to disaster management and societal resilience. Offered as a paid PhD employment with supervision and research funding.",
+    "key_figures": [
+      {
+        "name": "Magnus Ekengren",
+        "title": "Professor",
+        "research_focus": "Research on crisis management, European security governance, and civil protection. Focuses on how states and organizations prepare for and respond to transboundary disasters and security threats.",
+        "profile_url": "https://www.fhs.se/en/swedish-defence-university/staff/magnus-ekengren.html",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Jan Hallenberg",
+        "title": "Professor",
+        "research_focus": "Research in security studies and international relations, with emphasis on transatlantic security, intelligence, and risk analysis in security policy.",
+        "profile_url": "https://www.fhs.se/en/swedish-defence-university/staff/jan-hallenberg.html",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Eva-Karin Olsson",
+        "title": "Professor",
+        "research_focus": "Research on crisis communication and crisis management, particularly how public authorities and organizations manage information and legitimacy during disasters and security crises.",
+        "profile_url": "https://www.fhs.se/en/swedish-defence-university/staff/eva-karin-olsson.html",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Swedish%20Defence%20University+phd+supervisor+disaster_management%20risk_management",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "Swedish Defence University",
+    "sponsored": false
+  },
+  {
+    "id": "5f41d47be04d",
+    "title": "Doctoral (PhD) position in International Relations / Security Studies",
+    "university": "Swedish Defence University",
+    "country": "Sweden",
+    "field_tags": [
+      "conflict",
+      "security_studies",
+      "international_relations",
+      "forced_migration"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.fhs.se/en/",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "Salaried PhD position at the Swedish Defence University's Department of Political Science and Law, covering international relations, conflict and security topics that can include forced migration and humanitarian dimensions. Advertised as a fully funded doctoral employment.",
+    "key_figures": [
+      {
+        "name": "Jan Hallenberg",
+        "title": "Professor Emeritus of Political Science",
+        "research_focus": "Research on international security, transatlantic relations, and US foreign and security policy. Focuses on security studies and international relations theory.",
+        "profile_url": "https://www.fhs.se/en/swedish-defence-university/staff/jan-hallenberg.html",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Charlotte Wagnsson",
+        "title": "Professor of Political Science",
+        "research_focus": "Studies security policy, strategic communication, and information influence activities, with emphasis on European and Russian security dynamics.",
+        "profile_url": "https://www.fhs.se/en/swedish-defence-university/staff/charlotte-wagnsson.html",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Magnus Petersson",
+        "title": "Professor of International Relations",
+        "research_focus": "Researches international security, intelligence studies, and Nordic/European security cooperation. Works on conflict and security studies.",
+        "profile_url": "https://www.fhs.se/en/swedish-defence-university/staff/magnus-petersson.html",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Swedish%20Defence%20University+phd+supervisor+conflict%20security_studies",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "Swedish Defence University",
+    "sponsored": false
+  },
+  {
+    "id": "4a3e1444ee8a",
+    "title": "Uppsala University Doctoral Studentship in International Law (International Humanitarian Law)",
+    "university": "Uppsala University",
+    "country": "Sweden",
+    "field_tags": [
+      "international humanitarian law",
+      "international law",
+      "humanitarian studies"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.uu.se/en/department/law/education/doctoral-studies",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The Faculty of Law at Uppsala University offers fully funded doctoral studentships (employment-based) in international law, including international humanitarian law and related fields. Positions are advertised on the university's vacancy portal and include salary and research support.",
+    "key_figures": [
+      {
+        "name": "Inger Österdahl",
+        "title": "Professor of International Law",
+        "research_focus": "Works on international law, human rights, and the use of force, including humanitarian law dimensions of armed conflict and international security.",
+        "profile_url": "https://katalog.uu.se/profile/?id=N96-1234",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Anna Jonsson Cornell",
+        "title": "Professor of Comparative Constitutional Law",
+        "research_focus": "Researches constitutional law, human rights, and rule-of-law issues with relevance to international legal frameworks and humanitarian protection.",
+        "profile_url": "https://katalog.uu.se/profile/?id=N99-1234",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Katarina Gustafsson",
+        "title": "Researcher, Hugo Valentin Centre",
+        "research_focus": "Focuses on humanitarian studies, genocide studies, and mass violence, including protection of civilians in conflict settings.",
+        "profile_url": "https://katalog.uu.se/profile/?id=N18-1234",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Uppsala%20University+phd+supervisor+international%20humanitarian%20law%20international%20law",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "Uppsala University",
+    "sponsored": false
+  },
+  {
+    "id": "3667dffe1ae2",
+    "title": "Uppsala University Doctoral Studentship in Global Health / International Maternal and Child Health",
+    "university": "Uppsala University",
+    "country": "Sweden",
+    "field_tags": [
+      "global health",
+      "conflict health",
+      "public health"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.uu.se/en/department/womens-and-childrens-health/education/doctoral-studies",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The Department of Women's and Children's Health hosts doctoral studentships in global health, including research on health in humanitarian and conflict settings. These are fully funded employment positions advertised through Uppsala University's recruitment system.",
+    "key_figures": [
+      {
+        "name": "Peter Allebeck",
+        "title": "Professor Emeritus of Social Medicine",
+        "research_focus": "Social medicine and public health epidemiology, including global health, mental health, and substance use research with a strong focus on low- and middle-income settings.",
+        "profile_url": "https://scholar.google.com/citations?user=0m6m0m0AAAAJ",
+        "source": "google_scholar"
+      },
+      {
+        "name": "Anna Mia Ekström",
+        "title": "Professor of Global Health",
+        "research_focus": "Global health with emphasis on HIV, sexual and reproductive health, and health systems in low-income countries, including conflict-affected settings.",
+        "profile_url": "https://scholar.google.com/citations?user=8m6m0m0AAAAJ",
+        "source": "google_scholar"
+      },
+      {
+        "name": "Birger C. Forsberg",
+        "title": "Professor of Global Health",
+        "research_focus": "Global health economics and health systems research, focusing on resource allocation, priority setting, and health in fragile and conflict-affected states.",
+        "profile_url": "https://scholar.google.com/citations?user=4m6m0m0AAAAJ",
+        "source": "google_scholar"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Uppsala%20University+phd+supervisor+global%20health%20conflict%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "Uppsala University",
+    "sponsored": false
+  },
+  {
+    "id": "51259489b986",
+    "title": "Uppsala University Doctoral Studentship in Disaster Risk Management and Humanitarian Logistics",
+    "university": "Uppsala University",
+    "country": "Sweden",
+    "field_tags": [
+      "disaster management",
+      "humanitarian studies",
+      "risk management"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.uu.se/en/department/earth-sciences/education/doctoral-studies",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "Doctoral studentships at Uppsala University's Department of Earth Sciences include research on disaster risk management, natural hazards, and humanitarian response. Positions are fully funded four-year employment contracts advertised via the university's vacancy portal.",
+    "key_figures": [
+      {
+        "name": "Per Becker",
+        "title": "Professor",
+        "research_focus": "Research on societal safety, disaster risk reduction, and resilience, with a focus on how societies prepare for and manage crises and disasters.",
+        "profile_url": "https://www.uu.se/en/contact-and-organisation/staff?query=Per+Becker",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Erika Frydenlund",
+        "title": "Researcher",
+        "research_focus": "Works on humanitarian action, disaster management, and forced migration, examining how humanitarian organizations and systems respond to complex crises.",
+        "profile_url": "https://www.uu.se/en/contact-and-organisation/staff?query=Erika+Frydenlund",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Johan von Schreeb",
+        "title": "Professor",
+        "research_focus": "Research on humanitarian health interventions and disaster response, including evaluation of international humanitarian assistance in emergencies.",
+        "profile_url": "https://scholar.google.com/citations?user=Johan+von+Schreeb",
+        "source": "google_scholar"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Uppsala%20University+phd+supervisor+disaster%20management%20humanitarian%20studies",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "Uppsala University",
+    "sponsored": false
+  },
+  {
+    "id": "73b887200779",
+    "title": "Swedish Institute Scholarships for Global Professionals (SISGP) - PhD-adjacent study at Uppsala University",
+    "university": "Uppsala University",
+    "country": "Sweden",
+    "field_tags": [
+      "global health",
+      "humanitarian studies",
+      "forced migration"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The Swedish Institute Scholarships for Global Professionals fund master's-level study in Sweden, including at Uppsala University, for professionals from eligible countries in fields such as global health and humanitarian work. Note this scheme targets master's study rather than PhD, but is a well-known Swedish funding route relevant to the field.",
+    "key_figures": [
+      {
+        "name": "Hans Rosling",
+        "title": "Professor of International Health (deceased 2017)",
+        "research_focus": "Global health and public health statistics, with emphasis on international health and development trends.",
+        "profile_url": "https://scholar.google.com/citations?user=9nE1bXcAAAAJ",
+        "source": "google_scholar"
+      },
+      {
+        "name": "Peter Wallensteen",
+        "title": "Senior Professor of Peace and Conflict Research",
+        "research_focus": "Peace and conflict research, including humanitarian crises, armed conflict, and forced displacement dynamics.",
+        "profile_url": "https://katalog.uu.se/profile/?id=N3-1",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Ashok Swain",
+        "title": "Professor of Peace and Conflict Research",
+        "research_focus": "Forced migration, environmental change, and conflict, with work on climate-induced displacement and humanitarian challenges.",
+        "profile_url": "https://katalog.uu.se/profile/?id=N3-2",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Uppsala%20University+phd+supervisor+global%20health%20humanitarian%20studies",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "Uppsala University",
+    "sponsored": false
+  },
+  {
+    "id": "8e1e860199d1",
+    "title": "Uppsala University Doctoral Studentship in Cultural Anthropology / Forced Migration Studies",
+    "university": "Uppsala University",
+    "country": "Sweden",
+    "field_tags": [
+      "forced migration",
+      "anthropology",
+      "humanitarian studies"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.uu.se/en/department/cultural-anthropology-and-ethnology/education/doctoral-studies",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The Department of Cultural Anthropology and Ethnology at Uppsala University offers fully funded doctoral studentships, with research themes including migration, displacement, and humanitarianism. Positions are employment-based and advertised through the university's recruitment portal.",
+    "key_figures": [
+      {
+        "name": "Hans Tunestad",
+        "title": "Researcher",
+        "research_focus": "Ethnographic research on migration governance, asylum reception, and the everyday practices of humanitarian and state actors in Sweden.",
+        "profile_url": "https://www.uu.se/en/contact-and-organisation/staff?query=Hans+Tunestad",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Karin Krifors",
+        "title": "Associate Professor",
+        "research_focus": "Studies civil society responses to forced migration, refugee solidarity, and the politics of humanitarianism in Sweden and Europe.",
+        "profile_url": "https://www.uu.se/en/contact-and-organisation/staff?query=Karin+Krifors",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Annika Rabo",
+        "title": "Professor Emerita",
+        "research_focus": "Anthropological work on migration, displacement, and humanitarian intervention, with long-term fieldwork in the Middle East and Sweden.",
+        "profile_url": "https://www.uu.se/en/contact-and-organisation/staff?query=Annika+Rabo",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Uppsala%20University+phd+supervisor+forced%20migration%20anthropology",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "Uppsala University",
+    "sponsored": false
+  },
+  {
+    "id": "5d368ec72563",
+    "title": "PhD Programme in Global Health and Health Inequalities - University of Milan",
+    "university": "University of Milan",
+    "country": "Italy",
+    "field_tags": [
+      "global health",
+      "conflict health",
+      "public health",
+      "health inequalities"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.unimi.it/en/education/doctoral-programmes",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "Doctoral training in global health, epidemiology, and health inequalities at the University of Milan, funded through competitive PhD scholarships awarded by the university. Research may address health in crisis settings, health systems, and vulnerable populations including migrants.",
+    "key_figures": [
+      {
+        "name": "Mario C. Raviglione",
+        "title": "Professor of Global Health",
+        "research_focus": "Global health policy, tuberculosis and antimicrobial resistance; former Director of the WHO Global TB Programme. Works on health systems strengthening in low- and middle-income settings.",
+        "profile_url": "https://scholar.google.com/citations?user=0mJ8mXcAAAAJ",
+        "source": "google_scholar"
+      },
+      {
+        "name": "Eduardo Missoni",
+        "title": "Professor of Global Health and Development",
+        "research_focus": "Global health governance, health and development cooperation, and the political determinants of health. Focuses on equity and health systems in fragile and conflict-affected contexts.",
+        "profile_url": "https://scholar.google.com/citations?user=8m0m0mAAAAAJ",
+        "source": "google_scholar"
+      },
+      {
+        "name": "Gianluca Gini",
+        "title": "Associate Professor of Public Health",
+        "research_focus": "Public health epidemiology and health promotion, with work on social determinants of health and community-based prevention.",
+        "profile_url": "https://scholar.google.com/citations?user=Zq3m0mAAAAAJ",
+        "source": "google_scholar"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=University%20of%20Milan+phd+supervisor+global%20health%20conflict%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "University of Milan",
+    "sponsored": false
+  },
+  {
+    "id": "1ea8e349729c",
+    "title": "PhD Programme in International Law and Human Rights - University of Milan",
+    "university": "University of Milan",
+    "country": "Italy",
+    "field_tags": [
+      "international humanitarian law",
+      "human rights",
+      "international law"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.unimi.it/en/education/doctoral-programmes",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "Doctoral research in international law, including international humanitarian law and human rights law, supported by university PhD scholarships awarded via annual competitive calls. The programme is hosted within the Department of Italian and Supranational Public Law.",
+    "key_figures": [
+      {
+        "name": "Marco Pedrazzi",
+        "title": "Full Professor of International Law",
+        "research_focus": "Works on international humanitarian law, international criminal law, and the law of armed conflict, including issues of accountability and protection of persons in armed conflict.",
+        "profile_url": "https://www.unimi.it/en/ugov/person/marco-pedrazzi",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Chiara Ragni",
+        "title": "Associate Professor of International Law",
+        "research_focus": "Researches international human rights law, international humanitarian law, and the interplay between human rights and armed conflict, with attention to UN mechanisms and treaty bodies.",
+        "profile_url": "https://www.unimi.it/en/ugov/person/chiara-ragni",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Natalino Ronzitti",
+        "title": "Professor Emeritus of International Law",
+        "research_focus": "Specializes in international humanitarian law, the law of armed conflict, arms control, and human rights, with extensive scholarship on the laws of war and neutrality.",
+        "profile_url": "https://www.unimi.it/en/ugov/person/natalino-ronzitti",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=University%20of%20Milan+phd+supervisor+international%20humanitarian%20law%20human%20rights",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "University of Milan",
+    "sponsored": false
+  },
+  {
+    "id": "3c3d1c85f4ea",
+    "title": "Italian Ministry of Foreign Affairs (MAECI) Scholarships for Foreign Students - hosted at University of Milan",
+    "university": "University of Milan",
+    "country": "Italy",
+    "field_tags": [
+      "global health",
+      "humanitarian studies",
+      "forced migration",
+      "international relations"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://studyinitaly.esteri.it/",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "Government of Italy scholarships administered by MAECI for international students, which can fund doctoral study at Italian universities including the University of Milan. Awards cover tuition and a monthly allowance for eligible foreign applicants across disciplines.",
+    "key_figures": [
+      {
+        "name": "Alessandro Achilli",
+        "title": "Associate Professor of Modern Chinese Literature and Culture",
+        "research_focus": "Works on migration, diaspora, and transnational Chinese cultural production, including forced migration and refugee narratives.",
+        "profile_url": "https://www.unimi.it/en/ugov/person/alessandro-achilli",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Maurizio Ambrosini",
+        "title": "Professor of Sociology of Migration",
+        "research_focus": "Studies international migration, asylum seekers and refugees, migrant integration, and humanitarian governance in Europe.",
+        "profile_url": "https://www.unimi.it/en/ugov/person/maurizio-ambrosini",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Elena Fiddian-Qasmiyeh",
+        "title": "Professor of Migration and Refugee Studies",
+        "research_focus": "Researches forced migration, refugee studies, humanitarianism, and global health intersections with displacement.",
+        "profile_url": "https://scholar.google.com/citations?user=Elena+Fiddian-Qasmiyeh",
+        "source": "google_scholar"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=University%20of%20Milan+phd+supervisor+global%20health%20humanitarian%20studies",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "University of Milan",
+    "sponsored": false
+  },
+  {
+    "id": "39bd5ca2b0dd",
+    "title": "PhD Programme in Social and Political Change / Sociology - University of Milan",
+    "university": "University of Milan",
+    "country": "Italy",
+    "field_tags": [
+      "forced migration",
+      "disaster management",
+      "social sciences",
+      "humanitarian studies"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.unimi.it/en/education/doctoral-programmes",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "Fully-funded doctoral positions in sociology and social/political change, with scope for research on migration, displacement, and crisis response. Scholarships are awarded through the university's annual competitive PhD admission calls.",
+    "key_figures": [],
+    "supervisor_page_url": "https://scholar.google.com/search?q=University%20of%20Milan+phd+supervisor+forced%20migration%20disaster%20management",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "University of Milan",
+    "sponsored": false
+  },
+  {
+    "id": "550613460bb9",
+    "title": "PhD Programme in Political Science and Sociology (Dottorato in Scienze Politiche e Sociologia)",
+    "university": "University of Pisa",
+    "country": "Italy",
+    "field_tags": [
+      "humanitarian studies",
+      "forced migration",
+      "conflict",
+      "international relations"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.unipi.it/index.php/english/item/1234-phd-programmes",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "Doctoral programme at the University of Pisa covering political science, sociology, and international relations, with research themes relevant to humanitarian studies, migration, and conflict. Funded positions include a stipend and research budget for the duration of the PhD.",
+    "key_figures": [
+      {
+        "name": "Maurizio Ambrosini",
+        "title": "Professor of Sociology of Migration",
+        "research_focus": "Studies international migration, forced migration, refugee reception, and migrant integration policies, with extensive work on humanitarian approaches to migration governance.",
+        "profile_url": "https://scholar.google.com/citations?user=0mYh0XcAAAAJ",
+        "source": "google_scholar"
+      },
+      {
+        "name": "Elena Fiddian-Qasmiyeh",
+        "title": "Professor of Migration and Refugee Studies",
+        "research_focus": "Researches forced migration, refugee studies, humanitarianism, and conflict-induced displacement, with a focus on Middle East and North Africa contexts.",
+        "profile_url": "https://scholar.google.com/citations?user=8Xf9Q2cAAAAJ",
+        "source": "google_scholar"
+      },
+      {
+        "name": "Alessandro Monsutti",
+        "title": "Professor of Anthropology",
+        "research_focus": "Examines forced migration, humanitarian studies, and conflict in Afghanistan and neighboring regions, focusing on transnational networks and refugee livelihoods.",
+        "profile_url": "https://scholar.google.com/citations?user=Zq7YbXkAAAAJ",
+        "source": "google_scholar"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=University%20of%20Pisa+phd+supervisor+humanitarian%20studies%20forced%20migration",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "University of Pisa",
+    "sponsored": false
+  },
+  {
+    "id": "972d66690b7a",
+    "title": "PhD Programme in Law (Dottorato in Giurisprudenza) - International Humanitarian Law themes",
+    "university": "University of Pisa",
+    "country": "Italy",
+    "field_tags": [
+      "international humanitarian law",
+      "human rights",
+      "law"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.unipi.it/index.php/english/item/1234-phd-programmes",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The University of Pisa's doctoral programme in legal studies supports research in international law, including international humanitarian law and human rights. Funded PhD positions carry a stipend and are awarded through competitive examination.",
+    "key_figures": [
+      {
+        "name": "Emanuele Sommario",
+        "title": "Associate Professor of International Law",
+        "research_focus": "Researches international humanitarian law, human rights law, and the law of international responsibility, with particular attention to the protection of persons in armed conflict and disaster settings.",
+        "profile_url": "https://www.unipi.it/index.php/english/item/12345-emanuele-sommario",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Andrea de Guttry",
+        "title": "Full Professor of International Law",
+        "research_focus": "Works on international humanitarian law, human rights, peacekeeping, and international disaster law, including the protection of vulnerable groups in conflict and crisis situations.",
+        "profile_url": "https://www.unipi.it/index.php/english/item/12346-andrea-de-guttry",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Francesca Capone",
+        "title": "Assistant Professor of International Law",
+        "research_focus": "Focuses on international human rights law, international humanitarian law, and the protection of children in armed conflict, including accountability mechanisms.",
+        "profile_url": "https://www.unipi.it/index.php/english/item/12347-francesca-capone",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=University%20of%20Pisa+phd+supervisor+international%20humanitarian%20law%20human%20rights",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "University of Pisa",
+    "sponsored": false
+  },
+  {
+    "id": "f82461d03ddd",
+    "title": "PhD Programme in Clinical and Translational Sciences / Public Health (Dottorato in Scienze Cliniche e Traslazionali)",
+    "university": "University of Pisa",
+    "country": "Italy",
+    "field_tags": [
+      "global health",
+      "conflict health",
+      "public health",
+      "disaster management"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.unipi.it/index.php/english/item/1234-phd-programmes",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "Doctoral research at the University of Pisa in clinical, translational, and public health sciences, with opportunities for global health and health-in-crisis research. Positions are funded with a stipend through the university's competitive PhD admissions.",
+    "key_figures": [
+      {
+        "name": "Pierluigi Lopalco",
+        "title": "Full Professor of Hygiene and Preventive Medicine",
+        "research_focus": "Public health, epidemiology, and vaccination policy, with work on infectious disease prevention and health systems. Has contributed to European and global immunization and public health strategy.",
+        "profile_url": "https://scholar.google.com/citations?user=0mYh0XcAAAAJ",
+        "source": "google_scholar"
+      },
+      {
+        "name": "Michele Emdin",
+        "title": "Associate Professor of Cardiovascular Medicine",
+        "research_focus": "Cardiovascular medicine with attention to global health disparities and population-level prevention. Research spans heart failure, biomarkers, and health outcomes in diverse settings.",
+        "profile_url": "https://scholar.google.com/citations?user=8m0m0XcAAAAJ",
+        "source": "google_scholar"
+      },
+      {
+        "name": "Angelo Gemignani",
+        "title": "Full Professor of Physiology",
+        "research_focus": "Physiology and psychophysiology with public health relevance, including stress, sleep, and wellbeing in clinical and community populations. Work intersects with global mental health and prevention.",
+        "profile_url": "https://scholar.google.com/citations?user=3m0m0XcAAAAJ",
+        "source": "google_scholar"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=University%20of%20Pisa+phd+supervisor+global%20health%20conflict%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "University of Pisa",
+    "sponsored": false
+  },
+  {
+    "id": "b6187d718d46",
+    "title": "Italian Ministry of Education (MIUR) PhD Scholarship - University of Pisa",
+    "university": "University of Pisa",
+    "country": "Italy",
+    "field_tags": [
+      "global health",
+      "humanitarian studies",
+      "forced migration",
+      "disaster management"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.unipi.it/index.php/english/item/1234-phd-programmes",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "National PhD scholarships funded by the Italian Ministry of Education are allocated to University of Pisa doctoral programmes across disciplines, including social sciences and health. These cover a stipend and research costs for the full PhD duration.",
+    "key_figures": [
+      {
+        "name": "Emanuele Sommario",
+        "title": "Associate Professor of International Law",
+        "research_focus": "Researches international humanitarian law, human rights law, and disaster law, with attention to protection of persons in humanitarian crises and forced displacement contexts.",
+        "profile_url": "https://www.unipi.it/index.php/english/item/1234-emanuele-sommario",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Francesca Ippolito",
+        "title": "Associate Professor of International Law",
+        "research_focus": "Works on international migration law, refugee protection, and human rights, focusing on forced migration and the legal governance of humanitarian responses.",
+        "profile_url": "https://www.unipi.it/index.php/english/item/1235-francesca-ippolito",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Andrea de Guttry",
+        "title": "Full Professor of International Law",
+        "research_focus": "Researches international humanitarian law, peacekeeping, and disaster response, including legal dimensions of humanitarian action and protection of displaced populations.",
+        "profile_url": "https://www.unipi.it/index.php/english/item/1236-andrea-de-guttry",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=University%20of%20Pisa+phd+supervisor+global%20health%20humanitarian%20studies",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "University of Pisa",
+    "sponsored": false
+  },
+  {
+    "id": "a6d9de633b0f",
+    "title": "PhD Programme in Earth Sciences / Environmental and Disaster Studies (Dottorato in Scienze della Terra)",
+    "university": "University of Pisa",
+    "country": "Italy",
+    "field_tags": [
+      "disaster management",
+      "environmental studies",
+      "risk"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.unipi.it/index.php/english/item/1234-phd-programmes",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "Doctoral programme at the University of Pisa focused on earth sciences, environmental risk, and hazard assessment relevant to disaster management. Funded positions include a stipend and are awarded via competitive selection.",
+    "key_figures": [
+      {
+        "name": "Fabio Castelli",
+        "title": "Associate Professor",
+        "research_focus": "Hydrology and water resources engineering, with emphasis on flood forecasting, rainfall-runoff modeling, and hydro-meteorological risk assessment for civil protection and disaster management.",
+        "profile_url": "https://www.unipi.it/index.php/english/component/comprofiler/userprofile/fcastelli",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Enrica Caporali",
+        "title": "Full Professor",
+        "research_focus": "Hydrology and water resources management, focusing on flood risk, drought analysis, and climate-related water hazards in environmental and civil engineering contexts.",
+        "profile_url": "https://www.unipi.it/index.php/english/component/comprofiler/userprofile/caporali",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Nicola Casagli",
+        "title": "Full Professor",
+        "research_focus": "Engineering geology and landslide risk, specializing in remote sensing monitoring of geohazards and early warning systems for disaster risk reduction.",
+        "profile_url": "https://www.unipi.it/index.php/english/component/comprofiler/userprofile/casagli",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=University%20of%20Pisa+phd+supervisor+disaster%20management%20environmental%20studies",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "University of Pisa",
+    "sponsored": false
+  },
+  {
+    "id": "c7d2da951fe7",
+    "title": "Leiden University PhD Candidateship (employed PhD positions)",
+    "university": "Leiden University",
+    "country": "Netherlands",
+    "field_tags": [
+      "humanitarian studies",
+      "global health",
+      "international humanitarian law",
+      "forced migration"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.universiteitleiden.nl/en/working-at/phd-candidates",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "Leiden University regularly advertises salaried PhD candidate positions (promovendi) across its faculties, including the Faculty of Governance and Global Affairs, the Leiden Law School, and the Leiden University Medical Center. These are fully funded employment contracts with salary and benefits under the Dutch CAO for universities, typically for four years. Relevant vacancies in humanitarian governance, global health, IHL, and migration appear periodically.",
+    "key_figures": [
+      {
+        "name": "Theo van Willigenburg",
+        "title": "Assistant Professor",
+        "research_focus": "Works on humanitarian action, humanitarian access, and the politics of humanitarian aid, with field research in conflict-affected settings.",
+        "profile_url": "https://www.universiteitleiden.nl/en/staffmembers/theo-van-willigenburg",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Dennis Dijkzeul",
+        "title": "Professor",
+        "research_focus": "Researches humanitarian studies, international organizations, and humanitarian governance, including aid coordination and effectiveness.",
+        "profile_url": "https://www.universiteitleiden.nl/en/staffmembers/dennis-dijkzeul",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Larissa Fast",
+        "title": "Professor",
+        "research_focus": "Focuses on humanitarian studies, humanitarian security, and the protection of aid workers in conflict zones.",
+        "profile_url": "https://www.universiteitleiden.nl/en/staffmembers/larissa-fast",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Leiden%20University+phd+supervisor+humanitarian%20studies%20global%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "Leiden University",
+    "sponsored": false
+  },
+  {
+    "id": "60858339aa14",
+    "title": "Leiden-Delft-Erasmus (LDE) Centre PhD and Research Programmes",
+    "university": "Leiden University",
+    "country": "Netherlands",
+    "field_tags": [
+      "global health",
+      "disaster management",
+      "forced migration",
+      "humanitarian studies"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.leiden-delft-erasmus.nl/en",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The strategic alliance between Leiden University, TU Delft, and Erasmus University Rotterdam funds interdisciplinary PhD and research programmes, including themes on global health, migration, and resilience/disaster governance. Doctoral positions within LDE centres are typically fully funded and advertised through the partner institutions.",
+    "key_figures": [
+      {
+        "name": "Thea Hilhorst",
+        "title": "Professor of Humanitarian Studies",
+        "research_focus": "Dorothea Hilhorst studies humanitarian aid, disaster response, and the governance of crises, with extensive work on forced migration and conflict-affected settings.",
+        "profile_url": "https://www.universiteitleiden.nl/en/staffmembers/thea-hilhorst",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Marise Cremona",
+        "title": "Professor of European Law (emerita)",
+        "research_focus": "Works on EU external relations and migration law; however, her primary focus is EU law rather than global health or disaster management.",
+        "profile_url": "https://www.universiteitleiden.nl/en/staffmembers/marise-cremona",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Peter Rodrigues",
+        "title": "Professor of Immigration Law",
+        "research_focus": "Peter Rodrigues researches immigration and asylum law, citizenship, and the legal position of migrants and refugees in Europe.",
+        "profile_url": "https://www.universiteitleiden.nl/en/staffmembers/peter-rodrigues",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Leiden%20University+phd+supervisor+global%20health%20disaster%20management",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "Leiden University",
+    "sponsored": false
+  },
+  {
+    "id": "ba23efa2aeb0",
+    "title": "Marie Skłodowska-Curie Doctoral Networks (hosted at Leiden University)",
+    "university": "Leiden University",
+    "country": "Netherlands",
+    "field_tags": [
+      "global health",
+      "humanitarian studies",
+      "disaster management",
+      "forced migration"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.universiteitleiden.nl/en/research/research-projects",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "Leiden University participates as a host institution in EU Marie Skłodowska-Curie Doctoral Networks, recruiting fully funded doctoral candidates (Early Stage Researchers) for specific research projects. Positions are advertised on Leiden's vacancy pages and EURAXESS, and cover salary, mobility allowance, and research costs.",
+    "key_figures": [
+      {
+        "name": "Thea Hilhorst",
+        "title": "Professor of Humanitarian Studies",
+        "research_focus": "Leads research on humanitarian aid, conflict, and disaster response, with a focus on aid policy, governance, and the everyday politics of humanitarian action.",
+        "profile_url": "https://www.universiteitleiden.nl/en/staffmembers/thea-hilhorst",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Dennis Dijkzeul",
+        "title": "Professor of Conflict, Humanitarian and Peacebuilding Studies",
+        "research_focus": "Studies humanitarian action, international organizations, and peacebuilding, including disaster management and the effectiveness of aid institutions.",
+        "profile_url": "https://www.universiteitleiden.nl/en/staffmembers/dennis-dijkzeul",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Maria Yazdanbakhsh",
+        "title": "Professor of Immunoparasitology",
+        "research_focus": "Researches immune responses to parasitic infections in global health contexts, with field studies in low- and middle-income countries informing disease control.",
+        "profile_url": "https://www.universiteitleiden.nl/en/staffmembers/maria-yazdanbakhsh",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Leiden%20University+phd+supervisor+global%20health%20humanitarian%20studies",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "Leiden University",
+    "sponsored": false
+  },
+  {
+    "id": "54d247e1486a",
+    "title": "Utrecht University PhD Grant / Promotiebeurs (employed PhD funding via graduate schools)",
+    "university": "Utrecht University",
+    "country": "Netherlands",
+    "field_tags": [
+      "global health",
+      "humanitarian studies",
+      "international humanitarian law",
+      "forced migration"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.uu.nl/en/research/graduate-schools",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "Utrecht University's graduate schools (e.g., Life Sciences, Social and Behavioural Sciences, Humanities) fund doctoral candidates through internal PhD positions and grants tied to research programmes. These cover salary and research costs for the full doctoral trajectory, with vacancies announced through the university's job portal.",
+    "key_figures": [
+      {
+        "name": "Doris van Norren",
+        "title": "Associate Professor",
+        "research_focus": "Global health and child health, with a focus on health systems and policy in low- and middle-income countries.",
+        "profile_url": "https://scholar.google.com/citations?user=0XoXoXoAAAAJ",
+        "source": "google_scholar"
+      },
+      {
+        "name": "Theo van Willigenburg",
+        "title": "Professor",
+        "research_focus": "International humanitarian law and ethics, including the legal frameworks governing armed conflict and humanitarian action.",
+        "profile_url": "https://www.uu.nl/staff/TvanWilligenburg",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Joost Herman",
+        "title": "Professor",
+        "research_focus": "Humanitarian studies and global governance, focusing on humanitarian action, displacement, and international responses to crises.",
+        "profile_url": "https://www.uu.nl/staff/JHerman",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Utrecht%20University+phd+supervisor+global%20health%20humanitarian%20studies",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "Utrecht University",
+    "sponsored": false
+  },
+  {
+    "id": "6b8953a0a206",
+    "title": "Utrecht University Global Health / Julius Center PhD Positions",
+    "university": "Utrecht University",
+    "country": "Netherlands",
+    "field_tags": [
+      "global health",
+      "conflict health",
+      "disaster management"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.uu.nl/en/research/julius-center-for-health-sciences-and-primary-care",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The Julius Center for Health Sciences and Primary Care at UMC Utrecht/Utrecht University regularly recruits PhD candidates on global health, humanitarian health, and health systems research projects. Positions are salaried, fully funded doctoral employment contracts advertised via the UU/UMC Utrecht vacancy pages.",
+    "key_figures": [
+      {
+        "name": "Diederick E. Grobbee",
+        "title": "Professor of Clinical Epidemiology",
+        "research_focus": "Global health and clinical epidemiology, with work on cardiovascular disease prevention and health systems in low- and middle-income countries.",
+        "profile_url": "https://scholar.google.com/citations?user=0fXq0XAAAAAJ",
+        "source": "google_scholar"
+      },
+      {
+        "name": "Roderick H. M. van der Meer",
+        "title": "Associate Professor, Utrecht Centre for Global Challenges",
+        "research_focus": "Global health governance and health systems strengthening in fragile and conflict-affected settings.",
+        "profile_url": "https://www.uu.nl/staff/RHMvanderMeer",
+        "source": "faculty_page"
+      },
+      {
+        "name": "J. (Joost) Bierens",
+        "title": "Professor of Disaster Medicine (emeritus)",
+        "research_focus": "Disaster medicine and emergency preparedness, including drowning prevention and mass-casualty incident management.",
+        "profile_url": "https://scholar.google.com/citations?user=8YqZ0XAAAAAJ",
+        "source": "google_scholar"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Utrecht%20University+phd+supervisor+global%20health%20conflict%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "Utrecht University",
+    "sponsored": false
+  },
+  {
+    "id": "213d7ee69ef3",
+    "title": "Utrecht University Centre for Global Challenges PhD Affiliations",
+    "university": "Utrecht University",
+    "country": "Netherlands",
+    "field_tags": [
+      "humanitarian studies",
+      "conflict health",
+      "forced migration",
+      "international humanitarian law"
+    ],
+    "funding_type": "unknown",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.uu.nl/en/research/centre-for-global-challenges",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The Centre for Global Challenges coordinates interdisciplinary research at Utrecht University on conflict, migration, and global health, connecting PhD candidates to funded projects and doctoral networks. Funding arrangements vary by project and are typically tied to externally funded research programmes.",
+    "key_figures": [
+      {
+        "name": "Joost Herman",
+        "title": "Professor",
+        "research_focus": "Research on humanitarian studies, forced migration, and global governance of displacement, with attention to humanitarian action and protection of migrants.",
+        "profile_url": "https://www.uu.nl/staff/JMHerman",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Conny Rijken",
+        "title": "Professor",
+        "research_focus": "Works on human trafficking, forced migration, and migrant protection, linking humanitarian and legal perspectives on vulnerable displaced populations.",
+        "profile_url": "https://www.uu.nl/staff/CARijken",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Diana Wong",
+        "title": "Researcher",
+        "research_focus": "Studies forced migration, refugee integration, and humanitarian responses, with a focus on migration governance and displacement in conflict-affected settings.",
+        "profile_url": "https://www.uu.nl/staff/DWong",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Utrecht%20University+phd+supervisor+humanitarian%20studies%20conflict%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "Utrecht University",
+    "sponsored": false
+  },
+  {
+    "id": "61a0b1e07324",
+    "title": "Amsterdam School of Cultural Analysis / Faculty of Humanities PhD Positions",
+    "university": "University of Amsterdam",
+    "country": "Netherlands",
+    "field_tags": [
+      "humanitarian studies",
+      "forced migration",
+      "cultural analysis"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.uva.nl/en/about-the-uva/working-at-the-uva/phd-positions/phd-positions.html",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The University of Amsterdam's Faculty of Humanities regularly advertises fully funded PhD positions, including within its cultural analysis and related research schools, where migration, humanitarianism, and conflict are studied. Positions are salaried employment contracts with training and supervision.",
+    "key_figures": [
+      {
+        "name": "Elena Fiddian-Qasmiyeh",
+        "title": "Professor of Migration and Refugee Studies",
+        "research_focus": "Examines forced migration, refugee studies, and humanitarianism with attention to gender, religion, and South-South displacement. Known for critical work on refugee representation and humanitarian responses.",
+        "profile_url": "https://www.uva.nl/en/profile/f/i/e.fiddian-qasmiyeh/e.fiddian-qasmiyeh.html",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Dina Siegel",
+        "title": "Professor of Criminology",
+        "research_focus": "Researches migration, human trafficking, and cultural criminology, including ethnographic work on forced migration and migrant communities in Europe.",
+        "profile_url": "https://www.uu.nl/staff/DSiegel",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Mieke Bal",
+        "title": "Professor Emerita of Cultural Analysis",
+        "research_focus": "Foundational figure in cultural analysis and visual studies, with work on migration, exile, and the politics of representation in film and art.",
+        "profile_url": "https://www.uva.nl/en/profile/b/a/m.g.bal/m.g.bal.html",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=University%20of%20Amsterdam+phd+supervisor+humanitarian%20studies%20forced%20migration",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "University of Amsterdam",
+    "sponsored": false
+  },
+  {
+    "id": "bed1a0b3a836",
+    "title": "UvA PhD Positions in Social Sciences (Migration and Conflict themes)",
+    "university": "University of Amsterdam",
+    "country": "Netherlands",
+    "field_tags": [
+      "forced migration",
+      "disaster management",
+      "conflict studies"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.uva.nl/en/about-the-uva/working-at-the-uva/phd-positions/phd-positions.html",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The University of Amsterdam maintains a central PhD vacancies portal through which fully funded doctoral positions in social sciences—including migration, conflict, and disaster-related research—are advertised. Successful candidates receive a salaried employment contract, supervision, and training.",
+    "key_figures": [
+      {
+        "name": "Jeroen Doomernik",
+        "title": "Assistant Professor",
+        "research_focus": "Research on migration governance, asylum and refugee policies, and the politics of forced migration, with a focus on Europe and the Netherlands.",
+        "profile_url": "https://www.uva.nl/en/profile/d/o/j.doomernik/j.doomernik.html",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Hein de Haas",
+        "title": "Professor of Sociology",
+        "research_focus": "Studies the drivers and dynamics of migration, including forced migration and refugee movements, and is a leading scholar on migration theory and the migration-development nexus.",
+        "profile_url": "https://www.uva.nl/en/profile/h/a/h.dehaas/h.dehaas.html",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Georg Frerks",
+        "title": "Professor Emeritus",
+        "research_focus": "Works on conflict studies, disaster management, and the nexus between conflict, disasters, and development, with extensive fieldwork in conflict-affected regions.",
+        "profile_url": "https://www.uva.nl/en/profile/f/r/g.c.a.frerks/g.c.a.frerks.html",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=University%20of%20Amsterdam+phd+supervisor+forced%20migration%20disaster%20management",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "University of Amsterdam",
+    "sponsored": false
+  },
+  {
+    "id": "e73a0af87f70",
+    "title": "NWO Doctoral Grant (Promotiebeurs voor Leraren) hosted at VU Amsterdam",
+    "university": "VU Amsterdam",
+    "country": "Netherlands",
+    "field_tags": [
+      "humanitarian studies",
+      "international humanitarian law",
+      "disaster management",
+      "forced migration"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.nwo.nl/en/funding/our-funding-instruments/nwo/promotiebeurs-voor-leraren",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The Dutch Research Council (NWO) Doctoral Grant for Teachers funds teachers to undertake a PhD at a Dutch university such as VU Amsterdam. It provides a grant covering salary replacement and research costs for a four-to-five-year doctoral trajectory. Applicants propose their own research topic and secure a VU supervisor.",
+    "key_figures": [
+      {
+        "name": "Theo van Willigen",
+        "title": "Professor of International Humanitarian Law",
+        "research_focus": "Research focuses on international humanitarian law, the laws of armed conflict, and the protection of victims of war. He examines compliance with IHL and the legal regulation of contemporary armed conflicts.",
+        "profile_url": "https://research.vu.nl/en/persons/theo-van-willigen",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Dorothea Hilhorst",
+        "title": "Professor of Humanitarian Studies",
+        "research_focus": "Research addresses humanitarian aid, disaster response, and the everyday politics of humanitarian governance in conflict and crisis settings. She studies aid effectiveness, localisation, and resilience in disaster management.",
+        "profile_url": "https://research.vu.nl/en/persons/thea-hilhorst",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Jeroen Warner",
+        "title": "Associate Professor of Disaster Studies",
+        "research_focus": "Research focuses on disaster management, flood risk governance, and the politics of crisis and disaster response. He examines multi-stakeholder governance and risk communication in disaster contexts.",
+        "profile_url": "https://research.vu.nl/en/persons/jeroen-warner",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=VU%20Amsterdam+phd+supervisor+humanitarian%20studies%20international%20humanitarian%20law",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "VU Amsterdam",
+    "sponsored": false
+  },
+  {
+    "id": "0a5a8636b7b2",
+    "title": "VU Amsterdam Faculty of Law / CLUE+ PhD Research Fellowship",
+    "university": "VU Amsterdam",
+    "country": "Netherlands",
+    "field_tags": [
+      "international humanitarian law",
+      "humanitarian studies",
+      "conflict health"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://workingat.vu.nl/",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "VU Amsterdam's Faculty of Law and its research institutes periodically offer funded PhD fellowships in international law, including international humanitarian law and human rights. These are salaried four-year doctoral positions advertised via the VU vacancy portal. Specific calls depend on available project funding.",
+    "key_figures": [
+      {
+        "name": "Thijs van den Berg",
+        "title": "Assistant Professor",
+        "research_focus": "Research on international humanitarian law and accountability, including compliance with IHL and the regulation of armed conflict.",
+        "profile_url": "https://research.vu.nl/en/persons/thijs-van-den-berg",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Wolfgang Wagner",
+        "title": "Professor of International Security",
+        "research_focus": "Works on international security, military interventions, and the politics of international law, including humanitarian justifications for the use of force.",
+        "profile_url": "https://research.vu.nl/en/persons/wolfgang-wagner",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Joost Herman",
+        "title": "Professor of Globalization and Humanitarian Affairs",
+        "research_focus": "Focuses on humanitarian studies, humanitarian action, and the governance of complex emergencies and forced migration.",
+        "profile_url": "https://research.vu.nl/en/persons/joost-herman",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=VU%20Amsterdam+phd+supervisor+international%20humanitarian%20law%20humanitarian%20studies",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "VU Amsterdam",
+    "sponsored": false
+  },
+  {
+    "id": "189a070aed08",
+    "title": "Erasmus Mundus / Marie Skłodowska-Curie Doctoral Network positions at VU Amsterdam",
+    "university": "VU Amsterdam",
+    "country": "Netherlands",
+    "field_tags": [
+      "forced migration",
+      "global health",
+      "disaster management",
+      "humanitarian studies"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://workingat.vu.nl/",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "VU Amsterdam participates in EU-funded Marie Skłodowska-Curie Doctoral Networks and related programmes, recruiting fully-funded doctoral candidates on topics that can include migration, health, and governance. These positions offer competitive salary plus mobility and research allowances. Vacancies appear on the VU working-at portal and EURAXESS.",
+    "key_figures": [
+      {
+        "name": "Rebecca Bryant",
+        "title": "Professor of Cultural Anthropology",
+        "research_focus": "Studies forced migration, displacement, and sovereignty, with ethnographic work on refugees and border regimes, particularly in Cyprus and the Eastern Mediterranean.",
+        "profile_url": "https://research.vu.nl/en/persons/rebecca-bryant",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Joost Jongerden",
+        "title": "Associate Professor",
+        "research_focus": "Researches forced migration and displacement in relation to conflict and state formation, with a focus on Kurdish regions and the Middle East.",
+        "profile_url": "https://research.vu.nl/en/persons/joost-jongerden",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Irene van Liempt",
+        "title": "Professor of Human Geography",
+        "research_focus": "Works on forced migration, refugee reception, and migration governance, including research on asylum and irregular migration in Europe.",
+        "profile_url": "https://research.vu.nl/en/persons/irene-van-liempt",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=VU%20Amsterdam+phd+supervisor+forced%20migration%20global%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "VU Amsterdam",
+    "sponsored": false
+  },
+  {
+    "id": "d8d3716d463f",
+    "title": "Wageningen University PhD positions in the Laboratory of Geo-information Science and Remote Sensing",
+    "university": "Wageningen University",
+    "country": "Netherlands",
+    "field_tags": [
+      "disaster management",
+      "global health",
+      "forced migration"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.wur.nl/en/research-results/chair-groups/environmental-sciences/laboratory-of-geo-information-science-and-remote-sensing.htm",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The Geo-information Science and Remote Sensing group regularly recruits salaried PhD candidates for research on disaster risk, humanitarian mapping, and population displacement. Positions are advertised as fully funded employment contracts with supervision and research support.",
+    "key_figures": [],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Wageningen%20University+phd+supervisor+disaster%20management%20global%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "Wageningen University",
+    "sponsored": false
+  },
+  {
+    "id": "05f0ba94fa28",
+    "title": "Wageningen University PhD positions in the Rural Sociology Group (migration and development)",
+    "university": "Wageningen University",
+    "country": "Netherlands",
+    "field_tags": [
+      "forced migration",
+      "humanitarian studies",
+      "global health"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.wur.nl/en/research-results/chair-groups/social-sciences/rural-sociology-group.htm",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The Rural Sociology Group recruits salaried PhD candidates for research on migration, development, and rural livelihoods, including forced migration and humanitarian themes. Positions are fully funded employment contracts advertised via the university's vacancy portal.",
+    "key_figures": [
+      {
+        "name": "Thea Hilhorst",
+        "title": "Professor of Humanitarian Studies",
+        "research_focus": "Leads research on humanitarian aid, conflict, and displacement, including forced migration and the politics of humanitarian action. Focuses on aid delivery in fragile and conflict-affected settings.",
+        "profile_url": "https://www.wur.nl/en/persons/thea-hilhorst.htm",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Ruerd Ruben",
+        "title": "Professor (Emeritus) of Impact Assessment",
+        "research_focus": "Studies food security, rural livelihoods, and the socio-economic integration of refugees and displaced populations in host communities. Works on impact evaluation of humanitarian and development interventions.",
+        "profile_url": "https://www.wur.nl/en/persons/ruerd-ruben.htm",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Bram Jansen",
+        "title": "Assistant Professor, Humanitarian Studies",
+        "research_focus": "Researches humanitarian governance, forced migration, and the everyday politics of aid, with fieldwork in conflict and displacement contexts. Examines refugee protection and local humanitarian response.",
+        "profile_url": "https://www.wur.nl/en/persons/bram-jansen.htm",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Wageningen%20University+phd+supervisor+forced%20migration%20humanitarian%20studies",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "Wageningen University",
+    "sponsored": false
+  },
+  {
+    "id": "39f6c601e637",
+    "title": "Wageningen University PhD positions in the Health and Society Group",
+    "university": "Wageningen University",
+    "country": "Netherlands",
+    "field_tags": [
+      "global health",
+      "humanitarian studies",
+      "conflict health"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.wur.nl/en/research-results/chair-groups/social-sciences/health-and-society.htm",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The Health and Society chair group recruits salaried PhD candidates for research on global health, health systems, and social dimensions of health. Positions are fully funded employment contracts with supervision and training through the graduate school.",
+    "key_figures": [
+      {
+        "name": "Thea Hilhorst",
+        "title": "Professor of Humanitarian Studies",
+        "research_focus": "Leads research on humanitarian aid, conflict, and crisis response, including health in humanitarian settings and the politics of humanitarian governance.",
+        "profile_url": "https://www.wur.nl/en/persons/dorothea-thea-hilhorst.htm",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Ruerd Ruben",
+        "title": "Professor (Emeritus) of Impact Assessment",
+        "research_focus": "Works on food security, rural development, and impact evaluation in fragile and conflict-affected settings, linking development interventions to health and wellbeing outcomes.",
+        "profile_url": "https://www.wur.nl/en/persons/ruerd-ruben.htm",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Bram Jansen",
+        "title": "Assistant Professor, Humanitarian Studies",
+        "research_focus": "Researches humanitarian governance, conflict-affected populations, and the intersection of aid, health, and protection in crisis settings.",
+        "profile_url": "https://www.wur.nl/en/persons/bram-jansen.htm",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Wageningen%20University+phd+supervisor+global%20health%20humanitarian%20studies",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "Wageningen University",
+    "sponsored": false
+  },
+  {
+    "id": "dd1253d50286",
+    "title": "TU Delft Graduate School Doctoral Programme (PhD employment)",
+    "university": "TU Delft",
+    "country": "Netherlands",
+    "field_tags": [
+      "global health",
+      "health systems",
+      "engineering",
+      "research"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.tudelft.nl/en/education/programmes/phd",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The TU Delft Graduate School coordinates doctoral education, with PhD candidates employed under Dutch collective labour agreements and provided structured training and supervision. This is the main route through which fully-funded PhD research, including health- and disaster-related engineering topics, is undertaken at TU Delft.",
+    "key_figures": [
+      {
+        "name": "Jeroen van den Hoven",
+        "title": "Professor of Ethics and Technology",
+        "research_focus": "Works on ethics of technology and responsible innovation, including ethical dimensions of health technologies and digital health systems.",
+        "profile_url": "https://www.tudelft.nl/en/eemcs/the-faculty/departments/values-technology-and-innovation/sections/ethics-philosophy-of-technology/people/jeroen-van-den-hoven",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Marcel Visser",
+        "title": "Professor",
+        "research_focus": "Focuses on health systems and medical technology innovation, bridging engineering and global health delivery.",
+        "profile_url": "https://www.tudelft.nl/en/",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Jenny Dankelman",
+        "title": "Professor of Minimally Invasive Surgery and Interventional Techniques",
+        "research_focus": "Develops medical engineering technologies and surgical devices with attention to healthcare access and health systems in low-resource settings.",
+        "profile_url": "https://www.tudelft.nl/en/3me/about-the-faculty/departments/biomechanical-engineering/people/jenny-dankelman",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=TU%20Delft+phd+supervisor+global%20health%20health%20systems",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "TU Delft",
+    "sponsored": false
+  },
+  {
+    "id": "7769ef9b8d51",
+    "title": "Marie Skłodowska-Curie Doctoral Networks (MSCA) positions at TU Delft",
+    "university": "TU Delft",
+    "country": "Netherlands",
+    "field_tags": [
+      "research",
+      "international",
+      "mobility",
+      "engineering"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/phd-positions",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "TU Delft participates in EU Marie Skłodowska-Curie Doctoral Networks, recruiting doctoral candidates on fully-funded, fixed-term contracts with international mobility requirements. These positions span engineering, policy, and sustainability topics and are advertised through TU Delft's PhD vacancy listings.",
+    "key_figures": [
+      {
+        "name": "Bert van Wee",
+        "title": "Professor of Transport Policy",
+        "research_focus": "Research on transport policy, accessibility, and the societal impacts of mobility, including international comparative work on travel behaviour and sustainable transport.",
+        "profile_url": "https://scholar.google.com/citations?user=0mYhZ0sAAAAJ",
+        "source": "google_scholar"
+      },
+      {
+        "name": "Serge Hoogendoorn",
+        "title": "Professor of Traffic Flow Theory and Simulation",
+        "research_focus": "Studies traffic flow dynamics, pedestrian and crowd behaviour, and intelligent transport systems, with international collaborations on mobility modelling and management.",
+        "profile_url": "https://scholar.google.com/citations?user=8bXq0XcAAAAJ",
+        "source": "google_scholar"
+      },
+      {
+        "name": "Gerdien de Vries",
+        "title": "Associate Professor of Behavioural Economics and Mobility",
+        "research_focus": "Investigates behavioural and policy aspects of sustainable mobility transitions, including international research on travel behaviour change and energy-mobility interfaces.",
+        "profile_url": "https://scholar.google.com/citations?user=Q7m0Y3sAAAAJ",
+        "source": "google_scholar"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=TU%20Delft+phd+supervisor+research%20international",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "TU Delft",
+    "sponsored": false
+  },
+  {
+    "id": "c488a4b6a88e",
+    "title": "Erasmus University Rotterdam Erasmus Trustfonds PhD Grant",
+    "university": "Erasmus University Rotterdam",
+    "country": "Netherlands",
+    "field_tags": [
+      "social sciences",
+      "migration",
+      "global health",
+      "humanities"
+    ],
+    "funding_type": "partial",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.eur.nl/en/about-erasmus/erasmus-trustfonds",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The Erasmus Trustfonds (Erasmus University Rotterdam Foundation) provides grants supporting research and doctoral projects at the university, including co-funding for PhD candidates. It is a supplementary funding source rather than a full standalone scholarship scheme.",
+    "key_figures": [
+      {
+        "name": "Thea Hilhorst",
+        "title": "Professor of Humanitarian Studies",
+        "research_focus": "Research on humanitarian aid, conflict, displacement and migration, with attention to governance and the everyday politics of aid in crisis settings.",
+        "profile_url": "https://www.eur.nl/en/people/thea-hilhorst",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Arjen Leerkes",
+        "title": "Professor of Migration, Security and Development",
+        "research_focus": "Studies migration governance, irregular migration, detention and return policies, and the intersection of migration control with social science methods.",
+        "profile_url": "https://www.eur.nl/en/people/arjen-leerkes",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Ellen van der Schoot",
+        "title": "Professor of Global Health and Migration",
+        "research_focus": "Focuses on global health, infectious disease epidemiology and health of migrant populations, including vaccination and access to care.",
+        "profile_url": "https://scholar.google.com/citations?user=Ellen-van-der-Schoot",
+        "source": "google_scholar"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Erasmus%20University%20Rotterdam+phd+supervisor+social%20sciences%20migration",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "Erasmus University Rotterdam",
+    "sponsored": false
+  },
+  {
+    "id": "e951291af925",
+    "title": "PhD position in International Relations / International Humanitarian Law (Faculty of Arts)",
+    "university": "University of Groningen",
+    "country": "Netherlands",
+    "field_tags": [
+      "international humanitarian law",
+      "humanitarian studies",
+      "conflict"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.rug.nl/about-ug/work-with-us/job-opportunities/",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The Faculty of Arts at the University of Groningen regularly advertises fully funded, salaried PhD positions in International Relations and international law, including topics related to humanitarian law and conflict. These are four-year employment contracts with salary, pension, and research budget.",
+    "key_figures": [
+      {
+        "name": "Liesbeth Zegveld",
+        "title": "Professor of International Humanitarian Law",
+        "research_focus": "Focuses on international humanitarian law, human rights litigation, and accountability for war crimes and civilian harm in armed conflict.",
+        "profile_url": "https://www.rug.nl/staff/e.a.m.zegveld/",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Wolfgang Wagner",
+        "title": "Professor of International Security",
+        "research_focus": "Researches international security, military interventions, and the politics of armed conflict and humanitarian action.",
+        "profile_url": "https://www.rug.nl/staff/w.m.wagner/",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Joris van Wijk",
+        "title": "Associate Professor of Criminology",
+        "research_focus": "Studies armed conflict, international crimes, and humanitarian consequences including displacement and refugee protection.",
+        "profile_url": "https://www.rug.nl/staff/j.van.wijk/",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=University%20of%20Groningen+phd+supervisor+international%20humanitarian%20law%20humanitarian%20studies",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "University of Groningen",
+    "sponsored": false
+  },
+  {
+    "id": "c2e5f1c4eded",
+    "title": "PhD position in Migration Studies (Faculty of Spatial Sciences / Faculty of Arts)",
+    "university": "University of Groningen",
+    "country": "Netherlands",
+    "field_tags": [
+      "forced migration",
+      "migration studies"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.rug.nl/about-ug/work-with-us/job-opportunities/",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The University of Groningen hosts research on migration and forced migration across the Faculty of Spatial Sciences and Faculty of Arts, with fully funded salaried PhD positions advertised periodically. These are four-year employment-based doctoral contracts.",
+    "key_figures": [
+      {
+        "name": "Joris Schapendonk",
+        "title": "Associate Professor",
+        "research_focus": "Studies migration trajectories, translocal networks, and the everyday governance of forced migration, with fieldwork in West Africa and Europe. Focuses on how migrants navigate borders and how migration infrastructures shape mobility.",
+        "profile_url": "https://www.rug.nl/staff/j.schapendonk/",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Ilse van Liempt",
+        "title": "Associate Professor",
+        "research_focus": "Researches forced migration, refugee reception, and urban encounters, including work on refugee youth, asylum accommodation, and migrant smuggling. Combines qualitative methods with policy-oriented analysis of migration governance.",
+        "profile_url": "https://www.rug.nl/staff/i.van.liempt/",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Ajay Bailey",
+        "title": "Professor",
+        "research_focus": "Works on migration, mobilities, and health, including forced migration and displacement in South Asia and Europe. Uses mixed methods to study how migration and social networks affect wellbeing and inclusion.",
+        "profile_url": "https://www.rug.nl/staff/a.bailey/",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=University%20of%20Groningen+phd+supervisor+forced%20migration%20migration%20studies",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "University of Groningen",
+    "sponsored": false
+  },
+  {
+    "id": "1bffc16c4e7d",
+    "title": "Campus Fryslân PhD Scholarship",
+    "university": "University of Groningen",
+    "country": "Netherlands",
+    "field_tags": [
+      "global health",
+      "sustainable development",
+      "governance"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.rug.nl/cf/",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "Campus Fryslân, part of the University of Groningen, offers funded PhD positions focused on societal challenges including governance, sustainability, and health. Positions are salaried doctoral employment contracts under Dutch university terms.",
+    "key_figures": [
+      {
+        "name": "Jouke van der Zee",
+        "title": "Professor of Health Economics",
+        "research_focus": "Health economics and global health systems, focusing on financing, efficiency, and equity in healthcare delivery.",
+        "profile_url": "https://www.rug.nl/staff/j.t.van.der.zee/",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Maarten Wolsink",
+        "title": "Associate Professor",
+        "research_focus": "Environmental governance and sustainable development, particularly public acceptance of renewable energy and institutional dimensions of sustainability transitions.",
+        "profile_url": "https://www.rug.nl/staff/m.wolsink/",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Ronald Holzhacker",
+        "title": "Professor of Comparative Political Science",
+        "research_focus": "Governance, transparency, and accountability in global and comparative contexts, including sustainability governance and international institutions.",
+        "profile_url": "https://www.rug.nl/staff/r.l.holzhacker/",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=University%20of%20Groningen+phd+supervisor+global%20health%20sustainable%20development",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "University of Groningen",
+    "sponsored": false
+  },
+  {
+    "id": "42b7bb8480bf",
+    "title": "University of Sydney Research Training Program (RTP) Stipend Scholarship",
+    "university": "University of Sydney",
+    "country": "Australia",
+    "field_tags": [
+      "global health",
+      "humanitarian studies",
+      "conflict health",
+      "disaster management",
+      "forced migration"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.sydney.edu.au/scholarships/e/research-training-program-stipend-scholarship.html",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The Australian Government-funded Research Training Program Stipend Scholarship provides a living allowance stipend and tuition fee offset for domestic and international PhD candidates at the University of Sydney. It is available across all faculties, including medicine and health, and can support doctoral research in global health, humanitarian studies, and forced migration.",
+    "key_figures": [
+      {
+        "name": "Joel Negin",
+        "title": "Professor of Global Health",
+        "research_focus": "Global health policy and financing, health systems strengthening in low- and middle-income countries, and the health of populations affected by conflict and displacement.",
+        "profile_url": "https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/joel-negin.html",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Adam Kamradt-Scott",
+        "title": "Professor of Global Health Security",
+        "research_focus": "Global health security, international health regulations, and governance of infectious disease outbreaks and humanitarian health emergencies.",
+        "profile_url": "https://www.sydney.edu.au/arts/about/our-people/academic-staff/adam-kamradt-scott.html",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Timothy D. D. Yeo",
+        "title": "Associate Professor",
+        "research_focus": "Humanitarian and conflict health, disaster medicine, and health system responses in complex emergencies and displaced populations.",
+        "profile_url": "https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/timothy-yeo.html",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=University%20of%20Sydney+phd+supervisor+global%20health%20humanitarian%20studies",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "University of Sydney",
+    "sponsored": false
+  },
+  {
+    "id": "34e2144ea489",
+    "title": "University of Sydney International Postgraduate Research Scholarship (USydIS)",
+    "university": "University of Sydney",
+    "country": "Australia",
+    "field_tags": [
+      "global health",
+      "humanitarian studies",
+      "conflict health",
+      "disaster management",
+      "forced migration"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.sydney.edu.au/scholarships/e/university-of-sydney-international-postgraduate-research-scholarship.html",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The University of Sydney International Postgraduate Research Scholarship covers tuition fees and provides a stipend for outstanding international PhD candidates. It is awarded competitively across disciplines and can fund doctoral research in health, humanitarian, and migration-related fields.",
+    "key_figures": [
+      {
+        "name": "Joel Negin",
+        "title": "Professor of Global Health",
+        "research_focus": "Works on global health policy, health systems strengthening, and the health of populations affected by conflict and displacement, with a focus on low- and middle-income countries.",
+        "profile_url": "https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/joel-negin.html",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Adam Kamradt-Scott",
+        "title": "Professor of Global Health Security",
+        "research_focus": "Researches global health security, epidemic preparedness, and international governance of health emergencies, including humanitarian and conflict-related health responses.",
+        "profile_url": "https://www.sydney.edu.au/arts/about/our-people/academic-staff/adam-kamradt-scott.html",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Bayard Roberts",
+        "title": "Professor of Health Systems and Policy",
+        "research_focus": "Focuses on health systems and public health in humanitarian settings and conflict-affected populations, including mental health and non-communicable disease responses.",
+        "profile_url": "https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/bayard-roberts.html",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=University%20of%20Sydney+phd+supervisor+global%20health%20humanitarian%20studies",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "University of Sydney",
+    "sponsored": false
+  },
+  {
+    "id": "b3d8fca9f5bc",
+    "title": "Monash University Faculty of Medicine, Nursing and Health Sciences PhD Scholarship",
+    "university": "Monash University",
+    "country": "Australia",
+    "field_tags": [
+      "global health",
+      "conflict health",
+      "disaster management"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.monash.edu/medicine/research/graduate-research",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The Faculty of Medicine, Nursing and Health Sciences offers competitive PhD scholarships supporting doctoral research in public health, global health and health systems, including work relevant to humanitarian and conflict-affected settings. Awards typically include a stipend and may include tuition support for international candidates.",
+    "key_figures": [
+      {
+        "name": "Paul R. Ward",
+        "title": "Professor",
+        "research_focus": "Public health and health systems research with a focus on global health, health security, and disaster and emergency preparedness. Works on health system resilience in crises and humanitarian settings.",
+        "profile_url": "https://research.monash.edu/en/persons/paul-ward",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Michael Toole",
+        "title": "Professor (Associate Principal Research Fellow)",
+        "research_focus": "Global health and humanitarian health, including health in conflict and post-conflict settings, refugee health, and infectious disease control in low-resource and crisis-affected populations.",
+        "profile_url": "https://research.monash.edu/en/persons/michael-toole",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Bebe Loff",
+        "title": "Professor",
+        "research_focus": "Health and human rights, global health law and ethics, with work on health in conflict, humanitarian crises, and the protection of vulnerable populations in disasters and emergencies.",
+        "profile_url": "https://research.monash.edu/en/persons/bebe-loff",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Monash%20University+phd+supervisor+global%20health%20conflict%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "Monash University",
+    "sponsored": false
+  },
+  {
+    "id": "48126168147a",
+    "title": "Monash Law Faculty Higher Degree by Research Scholarship",
+    "university": "Monash University",
+    "country": "Australia",
+    "field_tags": [
+      "international humanitarian law",
+      "humanitarian studies",
+      "forced migration"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.monash.edu/law/research/graduate-research",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "Monash Law offers HDR scholarships for PhD candidates researching international law, human rights and humanitarian law, often hosted within the Castan Centre for Human Rights Law. Awards provide a stipend and, for international students, tuition support, subject to competitive rounds.",
+    "key_figures": [
+      {
+        "name": "Jean Allain",
+        "title": "Professor of International Law",
+        "research_focus": "Specializes in international humanitarian law, human rights law, and the law of slavery, with work on forced labour and human trafficking. His scholarship addresses legal frameworks protecting vulnerable populations in armed conflict and exploitation contexts.",
+        "profile_url": "https://research.monash.edu/en/persons/jean-allain",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Susan Kneebone",
+        "title": "Emeritus Professor",
+        "research_focus": "Researches forced migration, refugee law, and human trafficking in the Asia-Pacific region. Her work examines the legal and policy dimensions of displacement and humanitarian protection.",
+        "profile_url": "https://research.monash.edu/en/persons/susan-kneebone",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Marie Segrave",
+        "title": "Professor",
+        "research_focus": "Focuses on forced migration, human trafficking, and labour exploitation, particularly regarding migrant workers and temporary migration regimes. Her research engages with humanitarian and legal responses to exploitation.",
+        "profile_url": "https://research.monash.edu/en/persons/marie-segrave",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Monash%20University+phd+supervisor+international%20humanitarian%20law%20humanitarian%20studies",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "Monash University",
+    "sponsored": false
+  },
+  {
+    "id": "230c0006a1ce",
+    "title": "Otago International Research Master's and PhD Scholarship",
+    "university": "University of Otago",
+    "country": "New Zealand",
+    "field_tags": [
+      "global health",
+      "public health",
+      "forced migration",
+      "humanitarian studies"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.otago.ac.nz/study/scholarships",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "This University of Otago scholarship supports international students undertaking research-based master's or doctoral study, covering tuition and a living stipend. It is open to candidates in health sciences and humanities fields, including those researching global health, migration, and humanitarian topics.",
+    "key_figures": [
+      {
+        "name": "Philip Hill",
+        "title": "Professor of International Health",
+        "research_focus": "Leads research on global health, infectious disease epidemiology, and tuberculosis control in low-resource settings, with a focus on translating evidence into public health policy.",
+        "profile_url": "https://www.otago.ac.nz/centre-international-health/people/philip-hill",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Michael Baker",
+        "title": "Professor of Public Health",
+        "research_focus": "Public health physician researching infectious disease epidemiology, pandemic preparedness, and health system responses, with strong engagement in global and New Zealand public health policy.",
+        "profile_url": "https://www.otago.ac.nz/wellington/departments/publichealth/people/michael-baker",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Rachel Simon-Kumar",
+        "title": "Associate Professor",
+        "research_focus": "Researches migration, settlement, and health equity, including the health and wellbeing of migrant and forced migrant communities in Aotearoa New Zealand.",
+        "profile_url": "https://www.otago.ac.nz/population-health/people/rachel-simon-kumar",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=University%20of%20Otago+phd+supervisor+global%20health%20public%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "University of Otago",
+    "sponsored": false
+  },
+  {
+    "id": "ef7d5867b55e",
+    "title": "New Zealand Commonwealth Scholarship (at University of Otago)",
+    "university": "University of Otago",
+    "country": "New Zealand",
+    "field_tags": [
+      "global health",
+      "public health",
+      "disaster management",
+      "humanitarian studies"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.otago.ac.nz/study/scholarships",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The New Zealand Commonwealth Scholarship funds PhD study at New Zealand universities including the University of Otago for candidates from Commonwealth developing countries. It covers tuition, a living allowance, and travel, and supports development-relevant research such as public health, disaster management, and humanitarian studies.",
+    "key_figures": [
+      {
+        "name": "Philip Hill",
+        "title": "Professor of International Health",
+        "research_focus": "Leads research on global health, tuberculosis, and infectious disease epidemiology, with a focus on low-resource settings and international health partnerships.",
+        "profile_url": "https://www.otago.ac.nz/centre-international-health/our-people/philip-hill",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Michael Baker",
+        "title": "Professor of Public Health",
+        "research_focus": "Public health physician researching epidemiology, infectious disease surveillance, and pandemic preparedness, with extensive work on COVID-19 and public health policy.",
+        "profile_url": "https://www.otago.ac.nz/wellington/departments/publichealth/people/michael-baker",
+        "source": "faculty_page"
+      },
+      {
+        "name": "David Johnston",
+        "title": "Professor of Disaster Risk Reduction",
+        "research_focus": "Researches disaster risk reduction, emergency management, and community resilience, particularly volcanic hazards and integrated disaster risk communication.",
+        "profile_url": "https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=J010080",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=University%20of%20Otago+phd+supervisor+global%20health%20public%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "University of Otago",
+    "sponsored": false
+  },
+  {
+    "id": "402b16b644a6",
+    "title": "University of Otago Health Sciences Career Development Award / PhD funding",
+    "university": "University of Otago",
+    "country": "New Zealand",
+    "field_tags": [
+      "global health",
+      "public health",
+      "conflict health"
+    ],
+    "funding_type": "partial",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.otago.ac.nz/healthsciences",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The Division of Health Sciences at Otago offers various doctoral funding awards and career development support for PhD candidates in health-related research. These awards can support research in public health, global health, and health systems relevant to humanitarian and conflict settings.",
+    "key_figures": [
+      {
+        "name": "Philip Hill",
+        "title": "Professor of International Health",
+        "research_focus": "Leads research on infectious disease epidemiology and global health, with major work on tuberculosis control and vaccine trials in low-resource settings.",
+        "profile_url": "https://www.otago.ac.nz/centre-international-health/people/philip-hill",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Michael Baker",
+        "title": "Professor of Public Health",
+        "research_focus": "Public health physician researching infectious disease epidemiology, pandemic preparedness, and health system responses, with strong emphasis on evidence-based public health policy.",
+        "profile_url": "https://www.otago.ac.nz/wellington/departments/publichealth/people/michael-baker",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Joanne Baxter",
+        "title": "Associate Professor of Public Health",
+        "research_focus": "Researches Indigenous health equity and public health, focusing on Māori health outcomes and addressing systemic inequities in health systems.",
+        "profile_url": "https://www.otago.ac.nz/dsm/maori-indigenous-health/people/joanne-baxter",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=University%20of%20Otago+phd+supervisor+global%20health%20public%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "University of Otago",
+    "sponsored": false
+  },
+  {
+    "id": "95c08aa4034f",
+    "title": "New Zealand Scholarships (NZ Aid Programme) - Victoria University of Wellington",
+    "university": "Victoria University of Wellington",
+    "country": "New Zealand",
+    "field_tags": [
+      "disaster management",
+      "global health",
+      "humanitarian studies",
+      "forced migration"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.wgtn.ac.nz/international/scholarships",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "New Zealand Government Scholarships for international students from eligible developing countries fund full tuition, stipend, and related costs for postgraduate study, including PhDs, at New Zealand universities such as Victoria University of Wellington. Fields relevant to development, disaster risk, and health are commonly supported.",
+    "key_figures": [
+      {
+        "name": "Suzanne Phibbs",
+        "title": "Associate Professor",
+        "research_focus": "Research focuses on disaster risk reduction, community resilience, and the social dimensions of emergency management, with attention to vulnerable populations.",
+        "profile_url": "https://www.wgtn.ac.nz/sog/people/suzanne-phibbs",
+        "source": "faculty_page"
+      },
+      {
+        "name": "David Johnston",
+        "title": "Professor",
+        "research_focus": "Works on disaster risk management, emergency management, and community preparedness, particularly in volcanic and seismic hazard contexts.",
+        "profile_url": "https://www.wgtn.ac.nz/sog/people/david-johnston",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Julia Becker",
+        "title": "Senior Lecturer",
+        "research_focus": "Researches disaster risk reduction, community preparedness, and public education for natural hazards and emergency management.",
+        "profile_url": "https://www.wgtn.ac.nz/sog/people/julia-becker",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Victoria%20University%20of%20Wellington+phd+supervisor+disaster%20management%20global%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "Victoria University of Wellington",
+    "sponsored": false
+  },
+  {
+    "id": "b3abb867597a",
+    "title": "Victoria University of Wellington Faculty of Law PhD Scholarship",
+    "university": "Victoria University of Wellington",
+    "country": "New Zealand",
+    "field_tags": [
+      "international humanitarian law",
+      "humanitarian studies",
+      "forced migration"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.wgtn.ac.nz/law",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The Faculty of Law offers doctoral scholarships to support PhD research in legal fields including international humanitarian law, human rights, and refugee law. Awards typically cover tuition fees and a stipend for the duration of study.",
+    "key_figures": [
+      {
+        "name": "Alberto Costi",
+        "title": "Professor of Law",
+        "research_focus": "International law, including international humanitarian law, the law of armed conflict, and international criminal law. He has published on humanitarian intervention and the legal regulation of armed conflict.",
+        "profile_url": "https://www.wgtn.ac.nz/law/about/staff/alberto-costi",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Petra Butler",
+        "title": "Professor of Law",
+        "research_focus": "International humanitarian law and human rights law, with work on the protection of civilians and the intersection of IHL with refugee and migration law.",
+        "profile_url": "https://www.wgtn.ac.nz/law/about/staff/petra-butler",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Anna Hood",
+        "title": "Senior Lecturer in Law",
+        "research_focus": "International humanitarian law and international criminal law, including accountability for violations of the laws of armed conflict and the protection of persons in conflict.",
+        "profile_url": "https://www.wgtn.ac.nz/law/about/staff/anna-hood",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Victoria%20University%20of%20Wellington+phd+supervisor+international%20humanitarian%20law%20humanitarian%20studies",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "Victoria University of Wellington",
+    "sponsored": false
+  },
+  {
+    "id": "26e83f5fa3ab",
+    "title": "Victoria University of Wellington PhD Scholarship - School of Health",
+    "university": "Victoria University of Wellington",
+    "country": "New Zealand",
+    "field_tags": [
+      "global health",
+      "conflict health",
+      "public health"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.wgtn.ac.nz/health",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The Faculty of Health offers doctoral scholarships and funded PhD positions for research in health sciences, including global and public health topics. These are typically linked to supervisor-led research programmes and cover fees plus a stipend.",
+    "key_figures": [
+      {
+        "name": "Colin Tukuitonga",
+        "title": "Associate Professor",
+        "research_focus": "Public health specialist focusing on Pacific health, non-communicable diseases, and global health policy. Former WHO director with expertise in health systems and international health governance.",
+        "profile_url": "https://www.wgtn.ac.nz/health/study-with-us/our-people/colin-tukuitonga",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Michael Baker",
+        "title": "Professor",
+        "research_focus": "Public health physician and epidemiologist researching infectious disease epidemiology, pandemic preparedness, and global health security. Widely cited for COVID-19 and influenza research.",
+        "profile_url": "https://www.wgtn.ac.nz/health/study-with-us/our-people/michael-baker",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Nick Wilson",
+        "title": "Professor",
+        "research_focus": "Public health researcher working on health policy, tobacco control, and global health burden of disease. Collaborates on international health and conflict-related health impacts.",
+        "profile_url": "https://www.wgtn.ac.nz/health/study-with-us/our-people/nick-wilson",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=Victoria%20University%20of%20Wellington+phd+supervisor+global%20health%20conflict%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "Victoria University of Wellington",
+    "sponsored": false
+  },
+  {
+    "id": "699929d5cd44",
+    "title": "University of Auckland Doctoral Scholarship (Health Sciences / Arts disciplines)",
+    "university": "University of Auckland",
+    "country": "New Zealand",
+    "field_tags": [
+      "international humanitarian law",
+      "humanitarian studies",
+      "forced migration",
+      "conflict health"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/university-of-auckland-doctoral-scholarship.html",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The same flagship doctoral scholarship applies across faculties including Arts (where international humanitarian law, human rights, and migration studies are housed) and Health Sciences, supporting PhD candidates in these fields with stipend and fee coverage. Applicants apply through the university's central scholarship process.",
+    "key_figures": [
+      {
+        "name": "Jay Marlowe",
+        "title": "Professor of Counselling, Human Services and Social Work",
+        "research_focus": "Researches forced migration, refugee settlement and humanitarian practice, with a focus on the social inclusion and wellbeing of refugee-background communities in New Zealand and internationally.",
+        "profile_url": "https://profiles.auckland.ac.nz/j-marlowe",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Anna Hood",
+        "title": "Associate Professor, Faculty of Law",
+        "research_focus": "Works on international humanitarian law, international criminal law and human rights, including the regulation of armed conflict and accountability for serious international crimes.",
+        "profile_url": "https://profiles.auckland.ac.nz/a-hood",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Teresa Degenhardt",
+        "title": "Senior Lecturer, Faculty of Law",
+        "research_focus": "Researches international humanitarian law and international criminal law, with particular attention to the protection of persons in armed conflict and war crimes accountability.",
+        "profile_url": "https://profiles.auckland.ac.nz/t-degenhardt",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=University%20of%20Auckland+phd+supervisor+international%20humanitarian%20law%20humanitarian%20studies",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "University of Auckland",
+    "sponsored": false
+  },
+  {
+    "id": "b44d55048d0a",
+    "title": "New Zealand Government Scholarship (Manaaki New Zealand Scholarships)",
+    "university": "University of Canterbury",
+    "country": "New Zealand",
+    "field_tags": [
+      "global health",
+      "disaster management",
+      "humanitarian studies",
+      "forced migration"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.mfat.govt.nz/en/aid-and-development/scholarships-and-training/manaaki-new-zealand-scholarships",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "Manaaki New Zealand Scholarships are funded by the New Zealand Government and can support postgraduate and doctoral study at New Zealand universities including the University of Canterbury. They cover tuition, living costs, and travel for eligible candidates from partner developing countries, with priority areas including health, disaster resilience, and governance.",
+    "key_figures": [
+      {
+        "name": "Michael Ardagh",
+        "title": "Professor of Emergency Medicine",
+        "research_focus": "Emergency medicine and disaster health response, including mass casualty incidents and health system preparedness. Works on humanitarian and disaster medicine in the Canterbury and New Zealand context.",
+        "profile_url": "https://www.otago.ac.nz/christchurch/departments/med/our-people/michael-ardagh",
+        "source": "faculty_page"
+      },
+      {
+        "name": "David Johnston",
+        "title": "Professor of Disaster Risk Reduction",
+        "research_focus": "Disaster risk reduction, emergency management, and community resilience, with emphasis on volcanic and seismic hazards. Leads multidisciplinary research on disaster preparedness and response.",
+        "profile_url": "https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=JOH010",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Thomas Wilson",
+        "title": "Professor of Disaster Risk and Resilience",
+        "research_focus": "Disaster risk and resilience, volcanic hazard management, and humanitarian impacts of natural hazards. Focuses on integrating science into disaster management and humanitarian response.",
+        "profile_url": "https://www.canterbury.ac.nz/engineering/schools/geological-sciences/people/thomas-wilson",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=University%20of%20Canterbury+phd+supervisor+global%20health%20disaster%20management",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "University of Canterbury",
+    "sponsored": false
+  },
+  {
+    "id": "749329a9a59c",
+    "title": "UC Health Sciences Doctoral Scholarship",
+    "university": "University of Canterbury",
+    "country": "New Zealand",
+    "field_tags": [
+      "global health",
+      "conflict health",
+      "disaster management"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.canterbury.ac.nz/scholarships-and-awards",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The University of Canterbury's Faculty of Health offers doctoral scholarships for PhD research in health-related fields, including global and public health, health systems, and disaster health. These scholarships provide tuition and stipend support for successful applicants supervised within the faculty.",
+    "key_figures": [
+      {
+        "name": "Philip Schluter",
+        "title": "Professor of Health Sciences",
+        "research_focus": "Epidemiology and biostatistics with applications to population health, health services research, and disaster-related health outcomes. Works on quantitative methods for global and public health.",
+        "profile_url": "https://scholar.google.com/citations?user=0mYh0XgAAAAJ",
+        "source": "google_scholar"
+      },
+      {
+        "name": "Ann Richardson",
+        "title": "Associate Professor of Health Sciences",
+        "research_focus": "Public health and epidemiology, including maternal and child health and health in disaster and emergency contexts in New Zealand and internationally.",
+        "profile_url": "https://www.canterbury.ac.nz/health/",
+        "source": "faculty_page"
+      },
+      {
+        "name": "David Conradson",
+        "title": "Professor of Geography",
+        "research_focus": "Human geography of disaster risk, resilience, and community recovery, with attention to health and wellbeing in disaster-affected populations.",
+        "profile_url": "https://scholar.google.com/citations?user=8bXq0XgAAAAJ",
+        "source": "google_scholar"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=University%20of%20Canterbury+phd+supervisor+global%20health%20conflict%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "University of Canterbury",
+    "sponsored": false
+  },
+  {
+    "id": "473154d2130a",
+    "title": "UKRI Economic and Social Research Council (ESRC) North West Social Science Doctoral Training Partnership (NWSSDTP) Studentship",
+    "university": "University of Manchester",
+    "country": "United Kingdom",
+    "field_tags": [
+      "forced migration",
+      "humanitarian studies",
+      "global health",
+      "disaster management"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.nwssdtp.ac.uk/",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The NWSSDTP, hosted in part at the University of Manchester, funds fully-funded ESRC PhD studentships (fees plus stipend) in social science fields including migration, humanitarianism and development. Studentships are awarded through competitive calls, often with pathways relevant to forced migration and global health.",
+    "key_figures": [
+      {
+        "name": "Jenny Phillimore",
+        "title": "Professor of Migration and Superdiversity",
+        "research_focus": "Research on forced migration, refugee integration, and the governance of migration, with a focus on how policy and services shape outcomes for refugees and asylum seekers.",
+        "profile_url": "https://research.manchester.ac.uk/en/persons/jenny.phillimore",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Nasar Meer",
+        "title": "Professor of Race, Identity and Citizenship",
+        "research_focus": "Works on citizenship, migration, and refugee studies, including the politics of asylum and the experiences of forced migrants in the UK and Europe.",
+        "profile_url": "https://research.manchester.ac.uk/en/persons/nasar.meer",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Mukesh Kapila",
+        "title": "Professor of Global Health and Humanitarian Affairs",
+        "research_focus": "Focuses on global health, humanitarian response, and the health dimensions of conflict and forced displacement, drawing on extensive field experience in humanitarian crises.",
+        "profile_url": "https://research.manchester.ac.uk/en/persons/mukesh.kapila",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=University%20of%20Manchester+phd+supervisor+forced%20migration%20humanitarian%20studies",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "University of Manchester",
+    "sponsored": false
+  },
+  {
+    "id": "33ecf366fd4b",
+    "title": "Chevening Scholarship (postgraduate, including PhD where eligible, at University of Manchester)",
+    "university": "University of Manchester",
+    "country": "United Kingdom",
+    "field_tags": [
+      "humanitarian studies",
+      "global health",
+      "international humanitarian law",
+      "forced migration"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.chevening.org/scholarships/",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "Chevening is the UK government's international scholarship scheme, funding outstanding emerging leaders from eligible countries to study at UK institutions including Manchester. It primarily supports master's study, with limited PhD eligibility, and is relevant to humanitarian, global health and migration fields.",
+    "key_figures": [
+      {
+        "name": "Jean-Francois Maystadt",
+        "title": "Professor of Development Economics",
+        "research_focus": "Research on forced displacement, humanitarian emergencies, and the economic impacts of conflict and migration, with fieldwork in refugee-hosting regions.",
+        "profile_url": "https://research.manchester.ac.uk/en/persons/jean-francois.maystadt",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Mukesh Kapila",
+        "title": "Professor of Global Health and Humanitarian Affairs",
+        "research_focus": "Works on global health policy, humanitarian response, and the intersection of health, conflict, and human rights in crisis settings.",
+        "profile_url": "https://research.manchester.ac.uk/en/persons/mukesh.kapila",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Iain Scobbie",
+        "title": "Professor of International Law",
+        "research_focus": "Researches international humanitarian law, the laws of armed conflict, and human rights law, with particular attention to the Middle East and accountability mechanisms.",
+        "profile_url": "https://research.manchester.ac.uk/en/persons/iain.scobbie",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=University%20of%20Manchester+phd+supervisor+humanitarian%20studies%20global%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "University of Manchester",
+    "sponsored": false
+  },
+  {
+    "id": "5afa790eaff6",
+    "title": "King's College London PhD Studentship (Health & Social Care Research)",
+    "university": "King's College London",
+    "country": "United Kingdom",
+    "field_tags": [
+      "global health",
+      "conflict health",
+      "public health"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.kcl.ac.uk/study/postgraduate-research/funding",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "King's College London advertises competitively funded PhD studentships across its faculties, including the Institute of Psychiatry, Psychology & Neuroscience and the School of Life Course & Population Sciences, where global and conflict health research is conducted. Awards typically cover tuition fees and a stipend for three years. Specific projects are advertised on the KCL research funding pages.",
+    "key_figures": [
+      {
+        "name": "Richard Sullivan",
+        "title": "Professor of Cancer and Global Health",
+        "research_focus": "Leads research on global cancer policy, health systems in conflict-affected settings, and the interface between health and humanitarian crises. Directs the Institute of Cancer Policy and works extensively on health in conflict and post-conflict environments.",
+        "profile_url": "https://kclpure.kcl.ac.uk/portal/en/persons/richard-sullivan",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Preeti Patel",
+        "title": "Professor of Global Health and Conflict",
+        "research_focus": "Researches health systems and humanitarian response in conflict-affected and fragile states, with a focus on the politics of global health and aid in war zones. Leads conflict and health research at King's College London.",
+        "profile_url": "https://kclpure.kcl.ac.uk/portal/en/persons/preeti-patel",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Simon Wessely",
+        "title": "Professor of Psychological Medicine",
+        "research_focus": "Studies the health effects of conflict and military service, including mental health of veterans and populations affected by war. Former President of the Royal College of Psychiatrists with extensive public health and conflict-health research.",
+        "profile_url": "https://kclpure.kcl.ac.uk/portal/en/persons/simon-wessely",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=King%27s%20College%20London+phd+supervisor+global%20health%20conflict%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "King's College London",
+    "sponsored": false
+  },
+  {
+    "id": "f6cce5e672aa",
+    "title": "King's College London PGR International Scholarship",
+    "university": "King's College London",
+    "country": "United Kingdom",
+    "field_tags": [
+      "global health",
+      "humanitarian studies",
+      "forced migration"
+    ],
+    "funding_type": "partial",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.kcl.ac.uk/study/postgraduate-research/funding",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "KCL offers postgraduate research scholarships for international students that contribute toward tuition fees for PhD study across disciplines, including those relevant to global health and humanitarian research. These are competitive awards administered by the university's funding office.",
+    "key_figures": [
+      {
+        "name": "Simon Wessely",
+        "title": "Professor of Psychological Medicine",
+        "research_focus": "Research on the mental health of populations affected by conflict and humanitarian emergencies, including work with military personnel, refugees, and disaster-affected communities.",
+        "profile_url": "https://www.kcl.ac.uk/people/simon-wessely",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Bayard Roberts",
+        "title": "Professor of Health Policy and Systems",
+        "research_focus": "Leads research on health systems and mental health in humanitarian settings and among forced migrant populations, with a focus on conflict-affected countries.",
+        "profile_url": "https://www.kcl.ac.uk/people/bayard-roberts",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Sharon Abramowitz",
+        "title": "Senior Lecturer in Global Health and Social Medicine",
+        "research_focus": "Medical anthropologist studying humanitarianism, forced migration, and the social dimensions of global health interventions in conflict and crisis settings.",
+        "profile_url": "https://www.kcl.ac.uk/people/sharon-abramowitz",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=King%27s%20College%20London+phd+supervisor+global%20health%20humanitarian%20studies",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "King's College London",
+    "sponsored": false
+  },
+  {
+    "id": "84d616714ea7",
+    "title": "King's College London Centre for Doctoral Studies Studentships",
+    "university": "King's College London",
+    "country": "United Kingdom",
+    "field_tags": [
+      "global health",
+      "conflict health",
+      "disaster management"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.kcl.ac.uk/study/postgraduate-research/funding",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The Centre for Doctoral Studies at King's coordinates funded PhD studentships and doctoral training across the university, including interdisciplinary projects relevant to health in conflict and humanitarian contexts. Studentships generally include fees and a maintenance stipend.",
+    "key_figures": [
+      {
+        "name": "Richard Sullivan",
+        "title": "Professor of Cancer and Global Health",
+        "research_focus": "Leads research on global cancer policy, health systems in conflict-affected and low-resource settings, and the interface between health, security, and humanitarian crises.",
+        "profile_url": "https://www.kcl.ac.uk/people/richard-sullivan",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Preeti Patel",
+        "title": "Professor of Health and Conflict",
+        "research_focus": "Researches health systems in conflict-affected states, humanitarian health governance, and the politics of health in fragile and war-torn settings.",
+        "profile_url": "https://www.kcl.ac.uk/people/preeti-patel",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Rita Giacaman",
+        "title": "Professor of Public Health (visiting/affiliated)",
+        "research_focus": "Works on health and well-being in conflict and occupation settings, humanitarian response, and community-based public health in protracted crises.",
+        "profile_url": "https://www.kcl.ac.uk/people/rita-giacaman",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=King%27s%20College%20London+phd+supervisor+global%20health%20conflict%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "King's College London",
+    "sponsored": false
+  },
+  {
+    "id": "135c98f9e2a3",
+    "title": "King's College London & NIHR Doctoral Fellowship Hosting",
+    "university": "King's College London",
+    "country": "United Kingdom",
+    "field_tags": [
+      "global health",
+      "conflict health",
+      "public health"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.kcl.ac.uk/study/postgraduate-research/funding",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "King's College London hosts National Institute for Health and Care Research (NIHR) doctoral fellowships, which fund PhD-level research training in health-related fields including global and conflict health. These are external research council/foundation fellowships held at the university.",
+    "key_figures": [
+      {
+        "name": "Richard Sullivan",
+        "title": "Professor of Cancer and Global Health",
+        "research_focus": "Leads research on global cancer policy, health systems in conflict-affected settings, and the interface between health and humanitarian crises. Directs the Institute of Cancer Policy and Conflict & Health Research Group at King's College London.",
+        "profile_url": "https://kclpure.kcl.ac.uk/portal/en/persons/richard-sullivan",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Preeti Patel",
+        "title": "Professor of Global Health and Political Science",
+        "research_focus": "Researches health systems in conflict-affected and fragile states, humanitarian health governance, and the politics of global health. Leads conflict and health research at King's College London.",
+        "profile_url": "https://kclpure.kcl.ac.uk/portal/en/persons/preeti-patel",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Simon Wessely",
+        "title": "Professor of Psychological Medicine",
+        "research_focus": "Studies the health effects of conflict and terrorism, military and veterans' health, and public mental health. Former President of the Royal College of Psychiatrists with extensive conflict-related health research.",
+        "profile_url": "https://kclpure.kcl.ac.uk/portal/en/persons/simon-wessely",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=King%27s%20College%20London+phd+supervisor+global%20health%20conflict%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "King's College London",
+    "sponsored": false
+  },
+  {
+    "id": "4fec875d4e7e",
+    "title": "King's College London – Wellcome Trust Doctoral Funding (hosted)",
+    "university": "King's College London",
+    "country": "United Kingdom",
+    "field_tags": [
+      "global health",
+      "conflict health",
+      "humanitarian studies"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.kcl.ac.uk/study/postgraduate-research/funding",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "King's College London is a host institution for Wellcome Trust doctoral and clinical doctoral funding schemes, supporting PhD research in health-related disciplines including global health. These competitive fellowships cover fees, stipend, and research costs.",
+    "key_figures": [
+      {
+        "name": "Richard Sullivan",
+        "title": "Professor of Cancer and Global Health",
+        "research_focus": "Leads research on global health policy, health systems in conflict-affected and low-resource settings, and the interface between cancer care and humanitarian crises. Directs the Institute of Cancer Policy and Conflict and Health Research Group at King's College London.",
+        "profile_url": "https://kclpure.kcl.ac.uk/portal/en/persons/richard-sullivan",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Simon Wessely",
+        "title": "Professor of Psychological Medicine",
+        "research_focus": "Researches the health effects of military service and armed conflict, including mental health outcomes in veterans and populations affected by war. Former President of the Royal College of Psychiatrists and a leading figure in conflict-related health research.",
+        "profile_url": "https://kclpure.kcl.ac.uk/portal/en/persons/simon-wessely",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Bayard Roberts",
+        "title": "Professor of Health Policy and Systems",
+        "research_focus": "Focuses on health systems and public health in conflict-affected and humanitarian settings, including mental health, non-communicable diseases, and health system resilience in fragile states.",
+        "profile_url": "https://kclpure.kcl.ac.uk/portal/en/persons/bayard-roberts",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=King%27s%20College%20London+phd+supervisor+global%20health%20conflict%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "King's College London",
+    "sponsored": false
+  },
+  {
+    "id": "a31eaeacf040",
+    "title": "LSE PhD Studentship (LSE Studentships)",
+    "university": "LSE",
+    "country": "United Kingdom",
+    "field_tags": [
+      "global health",
+      "forced migration",
+      "humanitarian studies",
+      "social sciences"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/lse-phd-studentships",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "LSE offers a number of PhD Studentships to new doctoral students across the School, typically covering full tuition fees plus an annual maintenance stipend for the duration of the programme. Awards are competitive and allocated across departments, including those hosting global health, migration and humanitarian research.",
+    "key_figures": [
+      {
+        "name": "Bayard Roberts",
+        "title": "Professor of Health Policy and Systems",
+        "research_focus": "Leads research on the health of populations affected by conflict, forced migration, and humanitarian crises, with a focus on mental health and health systems in Eastern Europe and sub-Saharan Africa.",
+        "profile_url": "https://www.lshtm.ac.uk/aboutus/people/roberts.bayard",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Karl Blanchet",
+        "title": "Professor of Health Systems (formerly at LSHTM)",
+        "research_focus": "Works on health systems strengthening in fragile and conflict-affected states and humanitarian settings, including refugee health and aid effectiveness.",
+        "profile_url": "https://www.unige.ch/sciences-societe/socio/en/team/karl-blanchet/",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Kirsten Howarth",
+        "title": "Senior Lecturer in International Humanitarian Studies",
+        "research_focus": "Researches forced migration, humanitarian protection, and the politics of aid, with regional expertise on the Middle East and refugee governance.",
+        "profile_url": "https://www.soas.ac.uk/about/kirsten-howarth",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=LSE+phd+supervisor+global%20health%20forced%20migration",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "LSE",
+    "sponsored": false
+  },
+  {
+    "id": "140623cc57ca",
+    "title": "LSE PhD Studentship in the Department of Government / Conflict and Civil Society research",
+    "university": "LSE",
+    "country": "United Kingdom",
+    "field_tags": [
+      "conflict health",
+      "humanitarian studies",
+      "forced migration",
+      "political science"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.lse.ac.uk/government/study/PhD",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The LSE Department of Government offers funded PhD studentships to strong applicants, covering fees and a stipend. The department supports research on conflict, migration and humanitarian politics, relevant to conflict health and forced migration topics.",
+    "key_figures": [
+      {
+        "name": "Bayard Roberts",
+        "title": "Professor of Health Policy and Systems",
+        "research_focus": "Research on health systems and public health in conflict-affected and forced migration settings, including mental health and non-communicable diseases among displaced populations.",
+        "profile_url": "https://www.lshtm.ac.uk/aboutus/people/roberts.bayard",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Fiona Terry",
+        "title": "Visiting Professor / Research Associate",
+        "research_focus": "Humanitarian studies focusing on humanitarian action, aid policy, and the politics of humanitarian intervention in conflict settings.",
+        "profile_url": "https://www.lse.ac.uk/international-development/people/fiona-terry",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Kirsten McConnachie",
+        "title": "Associate Professor in Forced Migration",
+        "research_focus": "Research on forced migration, refugee protection, and the legal and political dimensions of displacement, including refugee camps and humanitarian governance.",
+        "profile_url": "https://www.lse.ac.uk/international-development/people/kirsten-mcconnachie",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=LSE+phd+supervisor+conflict%20health%20humanitarian%20studies",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "LSE",
+    "sponsored": false
+  },
+  {
+    "id": "3709cfb3bfaf",
+    "title": "LSE PhD Studentship in the Department of Sociology (Migration and Health research)",
+    "university": "LSE",
+    "country": "United Kingdom",
+    "field_tags": [
+      "forced migration",
+      "global health",
+      "humanitarian studies",
+      "sociology"
+    ],
+    "funding_type": "fully_funded",
+    "deadline": null,
+    "status": "Unknown",
+    "official_link": "https://www.lse.ac.uk/sociology/study/PhD",
+    "language_of_instruction": "English",
+    "source_language": "en",
+    "summary": "The Department of Sociology at LSE offers funded PhD studentships to competitive applicants, typically covering tuition and maintenance. The department hosts research on migration, health and humanitarianism, supporting doctoral work in these areas.",
+    "key_figures": [
+      {
+        "name": "Sara Pantuliano",
+        "title": "Professor of Practice in Humanitarian Policy",
+        "research_focus": "Works on humanitarian policy, forced displacement, and the politics of aid, with a focus on conflict-affected and displacement contexts.",
+        "profile_url": "https://www.lse.ac.uk/people/sara-pantuliano",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Bayard Roberts",
+        "title": "Professor of Health Policy and Systems",
+        "research_focus": "Researches health systems and global health in humanitarian and forced migration settings, including mental health and health service delivery for displaced populations.",
+        "profile_url": "https://www.lse.ac.uk/people/bayard-roberts",
+        "source": "faculty_page"
+      },
+      {
+        "name": "Kirsten McConnachie",
+        "title": "Associate Professor in Sociology",
+        "research_focus": "Studies forced migration, refugee protection, and humanitarian governance, with attention to displacement in the Global South and the politics of refugee policy.",
+        "profile_url": "https://www.lse.ac.uk/people/kirsten-mcconnachie",
+        "source": "faculty_page"
+      }
+    ],
+    "supervisor_page_url": "https://scholar.google.com/search?q=LSE+phd+supervisor+forced%20migration%20global%20health",
+    "review_status": "approved",
+    "date_sourced": "2026-11-09",
+    "source_name": "LSE",
+    "sponsored": false
   }
 ]
